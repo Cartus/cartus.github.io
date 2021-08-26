@@ -13,6 +13,13 @@ I am most interested in structures (tree, graph, etc.) from text. How to predict
 ## Publications
 
 <sup>*</sup> denotes equal contribution.
+- **A Survey on Automated Fact-Checking**
+
+  **Zhijiang Guo<sup>*</sup>**, Michael Schlichtkrull<sup>*</sup>, Andreas Vlachos
+  
+  *Arxiv preprint*
+  
+  [[Code]](https://github.com/Cartus/Automated-Fact-Checking-Resources)
 - **FEVEROUS: Fact Extraction and VERification Over Unstructured and Structured information**
 
   Rami Aly, **Zhijiang Guo**, Michael Schlichtkrull, James Thorne, Andreas Vlachos, Christos Christodoulopoulos, Oana Cocarascu, Arpit Mittal
