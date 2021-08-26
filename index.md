@@ -20,6 +20,12 @@ I am most interested in structures (tree, graph, etc.) from text. How to predict
   *Arxiv preprint*
   
   [[Paper]](https://arxiv.org/abs/2106.05707) [[Code]](https://github.com/Raldir/FEVEROUS) [[Website]](https://fever.ai/) [[Dataset]](https://fever.ai/resources.html)
+  
+- **Uncovering Main Causalities for Long-tailed Information Extraction**
+
+  Guoshun Nan, Jiaqi Zeng, Rui Qiao, **Zhijiang Guo<sup>*</sup>**, Wei Lu
+  
+  **EMNLP 2021**, *Long paper*
  
 - **Learning with Graphs in Natural LanguageProcessing**
   
