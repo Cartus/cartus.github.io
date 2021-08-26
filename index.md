@@ -23,7 +23,7 @@ I am most interested in structures (tree, graph, etc.) from text. How to predict
   
 - **Uncovering Main Causalities for Long-tailed Information Extraction**
 
-  Guoshun Nan, Jiaqi Zeng, Rui Qiao, **Zhijiang Guo<sup>*</sup>**, Wei Lu
+  Guoshun Nan, Jiaqi Zeng, Rui Qiao, **Zhijiang Guo**, Wei Lu
   
   **EMNLP 2021**, *Long paper*
  
