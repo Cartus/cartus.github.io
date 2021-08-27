@@ -19,7 +19,7 @@ I am most interested in structures (tree, graph, etc.) from text. How to predict
   
   *Arxiv preprint*
   
-  [[Code]](https://github.com/Cartus/Automated-Fact-Checking-Resources)
+  [[Paper]](https://arxiv.org/pdf/2108.11896.pdf) [[Code]](https://github.com/Cartus/Automated-Fact-Checking-Resources)
 - **FEVEROUS: Fact Extraction and VERification Over Unstructured and Structured information**
 
   Rami Aly, **Zhijiang Guo**, Michael Schlichtkrull, James Thorne, Andreas Vlachos, Christos Christodoulopoulos, Oana Cocarascu, Arpit Mittal
