@@ -33,8 +33,10 @@ I am most interested in structures (tree, graph, etc.) from text. How to predict
   Guoshun Nan, Jiaqi Zeng, Rui Qiao, **Zhijiang Guo**, Wei Lu
   
   **EMNLP 2021**, *Long paper*
+  
+   [[Paper]](https://arxiv.org/pdf/2109.05213.pdf) [[Code]](https://github.com/HeyyyyyyG/CFIE)
  
-- **Learning with Graphs in Natural LanguageProcessing**
+- **Learning with Graphs in Natural Language Processing**
   
   **Zhijiang Guo**
   
