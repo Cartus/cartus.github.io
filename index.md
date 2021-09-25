@@ -24,7 +24,7 @@ I am most interested in structures (tree, graph, etc.) from text. How to predict
 
   Rami Aly, **Zhijiang Guo**, Michael Schlichtkrull, James Thorne, Andreas Vlachos, Christos Christodoulopoulos, Oana Cocarascu, Arpit Mittal
   
-  *Arxiv preprint*
+  **NeurIPS 2021**
   
   [[Paper]](https://arxiv.org/abs/2106.05707) [[Code]](https://github.com/Raldir/FEVEROUS) [[Website]](https://fever.ai/) [[Dataset]](https://fever.ai/resources.html)
   
@@ -32,7 +32,7 @@ I am most interested in structures (tree, graph, etc.) from text. How to predict
 
   Guoshun Nan, Jiaqi Zeng, Rui Qiao, **Zhijiang Guo**, Wei Lu
   
-  **EMNLP 2021**, *Long paper*
+  **EMNLP 2021**, *Long paper (Oral)*
   
    [[Paper]](https://arxiv.org/pdf/2109.05213.pdf) [[Code]](https://github.com/HeyyyyyyG/CFIE)
  
@@ -107,9 +107,9 @@ I am most interested in structures (tree, graph, etc.) from text. How to predict
   BSc in Management & Liberal Arts
     
 
-## Program committee/reviewer
+## SPC/PC/Reviewer
 
 - **Conference**: ACL/EMNLP/NAACL/Neurips/COLING/EACL/AAAI/IJCAI/ACML
-- **Journal**: TALLIP/Neural Computing/Natural Language Engineering/Database/Machine Learning/AI Communications
+- **Journal**: TALLIP/TASLP/Neural Computing/Natural Language Engineering/Database/Machine Learning/AI Communications
     
 
