@@ -8,6 +8,8 @@ Hi! I am a Research Associate at University of Cambridge, working with Prof. [An
 
 I am most interested in structures (tree, graph, etc.) from text. How to predict the structures and apply them to different NLP tasks. Currently, I am working on automated fact-checking.
 
+Feel free to contact me if your research lies within these or related areas!
+
 [[Github]](https://github.com/Cartus) [[Linkedin]](https://www.linkedin.com/in/zhijiang-guo-aa032837/) [[Google Scholoar]](https://scholar.google.com/citations?hl=zh-CN&user=8b-u3icAAAAJ)
 
 ## Publications
@@ -17,7 +19,7 @@ I am most interested in structures (tree, graph, etc.) from text. How to predict
 
   **Zhijiang Guo<sup>*</sup>**, Michael Schlichtkrull<sup>*</sup>, Andreas Vlachos
   
-  *Arxiv preprint*
+  **TACL 2021**
   
   [[Paper]](https://arxiv.org/pdf/2108.11896.pdf) [[Code]](https://github.com/Cartus/Automated-Fact-Checking-Resources)
 - **FEVEROUS: Fact Extraction and VERification Over Unstructured and Structured information**
@@ -35,14 +37,6 @@ I am most interested in structures (tree, graph, etc.) from text. How to predict
   **EMNLP 2021**, *Long paper (Oral)*
   
    [[Paper]](https://arxiv.org/pdf/2109.05213.pdf) [[Code]](https://github.com/HeyyyyyyG/CFIE)
- 
-- **Learning with Graphs in Natural Language Processing**
-  
-  **Zhijiang Guo**
-  
-  *PhD Thesis*
-  
-  [[Paper]](./docs/thesis.pdf) [[Slides]](./docs/thesis_slides.pdf)
   
 - **Lightweight, Dynamic Graph Convolutional Networks for AMR-to-Text Generation**
 
@@ -92,6 +86,17 @@ I am most interested in structures (tree, graph, etc.) from text. How to predict
   
   [[Paper]](https://www.aclweb.org/anthology/D18-1198.pdf) [[Code]](https://github.com/Cartus/AMR-Parser) [[Poster]](./docs/poster.pptx)
   
+
+## Thesis
+- **Learning with Graphs in Natural Language Processing**
+  
+  **Zhijiang Guo**
+  
+  *PhD Thesis*
+  
+  [[Paper]](./docs/thesis.pdf) [[Slides]](./docs/thesis_slides.pdf)
+  
+  
 ## Education
   
 - **The University of Edinburgh**, 2019-2020
@@ -109,7 +114,7 @@ I am most interested in structures (tree, graph, etc.) from text. How to predict
 
 ## SPC/PC/Reviewer
 
-- **Conference**: ACL/EMNLP/NAACL/Neurips/COLING/EACL/AAAI/IJCAI/ACML
-- **Journal**: TALLIP/TASLP/Neural Computing/Natural Language Engineering/Database/Machine Learning/AI Communications
+- **Conference**: ACL/EMNLP/NAACL/NeurIPS/COLING/EACL/AAAI/IJCAI/ACML
+- **Journal**: TALLIP/TASLP/TOIS/Neural Computing/Natural Language Engineering/Database/Machine Learning/AI Communications
     
 
