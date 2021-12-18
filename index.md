@@ -42,7 +42,7 @@ I am most interested in structures (tree, graph, etc.) from text. How to predict
 
   Yan Zhang<sup>*</sup>, **Zhijiang Guo<sup>*</sup>**, Zhiyang Teng, Wei Lu, Shay B. Cohen, Zuozhu Liu, Lidong Bing
   
-  **EMNLP 2020**, *Long paper*
+  **EMNLP 2020**, *Long paper (Oral)*
   
   [[Paper]](https://arxiv.org/pdf/2010.04383.pdf) [[Code]](https://github.com/yanzhang92/LDGCNs) [[Video]](https://slideslive.com/38939199/lightweight-dynamic-graph-convolutional-networks-for-amrtotext-generation)  [[Slides]](./docs/LDGCN.pdf)
 
@@ -50,9 +50,9 @@ I am most interested in structures (tree, graph, etc.) from text. How to predict
 
   **Zhijiang Guo<sup>*</sup>**, Guoshun Nan<sup>*</sup>, Wei Lu, Shay B. Cohen
   
-  **IJCAI 2020**, *Long paper*
+  **IJCAI 2020**, *Long paper (Oral)*
   
-  [[Paper]](https://www.ijcai.org/Proceedings/2020/0505.pdf) [[Code]](https://github.com/Cartus/Latent-Forests) [[Slides]](./docs/IJCAI2020.pdf) [[PPT]](./docs/IJCAI2020.pptx) [[Poster]](./docs/IJCAI2020_poster.pdf)
+  [[Paper]](https://www.ijcai.org/Proceedings/2020/0505.pdf) [[Code]](https://github.com/Cartus/Latent-Forests) [[Video]](https://www.ijcai.org/proceedings/2020/video/26651) [[Slides]](./docs/IJCAI2020.pdf) [[PPT]](./docs/IJCAI2020.pptx) [[Poster]](./docs/IJCAI2020_poster.pdf)
 
 - **Reasoning with Latent Structure Refinement for Document-Level Relation Extraction**
 
