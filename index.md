@@ -114,7 +114,7 @@ I am most interested in structures (tree, graph, etc.) from text. How to predict
 
 ## SPC/PC/Reviewer
 
-- **Conference**: ACL/EMNLP/NAACL/NeurIPS/COLING/EACL/AAAI/IJCAI/ACML
+- **Conference**: ACL/EMNLP/NAACL/NeurIPS/COLING/EACL/AAAI/IJCAI/AKBC/ACML
 - **Journal**: TALLIP/TASLP/TOIS/Neural Computing/Natural Language Engineering/Database/Machine Learning/AI Communications
     
 
