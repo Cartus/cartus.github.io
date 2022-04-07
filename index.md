@@ -20,7 +20,7 @@ I am most interested in structures (tree, graph, etc.) from text. How to predict
 
 - **CHEF: A Pilot Chinese Dataset for Evidence-Based Fact-Checking**
 
-  Xuming Hu<sup>*</sup>, **Zhijiang Guo<sup>*</sup>**, GuanYu Wu, Aiwei Liu, Lijie Wen, Philip S. Yu
+  Xuming Hu<sup>*</sup>, **Zhijiang Guo<sup>*</sup>**, Guanyu Wu, Aiwei Liu, Lijie Wen, Philip S. Yu
   
   **NAACL 2022**
 
