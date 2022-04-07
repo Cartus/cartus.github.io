@@ -17,6 +17,13 @@ I am most interested in structures (tree, graph, etc.) from text. How to predict
 ## Publications
 
 <sup>*</sup> denotes equal contribution.
+
+- **CHEF: A Pilot Chinese Dataset for Evidence-Based Fact-Checking**
+
+  Xuming Hu<sup>*</sup>, **Zhijiang Guo<sup>*</sup>**, GuanYu Wu, Aiwei Liu, Lijie Wen, Philip S. Yu
+  
+  **NAACL 2022**
+
 - **A Survey on Automated Fact-Checking**
 
   **Zhijiang Guo<sup>*</sup>**, Michael Schlichtkrull<sup>*</sup>, Andreas Vlachos
