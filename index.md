@@ -28,14 +28,14 @@ I am most interested in structures (tree, graph, etc.) from text. How to predict
 
   **Zhijiang Guo<sup>*</sup>**, Michael Schlichtkrull<sup>*</sup>, Andreas Vlachos
   
-  **TACL 2021**
+  **TACL 2021**, *Poster at ACL 2022*
   
   [[Paper]](https://arxiv.org/pdf/2108.11896.pdf) [[Code]](https://github.com/Cartus/Automated-Fact-Checking-Resources) [[Slides]](./docs/tacl_slides.pdf) [[Poster]](./docs/tacl_poster.pdf) [[Video]](https://drive.google.com/file/d/17KA4I7pNzitomH39TW0u-DnmF28Bx6_B/view?usp=sharing)
 - **FEVEROUS: Fact Extraction and VERification Over Unstructured and Structured information**
 
   Rami Aly, **Zhijiang Guo**, Michael Schlichtkrull, James Thorne, Andreas Vlachos, Christos Christodoulopoulos, Oana Cocarascu, Arpit Mittal
   
-  **NeurIPS 2021**
+  **NeurIPS 2021** *Long paper*
   
   [[Paper]](https://arxiv.org/abs/2106.05707) [[Code]](https://github.com/Raldir/FEVEROUS) [[Website]](https://fever.ai/) [[Dataset]](https://fever.ai/resources.html)
   
