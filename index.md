@@ -35,7 +35,7 @@ I am most interested in structures (tree, graph, etc.) from text. How to predict
 
   Rami Aly, **Zhijiang Guo**, Michael Schlichtkrull, James Thorne, Andreas Vlachos, Christos Christodoulopoulos, Oana Cocarascu, Arpit Mittal
   
-  **NeurIPS 2021** *Long paper*
+  **NeurIPS 2021**, *Long paper*
   
   [[Paper]](https://arxiv.org/abs/2106.05707) [[Code]](https://github.com/Raldir/FEVEROUS) [[Website]](https://fever.ai/) [[Dataset]](https://fever.ai/resources.html)
   
