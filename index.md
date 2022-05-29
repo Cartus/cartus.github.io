@@ -30,7 +30,7 @@ I am most interested in structures (tree, graph, etc.) from text. How to predict
   
   **TACL 2021**
   
-  [[Paper]](https://arxiv.org/pdf/2108.11896.pdf) [[Code]](https://github.com/Cartus/Automated-Fact-Checking-Resources) [[Slides]](./docs/tacl_slides.pdf) [[Poster]](./docs/tacl_poster.pdf) [[Video]](./docs/tacl_video.pdf)
+  [[Paper]](https://arxiv.org/pdf/2108.11896.pdf) [[Code]](https://github.com/Cartus/Automated-Fact-Checking-Resources) [[Slides]](./docs/tacl_slides.pdf) [[Poster]](./docs/tacl_poster.pdf) [[Video]](./docs/tacl_video.mp4)
 - **FEVEROUS: Fact Extraction and VERification Over Unstructured and Structured information**
 
   Rami Aly, **Zhijiang Guo**, Michael Schlichtkrull, James Thorne, Andreas Vlachos, Christos Christodoulopoulos, Oana Cocarascu, Arpit Mittal
