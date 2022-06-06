@@ -22,7 +22,7 @@ I am most interested in structures (tree, graph, etc.) from text. How to predict
 
   Xuming Hu<sup>*</sup>, **Zhijiang Guo<sup>*</sup>**, Guanyu Wu, Aiwei Liu, Lijie Wen, Philip S. Yu
   
-  **NAACL 2022**
+  **NAACL 2022**, *Long paper (Oral)*
 
 - **A Survey on Automated Fact-Checking**
 
