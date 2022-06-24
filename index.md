@@ -23,6 +23,8 @@ I am most interested in structures (tree, graph, etc.) from text. How to predict
   Xuming Hu<sup>*</sup>, **Zhijiang Guo<sup>*</sup>**, Guanyu Wu, Aiwei Liu, Lijie Wen, Philip S. Yu
   
   **NAACL 2022**, *Long paper (Oral)*
+  
+  [[Paper]](https://arxiv.org/pdf/2206.11863.pdf) [[Code]](https://github.com/THU-BPM/CHEF) [[Dataset]](https://drive.google.com/file/d/1QKe9i-yXDKh87p4ukRFSnzE03-hAzMto/view) [[Slides]](./docs/chef_slides.pdf)
 
 - **A Survey on Automated Fact-Checking**
 
