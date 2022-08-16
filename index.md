@@ -25,6 +25,12 @@ I am most interested in structures (tree, graph, etc.) from text. How to predict
   **NAACL 2022**, *Long paper (Oral)*
   
   [[Paper]](https://arxiv.org/pdf/2206.11863.pdf) [[Code]](https://github.com/THU-BPM/CHEF) [[Dataset]](https://drive.google.com/file/d/1QKe9i-yXDKh87p4ukRFSnzE03-hAzMto/view) [[Slides]](./docs/chef_slides.pdf)
+  
+- **Scene Graph Modification as Incremental Structure Expanding**
+
+  Xuming Hu<sup>*</sup>, **Zhijiang Guo<sup>*</sup>**, Yu Fu, Lijie Wen, Philip S. Yu
+  
+  **COLING 2022**, *Long paper (Poster)*
 
 - **A Survey on Automated Fact-Checking**
 
@@ -123,9 +129,11 @@ I am most interested in structures (tree, graph, etc.) from text. How to predict
   BSc in Management & Liberal Arts
     
 
-## SPC/PC/Reviewer
+## Academic Services
 
-- **Conference**: ACL/EMNLP/NAACL/NeurIPS/COLING/EACL/AAAI/IJCAI/AKBC/ACML
+- **Area Chair**: EMNLP 2022
+- **Senior Program Committee**: AAAI2023, IJCAI 2021
+- **Program Committee**: ACL/EMNLP/NAACL/NeurIPS/ICLR/COLING/EACL/AAAI/IJCAI/AKBC/ACML
 - **Journal**: TALLIP/TASLP/TOIS/Neural Computing/Natural Language Engineering/Database/Machine Learning/AI Communications
     
 
