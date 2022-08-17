@@ -18,6 +18,14 @@ I am most interested in structures (tree, graph, etc.) from text. How to predict
 
 <sup>*</sup> denotes equal contribution.
 
+- **A Survey on Automated Fact-Checking**
+
+  **Zhijiang Guo<sup>*</sup>**, Michael Schlichtkrull<sup>*</sup>, Andreas Vlachos
+  
+  **TACL 2021**, *Poster at ACL 2022*
+  
+  [[Paper]](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00454/109469/A-Survey-on-Automated-Fact-Checking) [[Code]](https://github.com/Cartus/Automated-Fact-Checking-Resources) [[Slides]](./docs/tacl_slides.pdf) [[Poster]](./docs/tacl_poster.pdf) [[Video]](https://drive.google.com/file/d/17KA4I7pNzitomH39TW0u-DnmF28Bx6_B/view?usp=sharing)
+
 - **CHEF: A Pilot Chinese Dataset for Evidence-Based Fact-Checking**
 
   Xuming Hu<sup>*</sup>, **Zhijiang Guo<sup>*</sup>**, Guanyu Wu, Aiwei Liu, Lijie Wen, Philip S. Yu
@@ -32,13 +40,6 @@ I am most interested in structures (tree, graph, etc.) from text. How to predict
   
   **COLING 2022**, *Long paper (Poster)*
 
-- **A Survey on Automated Fact-Checking**
-
-  **Zhijiang Guo<sup>*</sup>**, Michael Schlichtkrull<sup>*</sup>, Andreas Vlachos
-  
-  **TACL 2021**, *Poster at ACL 2022*
-  
-  [[Paper]](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00454/109469/A-Survey-on-Automated-Fact-Checking) [[Code]](https://github.com/Cartus/Automated-Fact-Checking-Resources) [[Slides]](./docs/tacl_slides.pdf) [[Poster]](./docs/tacl_poster.pdf) [[Video]](https://drive.google.com/file/d/17KA4I7pNzitomH39TW0u-DnmF28Bx6_B/view?usp=sharing)
 - **FEVEROUS: Fact Extraction and VERification Over Unstructured and Structured information**
 
   Rami Aly, **Zhijiang Guo**, Michael Schlichtkrull, James Thorne, Andreas Vlachos, Christos Christodoulopoulos, Oana Cocarascu, Arpit Mittal
