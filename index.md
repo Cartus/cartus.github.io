@@ -34,6 +34,14 @@ I am most interested in structures (tree, graph, etc.) from text. How to predict
   
   [[Paper]](https://arxiv.org/pdf/2206.11863.pdf) [[Code]](https://github.com/THU-BPM/CHEF) [[Dataset]](https://drive.google.com/file/d/1QKe9i-yXDKh87p4ukRFSnzE03-hAzMto/view) [[Slides]](./docs/chef_slides.pdf)
   
+- **METS-CoV: A Dataset of Medical Entity and Targeted Sentiment on COVID-19 Related Tweets**
+
+  Peilin Zhou, Zeqiang Wang, Dading Chong, **Zhijiang Guo<sup>*</sup>**, Yining Hua, Zichang Su, Zhiyang Teng, Jiageng Wu, Jie Yang
+  
+  **NeurIPS 2022**, *Long paper*
+  
+  [[Paper]](https://openreview.net/pdf?id=GP1Ncd8nTgn) [[Code]](https://github.com/YLab-Open/METS-CoV) [[Dataset]](https://github.com/YLab-Open/METS-CoV)
+  
 - **Scene Graph Modification as Incremental Structure Expanding**
 
   Xuming Hu<sup>*</sup>, **Zhijiang Guo<sup>*</sup>**, Yu Fu, Lijie Wen, Philip S. Yu
@@ -133,8 +141,8 @@ I am most interested in structures (tree, graph, etc.) from text. How to predict
 ## Academic Services
 
 - **Area Chair**: EMNLP 2022
-- **Senior Program Committee**: AAAI2023, IJCAI 2021
-- **Program Committee**: ACL/EMNLP/NAACL/NeurIPS/ICLR/COLING/EACL/AAAI/IJCAI/AKBC/ACML
+- **Senior Program Committee**: AAAI 2023, IJCAI 2021
+- **Program Committee**: ACL ARR/ACL/EMNLP/NAACL/NeurIPS/ICLR/COLING/EACL/AAAI/IJCAI/AKBC/ACML
 - **Journal**: TALLIP/TASLP/TOIS/Neural Computing/Natural Language Engineering/Database/Machine Learning/AI Communications
     
 
