@@ -46,7 +46,9 @@ I am most interested in structures (tree, graph, etc.) from text. How to predict
 
   Xuming Hu<sup>*</sup>, **Zhijiang Guo<sup>*</sup>**, Yu Fu, Lijie Wen, Philip S. Yu
   
-  **COLING 2022**, *Long paper (Poster)*
+  **COLING 2022**, *Long paper*
+  
+  [[Paper]](https://arxiv.org/pdf/2209.09093.pdf) [[Code]](https://github.com/THU-BPM/SGM) [[Dataset]](https://github.com/THU-BPM/SGM)
 
 - **FEVEROUS: Fact Extraction and VERification Over Unstructured and Structured information**
 
@@ -135,7 +137,6 @@ I am most interested in structures (tree, graph, etc.) from text. How to predict
   
 - **Sun Yat-sen University**, 2010-2014
     
-  BSc in Management & Liberal Arts
     
 
 ## Academic Services
