@@ -56,7 +56,7 @@ I am most interested in structures (tree, graph, etc.) from text. How to predict
   
   **NeurIPS 2021**, *Long paper (Dataset and benchmark)*
   
-  [[Paper]](https://arxiv.org/abs/2106.05707) [[Code]](https://github.com/Raldir/FEVEROUS) [[Website]](https://fever.ai/) [[Dataset]](https://fever.ai/resources.html)
+  [[Paper]](https://arxiv.org/abs/2106.05707) [[Code]](https://github.com/Raldir/FEVEROUS) [[Website]](https://fever.ai/) [[Dataset]](https://fever.ai/resources.html) [[Talk]](https://slideslive.com/38969445/feverous-fact-extraction-and-verification-over-unstructured-and-structured-information?ref=speaker-36627)
   
 - **Uncovering Main Causalities for Long-tailed Information Extraction**
 
@@ -64,7 +64,7 @@ I am most interested in structures (tree, graph, etc.) from text. How to predict
   
   **EMNLP 2021**, *Long paper (Oral)*
   
-   [[Paper]](https://arxiv.org/pdf/2109.05213.pdf) [[Code]](https://github.com/HeyyyyyyG/CFIE)
+   [[Paper]](https://arxiv.org/pdf/2109.05213.pdf) [[Code]](https://github.com/HeyyyyyyG/CFIE) [[Talk]](https://aclanthology.org/2021.emnlp-main.763.mp4)
   
 - **Lightweight, Dynamic Graph Convolutional Networks for AMR-to-Text Generation**
 
@@ -72,7 +72,7 @@ I am most interested in structures (tree, graph, etc.) from text. How to predict
   
   **EMNLP 2020**, *Long paper (Oral)*
   
-  [[Paper]](https://arxiv.org/pdf/2010.04383.pdf) [[Code]](https://github.com/yanzhang92/LDGCNs) [[Video]](https://slideslive.com/38939199/lightweight-dynamic-graph-convolutional-networks-for-amrtotext-generation)  [[Slides]](./docs/LDGCN.pdf)
+  [[Paper]](https://arxiv.org/pdf/2010.04383.pdf) [[Code]](https://github.com/yanzhang92/LDGCNs) [[Talk]](https://slideslive.com/38939199/lightweight-dynamic-graph-convolutional-networks-for-amrtotext-generation)  [[Slides]](./docs/LDGCN.pdf)
 
 - **Learning Latent Forests for Medical Relation Extraction**
 
@@ -80,7 +80,7 @@ I am most interested in structures (tree, graph, etc.) from text. How to predict
   
   **IJCAI 2020**, *Long paper (Oral)*
   
-  [[Paper]](https://www.ijcai.org/Proceedings/2020/0505.pdf) [[Code]](https://github.com/Cartus/Latent-Forests) [[Video]](https://www.ijcai.org/proceedings/2020/video/26651) [[Slides]](./docs/IJCAI2020.pdf) [[PPT]](./docs/IJCAI2020.pptx) [[Poster]](./docs/IJCAI2020_poster.pdf)
+  [[Paper]](https://www.ijcai.org/Proceedings/2020/0505.pdf) [[Code]](https://github.com/Cartus/Latent-Forests) [[Talk]](https://www.ijcai.org/proceedings/2020/video/26651) [[Slides]](./docs/IJCAI2020.pdf) [[PPT]](./docs/IJCAI2020.pptx) [[Poster]](./docs/IJCAI2020_poster.pdf)
 
 - **Reasoning with Latent Structure Refinement for Document-Level Relation Extraction**
 
@@ -88,7 +88,7 @@ I am most interested in structures (tree, graph, etc.) from text. How to predict
   
   **ACL 2020**, *Long paper (Oral)*
   
-  [[Paper]](https://arxiv.org/pdf/2005.06312.pdf) [[Code]](https://github.com/nanguoshun/LSR) [[Video]](https://slideslive.com/38929374/reasoning-with-latent-structure-refinement-for-documentlevel-relation-extraction)  [[Slides]](./docs/LSR.pdf)
+  [[Paper]](https://arxiv.org/pdf/2005.06312.pdf) [[Code]](https://github.com/nanguoshun/LSR) [[Talk]](https://slideslive.com/38929374/reasoning-with-latent-structure-refinement-for-documentlevel-relation-extraction)  [[Slides]](./docs/LSR.pdf)
   
 - **Densely Connected Graph Convolutional Networks for Graph-to-Sequence Learning**
 
@@ -96,7 +96,7 @@ I am most interested in structures (tree, graph, etc.) from text. How to predict
   
   **TACL 2019**, *Oral at ACL 2019*
   
-  [[Paper]](https://arxiv.org/pdf/1908.05957.pdf) [[Code]](https://github.com/Cartus/DCGCN) [[Video]](https://vimeo.com/385210377) [[Slides]](./docs/DCGCN.pdf)
+  [[Paper]](https://arxiv.org/pdf/1908.05957.pdf) [[Code]](https://github.com/Cartus/DCGCN) [[Talk]](https://vimeo.com/385210377) [[Slides]](./docs/DCGCN.pdf)
 
 - **Attention Guided Graph Convolutional Networks for Relation Extraction**
 
@@ -104,7 +104,7 @@ I am most interested in structures (tree, graph, etc.) from text. How to predict
   
   **ACL 2019**, *Long Paper (Oral)*
   
-   [[Paper]](https://www.aclweb.org/anthology/P19-1024.pdf) [[Code]](https://github.com/Cartus/AGGCN) [[Video]](https://vimeo.com/383992004) [[Slides]](./docs/AGGCN.pdf)
+   [[Paper]](https://www.aclweb.org/anthology/P19-1024.pdf) [[Code]](https://github.com/Cartus/AGGCN) [[Talk]](https://vimeo.com/383992004) [[Slides]](./docs/AGGCN.pdf)
 
 - **Better Transition-Based AMR Parsing with a Refined Search Space**
 
