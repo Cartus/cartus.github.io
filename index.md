@@ -38,7 +38,7 @@ I am most interested in structures (tree, graph, etc.) from text. How to predict
 
   Peilin Zhou, Zeqiang Wang, Dading Chong, **Zhijiang Guo<sup>*</sup>**, Yining Hua, Zichang Su, Zhiyang Teng, Jiageng Wu, Jie Yang
   
-  **NeurIPS 2022**, *Long paper*
+  **NeurIPS 2022**, *Long paper (Dataset and benchmark)*
   
   [[Paper]](https://openreview.net/pdf?id=GP1Ncd8nTgn) [[Code]](https://github.com/YLab-Open/METS-CoV) [[Dataset]](https://github.com/YLab-Open/METS-CoV)
   
@@ -54,7 +54,7 @@ I am most interested in structures (tree, graph, etc.) from text. How to predict
 
   Rami Aly, **Zhijiang Guo**, Michael Schlichtkrull, James Thorne, Andreas Vlachos, Christos Christodoulopoulos, Oana Cocarascu, Arpit Mittal
   
-  **NeurIPS 2021**, *Long paper*
+  **NeurIPS 2021**, *Long paper (Dataset and benchmark)*
   
   [[Paper]](https://arxiv.org/abs/2106.05707) [[Code]](https://github.com/Raldir/FEVEROUS) [[Website]](https://fever.ai/) [[Dataset]](https://fever.ai/resources.html)
   
