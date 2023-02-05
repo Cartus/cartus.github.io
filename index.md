@@ -4,13 +4,11 @@ layout: default
 
 
 ## About
-Hi! My name is Zhijiang Guo (郭志江). I am a Postdoc at the [Department of Computer Science and Technology](https://www.cst.cam.ac.uk/) at the University of Cambridge, working with Prof. [Andreas Vlachos](https://andreasvlachos.github.io//). I am also a member of the [Trinity College](https://www.trin.cam.ac.uk/).
+Hi! My name is Zhijiang Guo (郭志江). I am a Senior Research Scientist at Huawei Noah's Ark Lab. Before that, I was a Postdoc at the [Department of Computer Science and Technology](https://www.cst.cam.ac.uk/) at the University of Cambridge, working with Prof. [Andreas Vlachos](https://andreasvlachos.github.io//). I am also a member of the [Trinity College](https://www.trin.cam.ac.uk/).
 
-Before that, I was in ILCC at the University of Edinburgh, working with Prof. [Shay Cohen](http://homepages.inf.ed.ac.uk/scohen/), Prof. [Giorgio Satta](http://www.dei.unipd.it/~satta/), Prof. [Frank Drewes](https://www.umu.se/en/staff/frank-drewes/) and Prof. [Johanna Björklund](https://www.umu.se/en/staff/johanna-bjorklund/) on AMR Parsing. I earned my PhD in Computer Science from SUTD, under the supervision of Prof. [Wei Lu](https://istd.sutd.edu.sg/people/faculty/lu-wei).  I also learn a lot from Dr. [Zhiyang Teng](http://zeeeyang.github.io/). 
+I earned my PhD in Computer Science from SUTD in 2020, under the supervision of Prof. [Wei Lu](https://istd.sutd.edu.sg/people/faculty/lu-wei). I was a visting student in ILCC at the University of Edinburgh from 2019-2020, working with Prof. [Shay Cohen](http://homepages.inf.ed.ac.uk/scohen/), Prof. [Giorgio Satta](http://www.dei.unipd.it/~satta/), Prof. [Frank Drewes](https://www.umu.se/en/staff/frank-drewes/) and Prof. [Johanna Björklund](https://www.umu.se/en/staff/johanna-bjorklund/) on AMR Parsing.  I also learn a lot from Dr. [Zhiyang Teng](http://zeeeyang.github.io/). 
 
-I am most interested in structures (tree, graph, etc.) from text. How to predict the structures and apply them to different NLP tasks. Currently, I am working on automated fact-checking.
-
-**Feel free to contact me if your research lies within these or related areas!**
+**I am looking for research interns to work with me on reasoning with large language models, drop me an email if you are interested.**
 
 [[Github]](https://github.com/Cartus) [[Linkedin]](https://www.linkedin.com/in/zhijiang-guo-aa032837/) [[Google Scholoar]](https://scholar.google.com/citations?hl=zh-CN&user=8b-u3icAAAAJ) [[Twitter]](https://twitter.com/ZhijiangG)
 
