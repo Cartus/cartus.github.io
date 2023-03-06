@@ -125,6 +125,21 @@ Email: cartusguo AT gmail.com
   [[Paper]](./docs/thesis.pdf) [[Slides]](./docs/thesis_slides.pdf)
   
   
+
+
+## Academic Services
+
+- **Area Chair**: EMNLP 2022
+- **Senior Program Committee**: AAAI 2023, IJCAI 2021
+- **Program Committee**: ACL ARR/ACL/EMNLP/NAACL/NeurIPS/ICLR/COLING/EACL/AAAI/IJCAI/AKBC/ACML
+- **Journal**: TALLIP/TASLP/TOIS/Neural Computing/Natural Language Engineering/Database/Machine Learning/AI Communications
+    
+## Workshops Organization
+
+- **EMNLP 2021 Workshop**: The Fourth Fact Extraction and VERification (FEVER) 
+- **ACL 2022 Workshop**: The Fifth Fact Extraction and VERification (FEVER) 
+- **EACL 2023 Workshop**: The Sixth Fact Extraction and VERification (FEVER) 
+
 ## Education
   
 - **The University of Edinburgh**, 2019-2020
@@ -137,13 +152,3 @@ Email: cartusguo AT gmail.com
   
 - **Sun Yat-sen University**, 2010-2014
     
-    
-
-## Academic Services
-
-- **Area Chair**: EMNLP 2022
-- **Senior Program Committee**: AAAI 2023, IJCAI 2021
-- **Program Committee**: ACL ARR/ACL/EMNLP/NAACL/NeurIPS/ICLR/COLING/EACL/AAAI/IJCAI/AKBC/ACML
-- **Journal**: TALLIP/TASLP/TOIS/Neural Computing/Natural Language Engineering/Database/Machine Learning/AI Communications
-    
-
