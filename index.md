@@ -16,7 +16,13 @@ Email: cartusguo AT gmail.com
 
 ## Publications
 
-<sup>*</sup> denotes equal contribution.
+<sup>*</sup> denotes equal contribution, <sup>#</sup> denotes corresponding author.
+
+- **MR^2: A Benchmark for Multimodal Retrieval-Augmented Rumor Detection in Social Media**
+
+  Xuming Hu, **Zhijiang Guo#</sup>**, Junzhe Chen, Lijie Wen and Philip Yu
+  
+  **SIGIR 2023**
 
 - **A Survey on Automated Fact-Checking**
 
