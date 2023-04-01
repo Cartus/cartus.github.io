@@ -18,7 +18,7 @@ Email: cartusguo AT gmail.com
 
 <sup>*</sup> denotes equal contribution, <sup>#</sup> denotes corresponding author.
 
-- **MR^2: A Benchmark for Multimodal Retrieval-Augmented Rumor Detection in Social Media**
+- **$MR^2$: A Benchmark for Multimodal Retrieval-Augmented Rumor Detection in Social Media**
 
   Xuming Hu, **Zhijiang Guo<sup>#</sup>**, Junzhe Chen, Lijie Wen and Philip S. Yu
   
