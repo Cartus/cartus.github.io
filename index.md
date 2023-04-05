@@ -23,6 +23,12 @@ Email: cartusguo AT gmail.com
   Xuming Hu, **Zhijiang Guo<sup>#</sup>**, Junzhe Chen, Lijie Wen and Philip S. Yu
   
   **SIGIR 2023**
+  
+- **Read it Twice: Towards Faithfully Interpretable Fact Verification by Revisiting Evidence**
+
+  Xuming Hu, Zhaochen Hong, **Zhijiang Guo**, Lijie Wen and Philip S. Yu
+
+  **SIGIR 2023**  
 
 - **A Survey on Automated Fact-Checking**
 
