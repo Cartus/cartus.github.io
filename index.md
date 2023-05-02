@@ -18,6 +18,18 @@ Email: cartusguo AT gmail.com
 
 <sup>*</sup> denotes equal contribution, <sup>#</sup> denotes corresponding author.
 
+- **Give Me More Details: Improving Real-World Fact-checking with Source Documents**
+
+  Xuming Hu, **Zhijiang Guo<sup>*</sup>**, Guanyu Wu, Lijie Wen and Philip S. Yu
+  
+  **ACL 2023**
+  
+ - **Give Me More Details: Improving Real-World Fact-checking with Source Documents**
+
+  Xuming Hu, **Zhijiang Guo<sup>#</sup>**, Zhiyang Teng, Irwin King and Philip S. Yu
+  
+  **ACL 2023**
+
 - **$MR^2$: A Benchmark for Multimodal Retrieval-Augmented Rumor Detection in Social Media**
 
   Xuming Hu, **Zhijiang Guo<sup>#</sup>**, Junzhe Chen, Lijie Wen and Philip S. Yu
