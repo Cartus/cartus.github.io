@@ -24,7 +24,7 @@ Email: cartusguo AT gmail.com
   
   **ACL 2023**
   
- - **Give Me More Details: Improving Real-World Fact-checking with Source Documents**
+ - **Multimodal Relation Extraction with Cross-Modal Retrieval and Synthesis**
 
    Xuming Hu, **Zhijiang Guo<sup>#</sup>**, Zhiyang Teng, Irwin King and Philip S. Yu
   
