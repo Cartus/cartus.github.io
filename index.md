@@ -20,7 +20,7 @@ Email: cartusguo AT gmail.com
 
 - **Give Me More Details: Improving Real-World Fact-checking with Source Documents**
 
-  Xuming Hu, **Zhijiang Guo<sup>*</sup>**, Guanyu Wu, Lijie Wen and Philip S. Yu
+  Xuming Hu*, **Zhijiang Guo<sup>*</sup>**, Guanyu Wu, Lijie Wen and Philip S. Yu
   
   **ACL 2023**
   
