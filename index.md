@@ -40,13 +40,15 @@ Email: cartusguo AT gmail.com
 
   Xuming Hu, Zhaochen Hong, **Zhijiang Guo**, Lijie Wen and Philip S. Yu
 
-  **SIGIR 2023**  
+  **SIGIR 2023**
+  
+  [[Paper]](https://arxiv.org/pdf/2305.03507.pdf)
 
 - **A Survey on Automated Fact-Checking**
 
   **Zhijiang Guo<sup>*</sup>**, Michael Schlichtkrull<sup>*</sup>, Andreas Vlachos
   
-  **TACL 2022**, *Poster at ACL 2022*
+  **TACL 2022**
   
   [[Paper]](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00454/109469/A-Survey-on-Automated-Fact-Checking) [[Code]](https://github.com/Cartus/Automated-Fact-Checking-Resources) [[Slides]](./docs/tacl_slides.pdf) [[Poster]](./docs/tacl_poster.pdf) [[Video]](https://drive.google.com/file/d/17KA4I7pNzitomH39TW0u-DnmF28Bx6_B/view?usp=sharing)
 
@@ -54,7 +56,7 @@ Email: cartusguo AT gmail.com
 
   Xuming Hu<sup>*</sup>, **Zhijiang Guo<sup>*</sup>**, Guanyu Wu, Aiwei Liu, Lijie Wen, Philip S. Yu
   
-  **NAACL 2022**, *Long paper (Oral)*
+  **NAACL 2022** 
   
   [[Paper]](https://arxiv.org/pdf/2206.11863.pdf) [[Code]](https://github.com/THU-BPM/CHEF) [[Dataset]](https://drive.google.com/file/d/1QKe9i-yXDKh87p4ukRFSnzE03-hAzMto/view) [[Slides]](./docs/chef_slides.pdf)
   
@@ -62,7 +64,7 @@ Email: cartusguo AT gmail.com
 
   Peilin Zhou, Zeqiang Wang, Dading Chong, **Zhijiang Guo<sup>*</sup>**, Yining Hua, Zichang Su, Zhiyang Teng, Jiageng Wu, Jie Yang
   
-  **NeurIPS 2022**, *Long paper*
+  **NeurIPS 2022**
   
   [[Paper]](https://openreview.net/pdf?id=GP1Ncd8nTgn) [[Code]](https://github.com/YLab-Open/METS-CoV) [[Dataset]](https://github.com/YLab-Open/METS-CoV)
   
@@ -70,7 +72,7 @@ Email: cartusguo AT gmail.com
 
   Xuming Hu<sup>*</sup>, **Zhijiang Guo<sup>*</sup>**, Yu Fu, Lijie Wen, Philip S. Yu
   
-  **COLING 2022**, *Long paper*
+  **COLING 2022**
   
   [[Paper]](https://arxiv.org/pdf/2209.09093.pdf) [[Code]](https://github.com/THU-BPM/SGM) [[Dataset]](https://github.com/THU-BPM/SGM)
 
@@ -78,7 +80,7 @@ Email: cartusguo AT gmail.com
 
   Rami Aly, **Zhijiang Guo**, Michael Schlichtkrull, James Thorne, Andreas Vlachos, Christos Christodoulopoulos, Oana Cocarascu, Arpit Mittal
   
-  **NeurIPS 2021**, *Long paper*
+  **NeurIPS 2021**
   
   [[Paper]](https://arxiv.org/abs/2106.05707) [[Code]](https://github.com/Raldir/FEVEROUS) [[Website]](https://fever.ai/) [[Dataset]](https://fever.ai/resources.html) [[Talk]](https://slideslive.com/38969445/feverous-fact-extraction-and-verification-over-unstructured-and-structured-information?ref=speaker-36627)
   
@@ -86,7 +88,7 @@ Email: cartusguo AT gmail.com
 
   Guoshun Nan, Jiaqi Zeng, Rui Qiao, **Zhijiang Guo**, Wei Lu
   
-  **EMNLP 2021**, *Long paper (Oral)*
+  **EMNLP 2021**
   
    [[Paper]](https://arxiv.org/pdf/2109.05213.pdf) [[Code]](https://github.com/HeyyyyyyG/CFIE) [[Talk]](https://aclanthology.org/2021.emnlp-main.763.mp4)
   
@@ -94,7 +96,7 @@ Email: cartusguo AT gmail.com
 
   Yan Zhang<sup>*</sup>, **Zhijiang Guo<sup>*</sup>**, Zhiyang Teng, Wei Lu, Shay B. Cohen, Zuozhu Liu, Lidong Bing
   
-  **EMNLP 2020**, *Long paper (Oral)*
+  **EMNLP 2020**
   
   [[Paper]](https://arxiv.org/pdf/2010.04383.pdf) [[Code]](https://github.com/yanzhang92/LDGCNs) [[Talk]](https://slideslive.com/38939199/lightweight-dynamic-graph-convolutional-networks-for-amrtotext-generation)  [[Slides]](./docs/LDGCN.pdf)
 
@@ -102,7 +104,7 @@ Email: cartusguo AT gmail.com
 
   **Zhijiang Guo<sup>*</sup>**, Guoshun Nan<sup>*</sup>, Wei Lu, Shay B. Cohen
   
-  **IJCAI 2020**, *Long paper (Oral)*
+  **IJCAI 2020**
   
   [[Paper]](https://www.ijcai.org/Proceedings/2020/0505.pdf) [[Code]](https://github.com/Cartus/Latent-Forests) [[Talk]](https://www.ijcai.org/proceedings/2020/video/26651) [[Slides]](./docs/IJCAI2020.pdf) [[PPT]](./docs/IJCAI2020.pptx) [[Poster]](./docs/IJCAI2020_poster.pdf)
 
@@ -110,7 +112,7 @@ Email: cartusguo AT gmail.com
 
   Guoshun Nan<sup>*</sup>, **Zhijiang Guo<sup>*</sup>**, Ivan Sekulic, Wei Lu
   
-  **ACL 2020**, *Long paper (Oral)*
+  **ACL 2020**
   
   [[Paper]](https://arxiv.org/pdf/2005.06312.pdf) [[Code]](https://github.com/nanguoshun/LSR) [[Talk]](https://slideslive.com/38929374/reasoning-with-latent-structure-refinement-for-documentlevel-relation-extraction)  [[Slides]](./docs/LSR.pdf)
   
@@ -118,7 +120,7 @@ Email: cartusguo AT gmail.com
 
   **Zhijiang Guo<sup>*</sup>**, Yan Zhang<sup>*</sup>, Zhiyang Teng, Wei Lu
   
-  **TACL 2019**, *Oral at ACL 2019*
+  **TACL 2019**
   
   [[Paper]](https://arxiv.org/pdf/1908.05957.pdf) [[Code]](https://github.com/Cartus/DCGCN) [[Talk]](https://vimeo.com/385210377) [[Slides]](./docs/DCGCN.pdf)
 
@@ -126,7 +128,7 @@ Email: cartusguo AT gmail.com
 
   **Zhijiang Guo<sup>*</sup>**, Yan Zhang<sup>*</sup>, Wei Lu
   
-  **ACL 2019**, *Long Paper (Oral)*
+  **ACL 2019**
   
    [[Paper]](https://www.aclweb.org/anthology/P19-1024.pdf) [[Code]](https://github.com/Cartus/AGGCN) [[Talk]](https://vimeo.com/383992004) [[Slides]](./docs/AGGCN.pdf)
 
@@ -134,7 +136,7 @@ Email: cartusguo AT gmail.com
 
   **Zhijiang Guo**, Wei Lu
   
-  **EMNLP 2018**, *Long Paper (Poster)* 
+  **EMNLP 2018**
   
   [[Paper]](https://www.aclweb.org/anthology/D18-1198.pdf) [[Code]](https://github.com/Cartus/AMR-Parser) [[Poster]](./docs/poster.pptx)
   
@@ -155,8 +157,8 @@ Email: cartusguo AT gmail.com
 
 - **Area Chair**: EMNLP 2022
 - **Senior Program Committee**: AAAI 2023, IJCAI 2021
-- **Program Committee**: ACL ARR/ACL/EMNLP/NAACL/NeurIPS/ICLR/COLING/EACL/AAAI/IJCAI/AKBC/ACML
-- **Journal**: TALLIP/TASLP/TOIS/Neural Computing/Natural Language Engineering/Database/Machine Learning/AI Communications
+- **Program Committee**: ACL ARR/ACL/EMNLP/NAACL/EACL/COLING/NeurIPS/ICLR/AAAI/IJCAI
+- **Journal**: Machine Learning/Computational Linguistics/TKDE/TALLIP/TASLP/TOIS
     
 ## Workshops Organization
 
