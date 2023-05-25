@@ -18,9 +18,25 @@ Email: cartusguo AT gmail.com
 
 <sup>*</sup> denotes equal contribution, <sup>#</sup> denotes corresponding author.
 
+- **AVeriTeC: A Dataset for Real-world Claim Verification with Evidence from the Web**
+  
+  Michael Schlichtkrull<sup>*</sup>, **Zhijiang Guo<sup>*</sup>** and Andreas Vlachos
+  
+  **Preprint**
+  
+  [[Paper]](https://arxiv.org/pdf/2305.13117.pdf)
+
+- **Multimodal Automated Fact-Checking: A Survey**
+
+  Mubashara Akhtar, Michael Schlichtkrull, **Zhijiang Guo**, Oana Cocarascu, Elena Simperl and Andreas Vlachos
+  
+  **Preprint**
+  
+  [[Paper]](https://arxiv.org/pdf/2305.13507.pdf) [[Code]](https://github.com/Cartus/Automated-Fact-Checking-Resources) 
+
 - **Give Me More Details: Improving Real-World Fact-checking with Source Documents**
 
-  Xuming Hu*, **Zhijiang Guo<sup>*</sup>**, Guanyu Wu, Lijie Wen and Philip S. Yu
+  Xuming Hu<sup>*</sup>, **Zhijiang Guo<sup>*</sup>**, Guanyu Wu, Lijie Wen and Philip S. Yu
   
   **ACL 2023**
   
