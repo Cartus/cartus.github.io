@@ -40,11 +40,15 @@ Email: cartusguo AT gmail.com
   
   **ACL 2023**
   
+   [[Paper]](https://arxiv.org/pdf/2305.16128.pdf)
+  
  - **Multimodal Relation Extraction with Cross-Modal Retrieval and Synthesis**
 
    Xuming Hu, **Zhijiang Guo<sup>#</sup>**, Zhiyang Teng, Irwin King and Philip S. Yu
   
    **ACL 2023**
+   
+   [[Paper]](https://arxiv.org/pdf/2305.16166.pdf)
 
 - **$MR^2$: A Benchmark for Multimodal Retrieval-Augmented Rumor Detection in Social Media**
 
