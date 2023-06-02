@@ -178,7 +178,7 @@ Email: cartusguo AT gmail.com
 - **Area Chair**: EMNLP 2022
 - **Senior Program Committee**: AAAI 2023, IJCAI 2021
 - **Program Committee**: ACL ARR/ACL/EMNLP/NAACL/EACL/COLING/NeurIPS/ICLR/AAAI/IJCAI
-- **Journal**: Machine Learning/Computational Linguistics/TKDE/TALLIP/TASLP/TOIS
+- **Journal**: Machine Learning/Computational Linguistics/TACL/TKDE/TALLIP/TASLP/TOIS
     
 ## Workshops Organization
 
