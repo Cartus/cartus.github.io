@@ -14,6 +14,13 @@ Email: cartusguo AT gmail.com
 
 [[Github]](https://github.com/Cartus) [[Linkedin]](https://www.linkedin.com/in/zhijiang-guo-aa032837/) [[Google Scholoar]](https://scholar.google.com/citations?hl=zh-CN&user=8b-u3icAAAAJ) [[Twitter]](https://twitter.com/ZhijiangG)
 
+
+## News
+
+- 2022.6: Glad to serve as Area (AC) for EMNLP 2023
+- 2022.6: Glad to serve as Senior Program Committee (SPC) for AAAI 2024
+
+
 ## Publications
 
 <sup>*</sup> denotes equal contribution, <sup>#</sup> denotes corresponding author.
