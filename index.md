@@ -32,7 +32,15 @@ Email: cartusguo AT gmail.com
   
   **Preprint**
   
-  [[Paper]](https://arxiv.org/pdf/2305.13507.pdf) [[Code]](https://github.com/Cartus/Automated-Fact-Checking-Resources) 
+  [[Paper]](https://arxiv.org/pdf/2305.13507.pdf) [[Code]](https://github.com/Cartus/Automated-Fact-Checking-Resources)
+
+- **GRATIS: Deep Learning Graph Representation with Task-specific Topology and Multi-dimensional Edge Features**
+
+  Siyang Song, Yuxin Song, Cheng Luo, Zhiyuan Song, Selim Kuzucu, Xi Jia, **Zhijiang Guo**, Weicheng Xie, Linlin Shen, Hatice Gunes
+  
+  **Preprint**
+  
+  [[Paper]](https://arxiv.org/pdf/2211.12482.pdf) [[Code]](https://github.com/SSYSteve/Learning-Graph-Representation-with-Task-specific-Topology-and-Multi-dimensional-Edge-Features) 
 
 - **Give Me More Details: Improving Real-World Fact-checking with Source Documents**
 
