@@ -17,8 +17,8 @@ Email: cartusguo AT gmail.com
 
 ## News
 
-- [2022.06]: Glad to serve as Area (AC) for [EMNLP 2023](https://2023.emnlp.org/)
-- [2022.06]: Glad to serve as Senior Program Committee (SPC) for [AAAI 2024](https://aaai.org/aaai-conference/)
+- **2022.06**: Glad to serve as Area (AC) for [EMNLP 2023](https://2023.emnlp.org/)
+- **2022.06**: Glad to serve as Senior Program Committee (SPC) for [AAAI 2024](https://aaai.org/aaai-conference/)
 
 
 ## Publications
