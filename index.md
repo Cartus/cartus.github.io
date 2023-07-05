@@ -49,11 +49,11 @@ Email: cartusguo AT gmail.com
   
   [[Paper]](https://arxiv.org/pdf/2211.12482.pdf) [[Code]](https://github.com/SSYSteve/Learning-Graph-Representation-with-Task-specific-Topology-and-Multi-dimensional-Edge-Features) 
 
-- **Give Me More Details: Improving Real-World Fact-checking with Source Documents**
+- **Give Me More Details: Improving Real-World Fact-checking with Latent Retrieval**
 
   Xuming Hu<sup>*</sup>, **Zhijiang Guo<sup>*</sup>**, Guanyu Wu, Lijie Wen and Philip S. Yu
   
-  **ACL 2023**
+  **Preprint**
   
    [[Paper]](https://arxiv.org/pdf/2305.16128.pdf)
   
@@ -200,6 +200,18 @@ Email: cartusguo AT gmail.com
 - **EMNLP 2021 Workshop**: The Fourth Fact Extraction and VERification (FEVER) 
 - **ACL 2022 Workshop**: The Fifth Fact Extraction and VERification (FEVER) 
 - **EACL 2023 Workshop**: The Sixth Fact Extraction and VERification (FEVER) 
+
+
+## Research Mentoring
+
+- Andrew Georgiou: Master at Cambridge, to Google
+- Caiqi Zhang: Master at Cambridge, to PhD at Cambridge
+- Henry Caushi: Undergrad at Cambridge
+- Xuming Hu: PhD at Tsinghua
+- Jing Xiong: Master at SYSU
+- Ying Su: PhD at HKUST
+- Haochen Tan: PhD at CityU
+- Ziyi Shou: PhD at HKUST
 
 ## Education
   
