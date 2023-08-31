@@ -6,7 +6,7 @@ layout: default
 ## About
 Hi! My name is Zhijiang Guo (郭志江). I am a Researcher at [Huawei Noah's Ark Lab](http://dev3.noahlab.com.hk/) and a Visiting Researcher at the University of Cambridge. Before that, I was a Postdoc at the [Department of Computer Science and Technology](https://www.cst.cam.ac.uk/) at the University of Cambridge, working with Prof. [Andreas Vlachos](https://andreasvlachos.github.io//). I am also a member of the [Trinity College](https://www.trin.cam.ac.uk/).
 
-I earned my PhD in Computer Science from SUTD in 2020, under the supervision of Prof. [Wei Lu](https://istd.sutd.edu.sg/people/faculty/lu-wei). I was a visiting student in ILCC at the University of Edinburgh from 2019-2020, working with Prof. [Shay Cohen](http://homepages.inf.ed.ac.uk/scohen/), Prof. [Giorgio Satta](http://www.dei.unipd.it/~satta/), Prof. [Frank Drewes](https://www.umu.se/en/staff/frank-drewes/) and Prof. [Johanna Björklund](https://www.umu.se/en/staff/johanna-bjorklund/) on Structured Prediction.  I also learn a lot from Prof. [Zhiyang Teng](http://zeeeyang.github.io/). 
+I earned my PhD in Computer Science from SUTD in 2020, under the supervision of Prof. [Wei Lu](https://istd.sutd.edu.sg/people/faculty/lu-wei). I was a visiting student in ILCC at the University of Edinburgh from 2019-2020, working with Prof. [Shay Cohen](http://homepages.inf.ed.ac.uk/scohen/), Prof. [Giorgio Satta](http://www.dei.unipd.it/~satta/), Prof. [Frank Drewes](https://www.umu.se/en/staff/frank-drewes/) and Prof. [Johanna Björklund](https://www.umu.se/en/staff/johanna-bjorklund/) on Structured Prediction.  I also learned a lot from Prof. [Zhiyang Teng](http://zeeeyang.github.io/). 
 
 **I am looking for research interns to work with me on reasoning with large language models, drop me an email if you are interested.**
 
@@ -17,8 +17,11 @@ Email: cartusguo AT gmail.com
 
 ## News
 
-- **2022.06**: Glad to serve as Area Chair (AC) for [EMNLP 2023](https://2023.emnlp.org/)
-- **2022.06**: Glad to serve as Senior Program Committee (SPC) for [AAAI 2024](https://aaai.org/aaai-conference/)
+- **2023.06**: Glad to serve as Area Chair (AC) for [EMNLP 2023](https://2023.emnlp.org/)
+- **2023.06**: Glad to serve as Senior Program Committee (SPC) for [AAAI 2024](https://aaai.org/aaai-conference/)
+- **2022.06**: Glad to serve as Area Chair (AC) for [EMNLP 2022](https://2022.emnlp.org/)
+- **2022.06**: Glad to serve as Senior Program Committee (SPC) for [AAAI 2023](https://aaai-23.aaai.org/)
+- **2021.12**: Glad to serve as Senior Program Committee (SPC) for [IJCAI 2022](https://ijcai-22.org/)
 
 
 ## Publications
