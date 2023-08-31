@@ -215,6 +215,7 @@ Email: cartusguo AT gmail.com
 - Ying Su: PhD at HKUST
 - Haochen Tan: PhD at CityU
 - Ziyi Shou: PhD at HKUST
+- William Liu: PhD at Cambridge
 
 ## Education
   
