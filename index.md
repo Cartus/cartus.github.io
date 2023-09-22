@@ -32,7 +32,7 @@ Email: cartusguo AT gmail.com
   
   Michael Schlichtkrull<sup>*</sup>, **Zhijiang Guo<sup>*</sup>** and Andreas Vlachos
   
-
+  **NeurIPS 2023**
   
   [[Paper]](https://arxiv.org/pdf/2305.13117.pdf)
 
