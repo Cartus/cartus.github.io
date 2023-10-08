@@ -49,22 +49,6 @@ Email: cartusguo AT gmail.com
   Jing Xiong, Jianhao Shen, Ye Yuan, Haiming Wang, Yichun Yin, Zhengying Liu, Lin Li, **Zhijiang Guo**, Qingxing Cao, Yinya Huang, Chuanyang Zheng, Xiaodan Liang, Ming Zhang, Qun Liu
 
   **EMNLP 2023**
-
-- **GRATIS: Deep Learning Graph Representation with Task-specific Topology and Multi-dimensional Edge Features**
-
-  Siyang Song, Yuxin Song, Cheng Luo, Zhiyuan Song, Selim Kuzucu, Xi Jia, **Zhijiang Guo**, Weicheng Xie, Linlin Shen, Hatice Gunes
-  
-  **Preprint**
-  
-  [[Paper]](https://arxiv.org/pdf/2211.12482.pdf) [[Code]](https://github.com/SSYSteve/Learning-Graph-Representation-with-Task-specific-Topology-and-Multi-dimensional-Edge-Features) 
-
-- **Give Me More Details: Improving Real-World Fact-checking with Latent Retrieval**
-
-  Xuming Hu<sup>*</sup>, **Zhijiang Guo<sup>*</sup>**, Guanyu Wu, Lijie Wen and Philip S. Yu
-  
-  **Preprint**
-  
-   [[Paper]](https://arxiv.org/pdf/2305.16128.pdf)
   
  - **Multimodal Relation Extraction with Cross-Modal Retrieval and Synthesis**
 
@@ -183,7 +167,26 @@ Email: cartusguo AT gmail.com
   **EMNLP 2018**
   
   [[Paper]](https://www.aclweb.org/anthology/D18-1198.pdf) [[Code]](https://github.com/Cartus/AMR-Parser) [[Poster]](./docs/poster.pptx)
+
+
+## Preprints
+- **Give Me More Details: Improving Real-World Fact-checking with Latent Retrieval**
+
+  Xuming Hu<sup>*</sup>, **Zhijiang Guo<sup>*</sup>**, Guanyu Wu, Lijie Wen and Philip S. Yu
   
+  **Preprint**
+  
+   [[Paper]](https://arxiv.org/pdf/2305.16128.pdf)
+
+- **GRATIS: Deep Learning Graph Representation with Task-specific Topology and Multi-dimensional Edge Features**
+
+  Siyang Song, Yuxin Song, Cheng Luo, Zhiyuan Song, Selim Kuzucu, Xi Jia, **Zhijiang Guo**, Weicheng Xie, Linlin Shen, Hatice Gunes
+  
+  **Preprint**
+  
+  [[Paper]](https://arxiv.org/pdf/2211.12482.pdf) [[Code]](https://github.com/SSYSteve/Learning-Graph-Representation-with-Task-specific-Topology-and-Multi-dimensional-Edge-Features) 
+
+
 
 ## Thesis
 - **Learning with Graphs in Natural Language Processing**
