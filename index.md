@@ -40,9 +40,15 @@ Email: cartusguo AT gmail.com
 
   Mubashara Akhtar, Michael Schlichtkrull, **Zhijiang Guo**, Oana Cocarascu, Elena Simperl and Andreas Vlachos
   
-  **Preprint**
+  **Findings of EMNLP 2023**
   
   [[Paper]](https://arxiv.org/pdf/2305.13507.pdf) [[Code]](https://github.com/Cartus/Automated-Fact-Checking-Resources)
+
+- **TRIGO: Benchmarking Formal Mathematical Proof Reduction for Generative Language Models**
+  
+  Jing Xiong, Jianhao Shen, Ye Yuan, Haiming Wang, Yichun Yin, Zhengying Liu, Lin Li, **Zhijiang Guo**, Qingxing Cao, Yinya Huang, Chuanyang Zheng, Xiaodan Liang, Ming Zhang, Qun Liu
+
+  **EMNLP 2023**
 
 - **GRATIS: Deep Learning Graph Representation with Task-specific Topology and Multi-dimensional Edge Features**
 
