@@ -4,7 +4,7 @@ layout: default
 
 
 ## About
-Hi! My name is Zhijiang Guo (郭志江). I am a Researcher at [Huawei Noah's Ark Lab](http://dev3.noahlab.com.hk/) and a Visiting Researcher at the University of Cambridge. Before that, I was a Postdoc at the [Department of Computer Science and Technology](https://www.cst.cam.ac.uk/) at the University of Cambridge, working with Prof. [Andreas Vlachos](https://andreasvlachos.github.io//). I am also a member of the [Trinity College](https://www.trin.cam.ac.uk/).
+Hi! My name is Zhijiang Guo (郭志江). I am a Researcher at [Huawei Noah's Ark Lab](http://dev3.noahlab.com.hk/) and a Visiting Researcher at the University of Cambridge. Before that, I was a Postdoc at the [Department of Computer Science and Technology](https://www.cst.cam.ac.uk/) at the University of Cambridge, working with Prof. [Andreas Vlachos](https://andreasvlachos.github.io//). I am also a member of [Trinity College](https://www.trin.cam.ac.uk/).
 
 I earned my PhD in Computer Science from SUTD in 2020, under the supervision of Prof. [Wei Lu](https://istd.sutd.edu.sg/people/faculty/lu-wei). I was a visiting student in ILCC at the University of Edinburgh from 2019-2020, working with Prof. [Shay Cohen](http://homepages.inf.ed.ac.uk/scohen/), Prof. [Giorgio Satta](http://www.dei.unipd.it/~satta/), Prof. [Frank Drewes](https://www.umu.se/en/staff/frank-drewes/) and Prof. [Johanna Björklund](https://www.umu.se/en/staff/johanna-bjorklund/) on Structured Prediction.  I also learned a lot from Prof. [Zhiyang Teng](http://zeeeyang.github.io/). 
 
@@ -172,13 +172,21 @@ Email: cartusguo AT gmail.com
 
 
 ## Preprints
+- **DQ-LoRe: Dual Queries with Low Rank Approximation Re-ranking for In-Context Learning**
+
+  Jiong Xiong, Zixuan Li, Chuanyang Zheng, **Zhijiang Guo<sup>*</sup>**, Yichun Yin, Enze Xie, Zhicheng Yang, Qingxing Cao, Haiming Wang, Xiongwei Han, Jing Tang, Chengming Li, Xiaodan Liang
+  
+  **Preprint**
+  
+  [[Paper]](https://arxiv.org/abs/2310.02954.pdf)
+  
 - **Give Me More Details: Improving Real-World Fact-checking with Latent Retrieval**
 
   Xuming Hu<sup>*</sup>, **Zhijiang Guo<sup>*</sup>**, Guanyu Wu, Lijie Wen and Philip S. Yu
   
   **Preprint**
   
-   [[Paper]](https://arxiv.org/pdf/2305.16128.pdf)
+  [[Paper]](https://arxiv.org/pdf/2305.16128.pdf)
 
 - **GRATIS: Deep Learning Graph Representation with Task-specific Topology and Multi-dimensional Edge Features**
 
