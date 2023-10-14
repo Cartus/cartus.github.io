@@ -92,7 +92,7 @@ Email: cartusguo AT gmail.com
   
 - **METS-CoV: A Dataset of Medical Entity and Targeted Sentiment on COVID-19 Related Tweets**
 
-  Peilin Zhou, Zeqiang Wang, Dading Chong, **Zhijiang Guo<sup>*</sup>**, Yining Hua, Zichang Su, Zhiyang Teng, Jiageng Wu, Jie Yang
+  Peilin Zhou, Zeqiang Wang, Dading Chong, **Zhijiang Guo**, Yining Hua, Zichang Su, Zhiyang Teng, Jiageng Wu, Jie Yang
   
   **NeurIPS 2022**
   
