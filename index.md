@@ -174,7 +174,7 @@ Email: cartusguo AT gmail.com
 ## Preprints
 - **DQ-LoRe: Dual Queries with Low Rank Approximation Re-ranking for In-Context Learning**
 
-  Jiong Xiong, Zixuan Li, Chuanyang Zheng, **Zhijiang Guo<sup>#</sup>**, Yichun Yin, Enze Xie, Zhicheng Yang, Qingxing Cao, Haiming Wang, Xiongwei Han, Jing Tang, Chengming Li, Xiaodan Liang
+  Jing Xiong, Zixuan Li, Chuanyang Zheng, **Zhijiang Guo<sup>#</sup>**, Yichun Yin, Enze Xie, Zhicheng Yang, Qingxing Cao, Haiming Wang, Xiongwei Han, Jing Tang, Chengming Li, Xiaodan Liang
   
   **Preprint**
   
