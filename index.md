@@ -43,7 +43,7 @@ I am generally interested in natural language processing and machine learning. C
   
   **NeurIPS 2023**
   
-  [[Paper]](https://arxiv.org/pdf/2305.13117.pdf)
+  [[Paper]](https://arxiv.org/pdf/2305.13117.pdf) [[Code]](https://github.com/MichSchli/AVeriTeC) [[Dataset]](https://github.com/MichSchli/AVeriTeC/tree/main/data)
 
 - **Multimodal Automated Fact-Checking: A Survey**
 
@@ -58,6 +58,8 @@ I am generally interested in natural language processing and machine learning. C
   Jing Xiong, Jianhao Shen, Ye Yuan, Haiming Wang, Yichun Yin, Zhengying Liu, Lin Li, **Zhijiang Guo**, Qingxing Cao, Yinya Huang, Chuanyang Zheng, Xiaodan Liang, Ming Zhang, Qun Liu
 
   **EMNLP 2023**
+
+   [[Paper]](https://arxiv.org/pdf/2310.10180.pdf) [[Dataset]](https://github.com/menik1126/TRIGO)
   
  - **Multimodal Relation Extraction with Cross-Modal Retrieval and Synthesis**
 
@@ -73,7 +75,7 @@ I am generally interested in natural language processing and machine learning. C
   
   **SIGIR 2023**
 
-  [[Paper]](https://dl.acm.org/doi/10.1145/3539618.3591896)
+  [[Paper]](https://dl.acm.org/doi/10.1145/3539618.3591896) [[Code]](https://github.com/THU-BPM/MR2) [[Dataset]](https://github.com/THU-BPM/MR2)
   
 - **Read it Twice: Towards Faithfully Interpretable Fact Verification by Revisiting Evidence**
 
