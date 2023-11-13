@@ -8,11 +8,20 @@ Hi! My name is Zhijiang Guo (郭志江). I am a Researcher at [Huawei Noah's Ark
 
 I earned my PhD in Computer Science from SUTD in 2020, under the supervision of Prof. [Wei Lu](https://istd.sutd.edu.sg/people/faculty/lu-wei). I was a visiting student in ILCC at the University of Edinburgh from 2019-2020, working with Prof. [Shay Cohen](http://homepages.inf.ed.ac.uk/scohen/), Prof. [Giorgio Satta](http://www.dei.unipd.it/~satta/), Prof. [Frank Drewes](https://www.umu.se/en/staff/frank-drewes/) and Prof. [Johanna Björklund](https://www.umu.se/en/staff/johanna-bjorklund/) on Structured Prediction.  I also learned a lot from Prof. [Zhiyang Teng](http://zeeeyang.github.io/). 
 
-**I am looking for research interns to work with me on reasoning with large language models, drop me an email if you are interested.**
+**I am looking for research interns to work with me on large language models, drop me an email if you are interested.**
 
 Email: cartusguo AT gmail.com
 
 [[Github]](https://github.com/Cartus) [[Linkedin]](https://www.linkedin.com/in/zhijiang-guo-aa032837/) [[Google Scholoar]](https://scholar.google.com/citations?hl=zh-CN&user=8b-u3icAAAAJ) [[Twitter]](https://twitter.com/ZhijiangG)
+
+## Research
+
+I am generally interested in natural language processing and machine learning. Current interests are in several aspects around large language models:
+
+- Factuality: method, evaluation and multimodality
+- Multi-step Reasoning: math and logic
+- Retrieval-Augment: knowledge-intensive tasks
+- Language Model as Agent: planning, action, tools and memory
 
 
 ## News
@@ -179,6 +188,12 @@ Email: cartusguo AT gmail.com
   **Preprint**
   
   [[Paper]](https://arxiv.org/abs/2310.02954.pdf)
+
+- **Are LLMs Rigorous Logical Reasoners? Empowering Natural Language Proof Generation with Contrastive Stepwise Decoding**
+
+  Ying Su, Xiaojin Fu, Mingwen Liu, **Zhijiang Guo**
+
+  **Preprint**
   
 - **Give Me More Details: Improving Real-World Fact-checking with Latent Retrieval**
 
