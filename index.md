@@ -181,6 +181,16 @@ I am generally interested in natural language processing and machine learning. C
 
 
 ## Preprints
+
+- **Do Large Language Models Know about Facts?**
+
+  Xuming Hu, Junzhe Chen, Xiaochuan Li, Yufei Guo, Lijie Wen, Philip S Yu, **Zhijiang Guo**
+
+  **Preprint**
+  
+  [[Paper]](https://arxiv.org/pdf/2310.05177.pdf)
+  
+
 - **DQ-LoRe: Dual Queries with Low Rank Approximation Re-ranking for In-Context Learning**
 
   Jing Xiong, Zixuan Li, Chuanyang Zheng, **Zhijiang Guo<sup>#</sup>**, Yichun Yin, Enze Xie, Zhicheng Yang, Qingxing Cao, Haiming Wang, Xiongwei Han, Jing Tang, Chengming Li, Xiaodan Liang
