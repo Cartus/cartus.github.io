@@ -26,6 +26,7 @@ I am generally interested in natural language processing and machine learning. C
 
 ## News
 
+- **2023.10**: Glad to serve as Area Chair (AC) for [COLING 2024](https://lrec-coling-2024.org/)
 - **2023.06**: Glad to serve as Area Chair (AC) for [EMNLP 2023](https://2023.emnlp.org/)
 - **2023.06**: Glad to serve as Senior Program Committee (SPC) for [AAAI 2024](https://aaai.org/aaai-conference/)
 - **2022.06**: Glad to serve as Area Chair (AC) for [EMNLP 2022](https://2022.emnlp.org/)
@@ -239,7 +240,7 @@ I am generally interested in natural language processing and machine learning. C
 
 ## Academic Services
 
-- **Area Chair**: EMNLP 2023 (NLP Application), EMNLP 2022 (Semantics)
+- **Area Chair**: COLING 2024 (Machine Learning), EMNLP 2023 (NLP Application), EMNLP 2022 (Semantics)
 - **Senior Program Committee**: AAAI 2024, AAAI 2023, IJCAI 2021
 - **Program Committee**: ACL ARR/ACL/EMNLP/NAACL/EACL/COLING/NeurIPS/ICLR/AAAI/IJCAI
 - **Journal**: Machine Learning/Computational Linguistics/TACL/TKDE/TALLIP/TASLP/TOIS
