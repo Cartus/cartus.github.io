@@ -263,6 +263,8 @@ I am generally interested in natural language processing and machine learning. C
 - Haochen Tan: PhD at CityU
 - Ziyi Shou: PhD at HKUST
 - William Liu: PhD at Cambridge
+- Yunlong Feng： PhD at HIT
+- Yuxuan Yao: PhD at CityU
 
 ## Education
   
