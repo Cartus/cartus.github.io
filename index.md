@@ -42,7 +42,7 @@ I am generally interested in natural language processing and machine learning. C
 
   Xuming Hu, Junzhe Chen, Xiaochuan Li, Yufei Guo, Lijie Wen, Philip S Yu, **Zhijiang Guo<sup>#</sup>**
 
-  **ICLR 2024**(Spotlight)
+  **ICLR 2024** (Spotlight)
   
   [[Paper]](https://arxiv.org/pdf/2310.05177.pdf)
   
