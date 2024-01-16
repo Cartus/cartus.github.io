@@ -40,7 +40,7 @@ I am generally interested in natural language processing and machine learning. C
 
 - **Do Large Language Models Know about Facts?**
 
-  Xuming Hu, Junzhe Chen, Xiaochuan Li, Yufei Guo, Lijie Wen, Philip S Yu, **Zhijiang Guo**
+  Xuming Hu, Junzhe Chen, Xiaochuan Li, Yufei Guo, Lijie Wen, Philip S Yu, **Zhijiang Guo<sup>#</sup>**
 
   **ICLR 2024**(Spotlight)
   
