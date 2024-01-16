@@ -38,6 +38,23 @@ I am generally interested in natural language processing and machine learning. C
 
 <sup>*</sup> denotes equal contribution, <sup>#</sup> denotes corresponding author.
 
+- **Do Large Language Models Know about Facts?**
+
+  Xuming Hu, Junzhe Chen, Xiaochuan Li, Yufei Guo, Lijie Wen, Philip S Yu, **Zhijiang Guo**
+
+  **ICLR 2024**(Spotlight)
+  
+  [[Paper]](https://arxiv.org/pdf/2310.05177.pdf)
+  
+
+- **DQ-LoRe: Dual Queries with Low Rank Approximation Re-ranking for In-Context Learning**
+
+  Jing Xiong, Zixuan Li, Chuanyang Zheng, **Zhijiang Guo<sup>#</sup>**, Yichun Yin, Enze Xie, Zhicheng Yang, Qingxing Cao, Haiming Wang, Xiongwei Han, Jing Tang, Chengming Li, Xiaodan Liang
+  
+  **ICLR 2024**
+  
+  [[Paper]](https://arxiv.org/abs/2310.02954.pdf)
+
 - **AVeriTeC: A Dataset for Real-world Claim Verification with Evidence from the Web**
   
   Michael Schlichtkrull<sup>*</sup>, **Zhijiang Guo<sup>*</sup>** and Andreas Vlachos
@@ -184,23 +201,6 @@ I am generally interested in natural language processing and machine learning. C
 
 
 ## Preprints
-
-- **Do Large Language Models Know about Facts?**
-
-  Xuming Hu, Junzhe Chen, Xiaochuan Li, Yufei Guo, Lijie Wen, Philip S Yu, **Zhijiang Guo**
-
-  **Preprint**
-  
-  [[Paper]](https://arxiv.org/pdf/2310.05177.pdf)
-  
-
-- **DQ-LoRe: Dual Queries with Low Rank Approximation Re-ranking for In-Context Learning**
-
-  Jing Xiong, Zixuan Li, Chuanyang Zheng, **Zhijiang Guo<sup>#</sup>**, Yichun Yin, Enze Xie, Zhicheng Yang, Qingxing Cao, Haiming Wang, Xiongwei Han, Jing Tang, Chengming Li, Xiaodan Liang
-  
-  **Preprint**
-  
-  [[Paper]](https://arxiv.org/abs/2310.02954.pdf)
 
 - **Are LLMs Rigorous Logical Reasoners? Empowering Natural Language Proof Generation with Contrastive Stepwise Decoding**
 
