@@ -207,6 +207,8 @@ I am generally interested in natural language processing and machine learning. C
   Haochen Tan, **Zhijiang Guo<sup>*</sup>**, Zhan Shi, Lu Xu, Zhili Liu, Xiaoguang Li, Yasheng Wang, Lifeng Shang, Qun Liu, Linqi Song
 
   **Preprint**
+
+  [[Dataset]](https://github.com/Namco0816/ProxyQA)
   
 - **Are LLMs Rigorous Logical Reasoners? Empowering Natural Language Proof Generation with Contrastive Stepwise Decoding**
 
