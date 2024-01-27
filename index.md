@@ -204,7 +204,7 @@ I am generally interested in natural language processing and machine learning. C
 
 - **ProxyQA: An Alternative Framework for Evaluating Long-Form Text Generation with Large Language Models**
 
-  Haochen Tan, **Zhijiang Guo<sup>*</sup>**, Zhan Shi, Lu Xu, Zhili Liu, Xiaoguang Li, Yasheng Wang, Lifeng Shang, Qun Liu, Linqi Song
+  Haochen Tan<sup>*</sup>, **Zhijiang Guo<sup>*</sup>**, Zhan Shi, Lu Xu, Zhili Liu, Xiaoguang Li, Yasheng Wang, Lifeng Shang, Qun Liu, Linqi Song
 
   **Preprint**
 
