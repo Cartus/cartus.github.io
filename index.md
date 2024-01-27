@@ -202,19 +202,43 @@ I am generally interested in natural language processing and machine learning. C
 
 ## Preprints
 
-- **Are LLMs Rigorous Logical Reasoners? Empowering Natural Language Proof Generation with Contrastive Stepwise Decoding**
+- **ProxyQA: An Alternative Framework for Evaluating Long-Form Text Generation with Large Language Models**
 
-  Ying Su, Xiaojin Fu, Mingwen Liu, **Zhijiang Guo**
+  Haochen Tan, **Zhijiang Guo<sup>*</sup>**, Zhan Shi, Lu Xu, Zhili Liu, Xiaoguang Li, Yasheng Wang, Lifeng Shang, Qun Liu, Linqi Song
 
   **Preprint**
   
+- **Are LLMs Rigorous Logical Reasoners? Empowering Natural Language Proof Generation with Contrastive Stepwise Decoding**
+
+  Ying Su, Xiaojin Fu, Mingwen Liu, **Zhijiang Guo<sup>#</sup>**
+
+  **Preprint**
+
 - **Give Me More Details: Improving Real-World Fact-checking with Latent Retrieval**
 
-  Xuming Hu<sup>*</sup>, **Zhijiang Guo<sup>*</sup>**, Guanyu Wu, Lijie Wen and Philip S. Yu
+  Xuming Hu, Junzhe Chen, **Zhijiang Guo<sup>#</sup>**, Philip S. Yu
   
   **Preprint**
   
   [[Paper]](https://arxiv.org/pdf/2305.16128.pdf)
+
+- **Do We Need Language-Specific Fact-Checking Models? The Case of Chinese**
+
+  Caiqi Zhang, **Zhijiang Guo**, Andreas Vlachos
+
+  **Preprint**
+
+- **Efficient Fine-Tuning with D-LORA: Leveraging Mixture-of-Experts through Decomposition Methods**
+
+  Chunlin Tian, Zhan Shi, **Zhijiang Guo**, Li Li
+
+  **Preprint**
+  
+- **YODA: Advancing Language Models through Iterative Teacher-Student Progressive Learning**
+
+  Jianqiao Lu, Wanjun Zhong, Yufei Wang, **Zhijiang Guo**, Qi Zhu, Wenyong Huang, Yanlin Wang, Fei Mi, Baojun Wang, Yasheng Wang, Lifeng Shang, Xin Jiang, Qun Liu
+  
+  **Preprint**
 
 - **GRATIS: Deep Learning Graph Representation with Task-specific Topology and Multi-dimensional Edge Features**
 
