@@ -208,7 +208,7 @@ I am generally interested in natural language processing and machine learning. C
 
   **Preprint**
 
-  [[Dataset]](https://github.com/Namco0816/ProxyQA)
+  [[Paper]](https://arxiv.org/pdf/2401.15042.pdf)[[Dataset]](https://github.com/Namco0816/ProxyQA)
   
 - **Are LLMs Rigorous Logical Reasoners? Empowering Natural Language Proof Generation with Contrastive Stepwise Decoding**
 
@@ -231,6 +231,8 @@ I am generally interested in natural language processing and machine learning. C
   Caiqi Zhang, **Zhijiang Guo**, Andreas Vlachos
 
   **Preprint**
+
+  [[Paper]](https://arxiv.org/pdf/2401.15498.pdf)
 
 - **Efficient Fine-Tuning with D-LORA: Leveraging Mixture-of-Experts through Decomposition Methods**
 
