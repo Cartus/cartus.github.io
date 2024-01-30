@@ -234,16 +234,18 @@ I am generally interested in natural language processing and machine learning. C
 
   [[Paper]](https://arxiv.org/pdf/2401.15498.pdf)
 
-- **Efficient Fine-Tuning with D-LORA: Leveraging Mixture-of-Experts through Decomposition Methods**
-
-  Chunlin Tian, Zhan Shi, **Zhijiang Guo**, Li Li
-
-  **Preprint**
-  
 - **YODA: Advancing Language Models through Iterative Teacher-Student Progressive Learning**
 
   Jianqiao Lu, Wanjun Zhong, Yufei Wang, **Zhijiang Guo**, Qi Zhu, Wenyong Huang, Yanlin Wang, Fei Mi, Baojun Wang, Yasheng Wang, Lifeng Shang, Xin Jiang, Qun Liu
   
+  **Preprint**
+
+  [[Paper]](https://arxiv.org/pdf/2401.15670.pdf)
+
+- **Efficient Fine-Tuning with D-LORA: Leveraging Mixture-of-Experts through Decomposition Methods**
+
+  Chunlin Tian, Zhan Shi, **Zhijiang Guo**, Li Li
+
   **Preprint**
 
 - **GRATIS: Deep Learning Graph Representation with Task-specific Topology and Multi-dimensional Edge Features**
