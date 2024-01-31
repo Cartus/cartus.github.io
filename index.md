@@ -269,7 +269,6 @@ I am generally interested in natural language processing and machine learning. C
   
   
 
-
 ## Academic Services
 
 - **Area Chair**: COLING 2024 (Machine Learning), EMNLP 2023 (NLP Application), EMNLP 2022 (Semantics)
@@ -281,7 +280,8 @@ I am generally interested in natural language processing and machine learning. C
 
 - **EMNLP 2021 Workshop**: The Fourth Fact Extraction and VERification (FEVER) 
 - **ACL 2022 Workshop**: The Fifth Fact Extraction and VERification (FEVER) 
-- **EACL 2023 Workshop**: The Sixth Fact Extraction and VERification (FEVER) 
+- **EACL 2023 Workshop**: The Sixth Fact Extraction and VERification (FEVER)
+- **EMNLP 2024 Workshop**: The Seventh Fact Extraction and VERification (FEVER) 
 
 
 ## Research Mentoring
