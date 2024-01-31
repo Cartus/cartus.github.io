@@ -296,6 +296,7 @@ I am generally interested in natural language processing and machine learning. C
 - Ziyi Shou: PhD at HKUST
 - William Liu: PhD at Cambridge
 - Yunlong Feng： PhD at HIT
+- Jianqiao Lu: PhD at HKU
 - Yuxuan Yao: PhD at CityU
 
 ## Education
