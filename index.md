@@ -242,7 +242,7 @@ I am generally interested in natural language processing and machine learning. C
 
   [[Paper]](https://arxiv.org/pdf/2401.15670.pdf)
 
-- **Efficient Fine-Tuning with D-LORA: Leveraging Mixture-of-Experts through Decomposition Methods**
+- **AutoLoRA: An Asymmetric LoRA Architecture for Efficient Fine-Tuning**
 
   Chunlin Tian, Zhan Shi, **Zhijiang Guo**, Li Li
 
