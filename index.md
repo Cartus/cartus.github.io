@@ -234,7 +234,7 @@ I am generally interested in natural language processing and machine learning. C
 
   [[Paper]](https://arxiv.org/pdf/2401.15498.pdf)
 
-- **YODA: Advancing Language Models through Iterative Teacher-Student Progressive Learning**
+- **YODA: Teacher-Student Progressive Learning for Language Models**
 
   Jianqiao Lu, Wanjun Zhong, Yufei Wang, **Zhijiang Guo**, Qi Zhu, Wenyong Huang, Yanlin Wang, Fei Mi, Baojun Wang, Yasheng Wang, Lifeng Shang, Xin Jiang, Qun Liu
   
