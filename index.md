@@ -289,7 +289,6 @@ I am generally interested in natural language processing and machine learning. C
 - Andrew Georgiou: Master at Cambridge, to Google
 - Caiqi Zhang: Master at Cambridge, to PhD at Cambridge
 - Henry Caushi: Undergrad at Cambridge
-- Xuming Hu: PhD at Tsinghua
 - Jing Xiong: Master at SYSU
 - Ying Su: PhD at HKUST
 - Haochen Tan: PhD at CityU
