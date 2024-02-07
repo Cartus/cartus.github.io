@@ -18,10 +18,10 @@ Email: cartusguo AT gmail.com
 
 I am generally interested in natural language processing and machine learning. Current interests are in several aspects around large language models:
 
-- Factuality: method, evaluation and multimodality
-- Multi-step Reasoning: math and logic
-- Retrieval-Augment: knowledge-intensive tasks
-- Language Model as Agent: planning, action, tools and memory
+- **Factuality**: method, evaluation and multimodality
+- **Reasoning**: math, logic and code
+- **Knowledge**: retrieval, calibration and grounding
+- **LLMs as Agents**: planning, memory and collaboration
 
 
 ## News
@@ -42,7 +42,7 @@ I am generally interested in natural language processing and machine learning. C
 
   Xuming Hu, Junzhe Chen, Xiaochuan Li, Yufei Guo, Lijie Wen, Philip S Yu, **Zhijiang Guo<sup>#</sup>**
 
-  **ICLR 2024** (Spotlight)
+  **ICLR 2024 (Spotlight)**
   
   [[Paper]](https://arxiv.org/pdf/2310.05177.pdf)
   
@@ -244,7 +244,7 @@ I am generally interested in natural language processing and machine learning. C
 
 - **AutoLoRA: An Asymmetric LoRA Architecture for Efficient Fine-Tuning**
 
-  Chunlin Tian, Zhan Shi, **Zhijiang Guo**, Li Li
+  Chunlin Tian, Zhan Shi, **Zhijiang Guo**, Li Li, Cheng-zhong Xu
 
   **Preprint**
 
@@ -292,7 +292,6 @@ I am generally interested in natural language processing and machine learning. C
 - Jing Xiong: Master at SYSU
 - Ying Su: PhD at HKUST
 - Haochen Tan: PhD at CityU
-- Ziyi Shou: PhD at HKUST
 - William Liu: PhD at Cambridge
 - Yunlong Feng: PhD at HIT
 - Jianqiao Lu: PhD at HKU
