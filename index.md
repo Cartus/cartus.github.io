@@ -31,7 +31,7 @@ I am generally interested in natural language processing and machine learning. C
 - **2023.06**: Glad to serve as Senior Program Committee (SPC) for [AAAI 2024](https://aaai.org/aaai-conference/)
 - **2022.06**: Glad to serve as Area Chair (AC) for [EMNLP 2022](https://2022.emnlp.org/)
 - **2022.06**: Glad to serve as Senior Program Committee (SPC) for [AAAI 2023](https://aaai-23.aaai.org/)
-- **2021.12**: Glad to serve as Senior Program Committee (SPC) for [IJCAI 2022](https://ijcai-22.org/)
+
 
 
 ## Publications
