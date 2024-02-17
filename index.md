@@ -242,7 +242,7 @@ I am generally interested in natural language processing and machine learning. C
 
   [[Paper]](https://arxiv.org/pdf/2401.15670.pdf)
 
-- **AutoLoRA: An Asymmetric LoRA Architecture for Efficient Fine-Tuning**
+- **HydraLoRA: An Asymmetric LoRA Architecture for Efficient Fine-Tuning**
 
   Chunlin Tian, Zhan Shi, **Zhijiang Guo**, Li Li, Cheng-zhong Xu
 
@@ -273,7 +273,7 @@ I am generally interested in natural language processing and machine learning. C
 
 - **Area Chair**: COLING 2024 (Machine Learning), EMNLP 2023 (NLP Application), EMNLP 2022 (Semantics)
 - **Senior Program Committee**: AAAI 2024, AAAI 2023, IJCAI 2021
-- **Program Committee**: ACL ARR/ACL/EMNLP/NAACL/EACL/COLING/NeurIPS/ICLR/AAAI/IJCAI
+- **Program Committee**: NeurIPS/ICLR/COLM/ACL ARR/ACL/EMNLP/NAACL/EACL/COLING/AAAI/IJCAI
 - **Journal**: Machine Learning/Computational Linguistics/TACL/TKDE/TALLIP/TASLP/TOIS
     
 ## Workshops Organization
