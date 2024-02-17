@@ -69,7 +69,7 @@ I am generally interested in natural language processing and machine learning. C
   
   **Findings of EMNLP 2023**
   
-  [[Paper]](https://arxiv.org/pdf/2305.13507.pdf) [[Code]](https://github.com/Cartus/Automated-Fact-Checking-Resources)
+  [[Paper]](https://arxiv.org/pdf/2305.13507.pdf) [[Code]](https://github.com/Cartus/Automated-Fact-Checking-Resources) [[Code]](https://github.com/Cartus/Automated-Fact-Checking-Resources)
 
 - **TRIGO: Benchmarking Formal Mathematical Proof Reduction for Generative Language Models**
   
@@ -77,7 +77,7 @@ I am generally interested in natural language processing and machine learning. C
 
   **EMNLP 2023**
 
-   [[Paper]](https://arxiv.org/pdf/2310.10180.pdf) [[Dataset]](https://github.com/menik1126/TRIGO)
+   [[Paper]](https://arxiv.org/pdf/2310.10180.pdf) [[Dataset]](https://github.com/menik1126/TRIGO) [[Code]](https://github.com/menik1126/TRIGO)
   
  - **Multimodal Relation Extraction with Cross-Modal Retrieval and Synthesis**
 
