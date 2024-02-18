@@ -26,11 +26,13 @@ I am generally interested in natural language processing and machine learning. C
 
 ## News
 
+- **2024.02**: Glad to serve as Area Chair (AC) for [ACL 2024](https://2024.aclweb.org/)
 - **2023.10**: Glad to serve as Area Chair (AC) for [COLING 2024](https://lrec-coling-2024.org/)
-- **2023.06**: Glad to serve as Area Chair (AC) for [EMNLP 2023](https://2023.emnlp.org/)
 - **2023.06**: Glad to serve as Senior Program Committee (SPC) for [AAAI 2024](https://aaai.org/aaai-conference/)
-- **2022.06**: Glad to serve as Area Chair (AC) for [EMNLP 2022](https://2022.emnlp.org/)
+- **2023.06**: Glad to serve as Area Chair (AC) for [EMNLP 2023](https://2023.emnlp.org/)
 - **2022.06**: Glad to serve as Senior Program Committee (SPC) for [AAAI 2023](https://aaai-23.aaai.org/)
+- **2022.06**: Glad to serve as Area Chair (AC) for [EMNLP 2022](https://2022.emnlp.org/)
+
 
 
 
