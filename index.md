@@ -48,7 +48,6 @@ I am generally interested in natural language processing and machine learning. C
   
   [[Paper]](https://arxiv.org/pdf/2310.05177.pdf)
   
-
 - **DQ-LoRe: Dual Queries with Low Rank Approximation Re-ranking for In-Context Learning**
 
   Jing Xiong, Zixuan Li, Chuanyang Zheng, **Zhijiang Guo<sup>#</sup>**, Yichun Yin, Enze Xie, Zhicheng Yang, Qingxing Cao, Haiming Wang, Xiongwei Han, Jing Tang, Chengming Li, Xiaodan Liang
@@ -57,6 +56,12 @@ I am generally interested in natural language processing and machine learning. C
   
   [[Paper]](https://arxiv.org/abs/2310.02954.pdf)
 
+- **Towards Human-aligned Evaluation for Linear Programming Word Problems**
+  
+  Linzi Xing, Xinglu Wang, Yuxi Feng, Zhenan Fan, Jing Xiong, **Zhijiang Guo**, Xiaojin Fu, Rindra Ramamonjison, Mahdi Mostajabdaveh, Xiongwei Han, Zirui Zhou and Yong Zhang
+
+  **COLING 2024**
+  
 - **AVeriTeC: A Dataset for Real-world Claim Verification with Evidence from the Web**
   
   Michael Schlichtkrull<sup>*</sup>, **Zhijiang Guo<sup>*</sup>** and Andreas Vlachos
