@@ -54,7 +54,7 @@ I am generally interested in natural language processing and machine learning. C
   
   **ICLR 2024**
   
-  [[Paper]](https://arxiv.org/abs/2310.02954.pdf)
+  [[Paper]](https://arxiv.org/abs/2310.02954.pdf) [[Code]](https://github.com/AI4fun/DQ-LoRe)
 
 - **Towards Human-aligned Evaluation for Linear Programming Word Problems**
   
