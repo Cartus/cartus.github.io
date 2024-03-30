@@ -50,7 +50,7 @@ I am generally interested in natural language processing and machine learning. C
   
 - **DQ-LoRe: Dual Queries with Low Rank Approximation Re-ranking for In-Context Learning**
 
-  Jing Xiong, Zixuan Li, Chuanyang Zheng, **Zhijiang Guo<sup>#</sup>**, Yichun Yin, Enze Xie, Zhicheng Yang, Qingxing Cao, Haiming Wang, Xiongwei Han, Jing Tang, Chengming Li, Xiaodan Liang
+  Jing Xiong<sup>$</sup>, Zixuan Li<sup>$</sup>, Chuanyang Zheng, **Zhijiang Guo<sup>#</sup>**, Yichun Yin, Enze Xie, Zhicheng Yang, Qingxing Cao, Haiming Wang, Xiongwei Han, Jing Tang, Chengming Li, Xiaodan Liang
   
   **ICLR 2024**
   
@@ -112,7 +112,7 @@ I am generally interested in natural language processing and machine learning. C
 
 - **A Survey on Automated Fact-Checking**
 
-  **Zhijiang Guo<sup>*</sup>**, Michael Schlichtkrull<sup>*</sup>, Andreas Vlachos
+  **Zhijiang Guo<sup>$</sup>**, Michael Schlichtkrull<sup>$</sup>, Andreas Vlachos
   
   **TACL 2022**
   
@@ -120,7 +120,7 @@ I am generally interested in natural language processing and machine learning. C
 
 - **CHEF: A Pilot Chinese Dataset for Evidence-Based Fact-Checking**
 
-  Xuming Hu<sup>*</sup>, **Zhijiang Guo<sup>*</sup>**, Guanyu Wu, Aiwei Liu, Lijie Wen, Philip S. Yu
+  Xuming Hu<sup>$</sup>, **Zhijiang Guo<sup>$</sup>**, Guanyu Wu, Aiwei Liu, Lijie Wen, Philip S. Yu
   
   **NAACL 2022** 
   
@@ -136,7 +136,7 @@ I am generally interested in natural language processing and machine learning. C
   
 - **Scene Graph Modification as Incremental Structure Expanding**
 
-  Xuming Hu<sup>*</sup>, **Zhijiang Guo<sup>*</sup>**, Yu Fu, Lijie Wen, Philip S. Yu
+  Xuming Hu<sup>$</sup>, **Zhijiang Guo<sup>$</sup>**, Yu Fu, Lijie Wen, Philip S. Yu
   
   **COLING 2022**
   
@@ -160,7 +160,7 @@ I am generally interested in natural language processing and machine learning. C
   
 - **Lightweight, Dynamic Graph Convolutional Networks for AMR-to-Text Generation**
 
-  Yan Zhang<sup>*</sup>, **Zhijiang Guo<sup>*</sup>**, Zhiyang Teng, Wei Lu, Shay B. Cohen, Zuozhu Liu, Lidong Bing
+  Yan Zhang<sup>$</sup>, **Zhijiang Guo<sup>$</sup>**, Zhiyang Teng, Wei Lu, Shay B. Cohen, Zuozhu Liu, Lidong Bing
   
   **EMNLP 2020**
   
@@ -168,7 +168,7 @@ I am generally interested in natural language processing and machine learning. C
 
 - **Learning Latent Forests for Medical Relation Extraction**
 
-  **Zhijiang Guo<sup>*</sup>**, Guoshun Nan<sup>*</sup>, Wei Lu, Shay B. Cohen
+  **Zhijiang Guo<sup>$</sup>**, Guoshun Nan<sup>$</sup>, Wei Lu, Shay B. Cohen
   
   **IJCAI 2020**
   
@@ -176,7 +176,7 @@ I am generally interested in natural language processing and machine learning. C
 
 - **Reasoning with Latent Structure Refinement for Document-Level Relation Extraction**
 
-  Guoshun Nan<sup>*</sup>, **Zhijiang Guo<sup>*</sup>**, Ivan Sekulic, Wei Lu
+  Guoshun Nan<sup>$</sup>, **Zhijiang Guo<sup>$</sup>**, Ivan Sekulic, Wei Lu
   
   **ACL 2020**
   
@@ -184,7 +184,7 @@ I am generally interested in natural language processing and machine learning. C
   
 - **Densely Connected Graph Convolutional Networks for Graph-to-Sequence Learning**
 
-  **Zhijiang Guo<sup>*</sup>**, Yan Zhang<sup>*</sup>, Zhiyang Teng, Wei Lu
+  **Zhijiang Guo<sup>$</sup>**, Yan Zhang<sup>$</sup>, Zhiyang Teng, Wei Lu
   
   **TACL 2019**
   
@@ -192,7 +192,7 @@ I am generally interested in natural language processing and machine learning. C
 
 - **Attention Guided Graph Convolutional Networks for Relation Extraction**
 
-  **Zhijiang Guo<sup>*</sup>**, Yan Zhang<sup>*</sup>, Wei Lu
+  **Zhijiang Guo<sup>$</sup>**, Yan Zhang<sup>$</sup>, Wei Lu
   
   **ACL 2019**
   
@@ -211,7 +211,7 @@ I am generally interested in natural language processing and machine learning. C
 
 - **ProxyQA: An Alternative Framework for Evaluating Long-Form Text Generation with Large Language Models**
 
-  Haochen Tan<sup>*</sup>, **Zhijiang Guo<sup>*</sup>**, Zhan Shi, Lu Xu, Zhili Liu, Xiaoguang Li, Yasheng Wang, Lifeng Shang, Qun Liu, Linqi Song
+  Haochen Tan<sup>$</sup>, **Zhijiang Guo<sup>$</sup>**, Zhan Shi, Lu Xu, Zhili Liu, Xiaoguang Li, Yasheng Wang, Lifeng Shang, Qun Liu, Linqi Song
 
   **Preprint**
 
@@ -219,7 +219,7 @@ I am generally interested in natural language processing and machine learning. C
 
 - **Learning From Correctness Without Prompting Makes LLM Efficient Reasoner**
 
-  Yuxuan Yao<sup>*</sup>, Han Wu<sup>*</sup>, **Zhijiang Guo<sup>#</sup>**, Biyan Zhou, Jiahui Gao, Sichun Luo, Hanxu Hou, Xiaojin Fu, Linqi Song
+  Yuxuan Yao<sup>$</sup>, Han Wu<sup>$</sup>, **Zhijiang Guo<sup>#</sup>**, Biyan Zhou, Jiahui Gao, Sichun Luo, Hanxu Hou, Xiaojin Fu, Linqi Song
 
   **Preprint**
 
@@ -227,7 +227,7 @@ I am generally interested in natural language processing and machine learning. C
 
 - **Aligning with Human Judgement: The Role of Pairwise Preference in Large Language Model Evaluators**
 
-  Yinhong Liu<sup>*</sup>, Han Zhou<sup>*</sup>, **Zhijiang Guo**, Ehsan Shareghi, Ivan Vulić, Anna Korhonen, Nigel Collier
+  Yinhong Liu<sup>$</sup>, Han Zhou<sup>$</sup>, **Zhijiang Guo**, Ehsan Shareghi, Ivan Vulić, Anna Korhonen, Nigel Collier
 
   [[Paper]](https://arxiv.org/pdf/2403.16950.pdf) [[Code]](https://github.com/cambridgeltl/PairS)
 
@@ -251,7 +251,7 @@ I am generally interested in natural language processing and machine learning. C
 
 - **YODA: Teacher-Student Progressive Learning for Language Models**
 
-  Jianqiao Lu, Wanjun Zhong, Yufei Wang, **Zhijiang Guo**, Qi Zhu, Wenyong Huang, Yanlin Wang, Fei Mi, Baojun Wang, Yasheng Wang, Lifeng Shang, Xin Jiang, Qun Liu
+  Jianqiao Lu<sup>$</sup>, Wanjun Zhong<sup>$</sup>, Yufei Wang, **Zhijiang Guo**, Qi Zhu, Wenyong Huang, Yanlin Wang, Fei Mi, Baojun Wang, Yasheng Wang, Lifeng Shang, Xin Jiang, Qun Liu
   
   **Preprint**
 
