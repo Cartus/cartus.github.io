@@ -38,7 +38,7 @@ I am generally interested in natural language processing and machine learning. C
 
 ## Publications
 
-<sup>*</sup> denotes equal contribution, <sup>#</sup> denotes corresponding author.
+<sup>$</sup> denotes equal contribution, <sup>#</sup> denotes corresponding author.
 
 - **Do Large Language Models Know about Facts?**
 
@@ -64,7 +64,7 @@ I am generally interested in natural language processing and machine learning. C
   
 - **AVeriTeC: A Dataset for Real-world Claim Verification with Evidence from the Web**
   
-  Michael Schlichtkrull<sup>*</sup>, **Zhijiang Guo<sup>*</sup>** and Andreas Vlachos
+  Michael Schlichtkrull<sup>$</sup>, **Zhijiang Guo<sup>$</sup>** and Andreas Vlachos
   
   **NeurIPS 2023**
   
