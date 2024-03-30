@@ -219,7 +219,7 @@ I am generally interested in natural language processing and machine learning. C
 
 - **Learning From Correctness Without Prompting Makes LLM Efficient Reasoner**
 
-  Yuxuan Yao<sup>*</sup>, Han Wu<sup>*</sup>, Zhijiang Guo<sup>#</sup>, Biyan Zhou, Jiahui Gao, Sichun Luo, Hanxu Hou, Xiaojin Fu, Linqi Song
+  Yuxuan Yao<sup>*</sup>, Han Wu<sup>*</sup>, **Zhijiang Guo<sup>#</sup>**, Biyan Zhou, Jiahui Gao, Sichun Luo, Hanxu Hou, Xiaojin Fu, Linqi Song
 
   **Preprint**
 
@@ -227,7 +227,7 @@ I am generally interested in natural language processing and machine learning. C
 
 - **Aligning with Human Judgement: The Role of Pairwise Preference in Large Language Model Evaluators**
 
-  Yinhong Liu<sup>*</sup>, Han Zhou<sup>*</sup>, Zhijiang Guo, Ehsan Shareghi, Ivan Vulić, Anna Korhonen, Nigel Collier
+  Yinhong Liu<sup>*</sup>, Han Zhou<sup>*</sup>, **Zhijiang Guo**, Ehsan Shareghi, Ivan Vulić, Anna Korhonen, Nigel Collier
 
   [[Paper]](https://arxiv.org/pdf/2403.16950.pdf) [[Code]](https://github.com/cambridgeltl/PairS)
 
