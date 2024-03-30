@@ -215,7 +215,23 @@ I am generally interested in natural language processing and machine learning. C
 
   **Preprint**
 
-  [[Paper]](https://arxiv.org/pdf/2401.15042.pdf)[[Dataset]](https://github.com/Namco0816/ProxyQA)
+  [[Paper]](https://arxiv.org/pdf/2401.15042.pdf) [[Code]](https://github.com/Namco0816/ProxyQA)
+
+- **Learning From Correctness Without Prompting Makes LLM Efficient Reasoner**
+
+  Yuxuan Yao<sup>*</sup>, Han Wu<sup>*</sup>, Zhijiang Guo<sup>#</sup>, Biyan Zhou, Jiahui Gao, Sichun Luo, Hanxu Hou, Xiaojin Fu, Linqi Song
+
+  **Preprint**
+
+  [[Paper]](https://arxiv.org/pdf/2403.19094.pdf)
+
+- **Aligning with Human Judgement: The Role of Pairwise Preference in Large Language Model Evaluators**
+
+  Yinhong Liu<sup>*</sup>, Han Zhou<sup>*</sup>, Zhijiang Guo, Ehsan Shareghi, Ivan Vulić, Anna Korhonen, Nigel Collier
+
+  [[Paper]](https://arxiv.org/pdf/2403.16950.pdf) [[Code]](https://github.com/cambridgeltl/PairS)
+
+  **Preprint**
   
 - **Are LLMs Rigorous Logical Reasoners? Empowering Natural Language Proof Generation with Contrastive Stepwise Decoding**
 
@@ -225,21 +241,13 @@ I am generally interested in natural language processing and machine learning. C
 
   [[Paper]](https://arxiv.org/pdf/2311.06736.pdf)
 
-- **Give Me More Details: Improving Real-World Fact-checking with Latent Retrieval**
-
-  Xuming Hu, Junzhe Chen, **Zhijiang Guo<sup>#</sup>**, Philip S. Yu
-  
-  **Preprint**
-  
-  [[Paper]](https://arxiv.org/pdf/2305.16128.pdf)
-
 - **Do We Need Language-Specific Fact-Checking Models? The Case of Chinese**
 
   Caiqi Zhang, **Zhijiang Guo**, Andreas Vlachos
 
   **Preprint**
 
-  [[Paper]](https://arxiv.org/pdf/2401.15498.pdf)
+  [[Paper]](https://arxiv.org/pdf/2401.15498.pdf) [[Code]](https://github.com/caiqizh/FC_Chinese)
 
 - **YODA: Teacher-Student Progressive Learning for Language Models**
 
@@ -254,6 +262,14 @@ I am generally interested in natural language processing and machine learning. C
   Chunlin Tian, Zhan Shi, **Zhijiang Guo**, Li Li, Cheng-zhong Xu
 
   **Preprint**
+
+- **Give Me More Details: Improving Real-World Fact-checking with Latent Retrieval**
+
+  Xuming Hu, Junzhe Chen, **Zhijiang Guo<sup>#</sup>**, Philip S. Yu
+  
+  **Preprint**
+  
+  [[Paper]](https://arxiv.org/pdf/2305.16128.pdf)
 
 - **GRATIS: Deep Learning Graph Representation with Task-specific Topology and Multi-dimensional Edge Features**
 
