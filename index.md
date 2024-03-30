@@ -76,8 +76,8 @@ I am generally interested in natural language processing and machine learning. C
   
   **Findings of EMNLP 2023**
   
-  [[Paper]](https://arxiv.org/pdf/2305.13507.pdf) [[Code]](https://github.com/Cartus/Automated-Fact-Checking-Resources) [[Code]](https://github.com/Cartus/Automated-Fact-Checking-Resources)
-
+  [[Paper]](https://arxiv.org/pdf/2305.13507.pdf) [[Code]](https://github.com/Cartus/Automated-Fact-Checking-Resources)
+  
 - **TRIGO: Benchmarking Formal Mathematical Proof Reduction for Generative Language Models**
   
   Jing Xiong, Jianhao Shen, Ye Yuan, Haiming Wang, Yichun Yin, Zhengying Liu, Lin Li, **Zhijiang Guo**, Qingxing Cao, Yinya Huang, Chuanyang Zheng, Xiaodan Liang, Ming Zhang, Qun Liu
