@@ -309,16 +309,16 @@ I am generally interested in natural language processing and machine learning. C
 
 
 ## Research Mentoring
-
+I am fortunate to be working with the following talented students and interns:
 - Andrew Georgiou: Master at Cambridge, to Google
 - Caiqi Zhang: Master at Cambridge, to PhD at Cambridge
-- Henry Caushi: Undergrad at Cambridge
+- Henry Caushi: Undergrad at Cambridge, to Instructor at Warwick
+- Haochen Tan: PhD at CityU, to Researcher at Huawei Noah's Ark (HK)
+- Jianqiao Lu: PhD at HKU
 - Jing Xiong: Master at SYSU
 - Ying Su: PhD at HKUST
-- Haochen Tan: PhD at CityU
 - William Liu: PhD at Cambridge
 - Yunlong Feng: PhD at HIT
-- Jianqiao Lu: PhD at HKU
 - Yuxuan Yao: PhD at CityU
 
 ## Education
