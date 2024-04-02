@@ -310,7 +310,7 @@ I am generally interested in natural language processing and machine learning. C
 
 ## Research Mentoring
 I am fortunate to be working with the following talented students and interns:
-- Andrew Georgiou: Master at Cambridge, to Google
+- Andrew Georgiou: Master at Cambridge, to Google Zurich
 - Caiqi Zhang: Master at Cambridge, to PhD at Cambridge
 - Henry Caushi: Undergrad at Cambridge, to Instructor at Warwick
 - Haochen Tan: PhD at CityU, to Researcher at Huawei Noah's Ark (HK)
