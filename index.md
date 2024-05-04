@@ -263,6 +263,8 @@ I am generally interested in natural language processing and machine learning. C
 
   **Preprint**
 
+  [[Paper]](https://arxiv.org/pdf/2404.19245)[[Code]](https://github.com/Clin0212/HydraLoRA)
+
 - **Give Me More Details: Improving Real-World Fact-checking with Latent Retrieval**
 
   Xuming Hu, Junzhe Chen, **Zhijiang Guo<sup>#</sup>**, Philip S. Yu
