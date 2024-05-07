@@ -215,7 +215,7 @@ I am generally interested in natural language processing and machine learning. C
 
   **Preprint**
 
-  [[Paper]](https://arxiv.org/pdf/2401.15042.pdf) [[Code]](https://github.com/Namco0816/ProxyQA)
+  [[Paper]](https://arxiv.org/pdf/2401.15042.pdf) [[Code]](https://github.com/Namco0816/ProxyQA) [[Dataset]](https://github.com/Namco0816/ProxyQA?tab=readme-ov-file) [[Leaderboard]](https://proxy-qa.com/)
 
 - **Learning From Correctness Without Prompting Makes LLM Efficient Reasoner**
 
@@ -248,6 +248,14 @@ I am generally interested in natural language processing and machine learning. C
   **Preprint**
 
   [[Paper]](https://arxiv.org/pdf/2401.15498.pdf) [[Code]](https://github.com/caiqizh/FC_Chinese)
+
+- **Evaluating Robustness of Generative Search Engine on Adversarial Factual Questions**
+
+  Xuming Hu, Xiaochuan Li, Junzhe Chen, Yinghui Li, Yangning Li, Xiaoguang Li, Yasheng Wang, Qun Liu, Lijie Wen, Philip S Yu, **Zhijiang Guo<sup>#</sup>**
+
+  **Preprint**
+
+  [[Paper]](https://arxiv.org/pdf/2403.12077)
 
 - **YODA: Teacher-Student Progressive Learning for Language Models**
 
