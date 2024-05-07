@@ -1,8 +1,3 @@
-![image](https://github.com/Cartus/cartus.github.io/assets/8509368/040421f9-bb3e-4689-b8c6-813dcd714495)---
-layout: default
----
-
-
 ## About
 Hi! My name is Zhijiang Guo (郭志江). I am a Researcher at [Huawei Noah's Ark Lab](http://dev3.noahlab.com.hk/) and a Visiting Researcher at the University of Cambridge. Before that, I was a Postdoc at the [Department of Computer Science and Technology](https://www.cst.cam.ac.uk/) at the University of Cambridge from 2020-2022, working with Prof. [Andreas Vlachos](https://andreasvlachos.github.io//). I am also a member of [Trinity College](https://www.trin.cam.ac.uk/).
 
