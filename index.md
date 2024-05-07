@@ -1,4 +1,4 @@
----
+![image](https://github.com/Cartus/cartus.github.io/assets/8509368/040421f9-bb3e-4689-b8c6-813dcd714495)---
 layout: default
 ---
 
@@ -299,8 +299,9 @@ I am generally interested in natural language processing and machine learning. C
 - **Area Chair**: ACL 2024 (Interpretability and Analysis), COLING 2024 (Machine Learning), EMNLP 2023 (NLP Application), EMNLP 2022 (Semantics)
 - **Action Editor**: ACL ARR
 - **Senior Program Committee**: AAAI 2024, AAAI 2023, IJCAI 2022
-- **Program Committee**: NeurIPS/ICLR/COLM/ACL/EMNLP/NAACL/EACL/COLING/AAAI/IJCAI
-- **Journal**: Machine Learning/Computational Linguistics/TACL/TKDE/TALLIP/TASLP/TOIS
+- **Standing Reviewer**: Computational Linguistics 
+- **Program Committee**: NeurIPS/ICLR/ICML/COLM/ACL/EMNLP/NAACL/EACL/COLING
+- **Journal**: Machine Learning/TACL/TKDE/TALLIP/TASLP/TOIS
     
 ## Workshops Organization
 
@@ -322,6 +323,7 @@ I am fortunate to be working with the following talented students and interns:
 - William Liu: PhD at Cambridge
 - Yunlong Feng: PhD at HIT
 - Yuxuan Yao: PhD at CityU
+- Alisa Wan: Master at Cambridge
 
 ## Education
   
