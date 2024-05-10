@@ -3,7 +3,7 @@ Hi! My name is Zhijiang Guo (郭志江). I am a Researcher at [Huawei Noah's Ark
 
 I earned my PhD in Computer Science from SUTD in 2020, under the supervision of Prof. [Wei Lu](https://istd.sutd.edu.sg/people/faculty/lu-wei). I was a visiting student in ILCC at the University of Edinburgh from 2019-2020, working with Prof. [Shay Cohen](http://homepages.inf.ed.ac.uk/scohen/), Prof. [Giorgio Satta](http://www.dei.unipd.it/~satta/), Prof. [Frank Drewes](https://www.umu.se/en/staff/frank-drewes/) and Prof. [Johanna Björklund](https://www.umu.se/en/staff/johanna-bjorklund/) on Structured Prediction.  I also learned a lot from Prof. [Zhiyang Teng](http://zeeeyang.github.io/). 
 
-**I am looking for research interns to work with me on large language models (see below), drop me an email if you are interested.**
+**Feel free to drop me an email if you are looking for research collaboration or interns on large language models.**
 
 Email: cartusguo AT gmail.com
 
@@ -16,7 +16,6 @@ I am generally interested in natural language processing and machine learning. C
 - **Factuality**: method, evaluation and multimodality
 - **Reasoning**: math, logic and code
 - **Knowledge**: retrieval, calibration and grounding
-- **LLMs as Agents**: planning, memory and collaboration
 
 
 ## News
