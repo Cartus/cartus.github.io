@@ -34,6 +34,22 @@ I am generally interested in natural language processing and machine learning. C
 
 <sup>$</sup> denotes equal contribution, <sup>#</sup> denotes corresponding author.
 
+- **ProxyQA: An Alternative Framework for Evaluating Long-Form Text Generation with Large Language Models**
+
+  Haochen Tan<sup>$</sup>, **Zhijiang Guo<sup>$</sup>**, Zhan Shi, Lu Xu, Zhili Liu, Xiaoguang Li, Yasheng Wang, Lifeng Shang, Qun Liu, Linqi Song
+
+  **ACL 2024**
+
+  [[Paper]](https://arxiv.org/pdf/2401.15042.pdf) [[Code]](https://github.com/Namco0816/ProxyQA) [[Dataset]](https://github.com/Namco0816/ProxyQA?tab=readme-ov-file) [[Leaderboard]](https://proxy-qa.com/)
+
+- **Evaluating Robustness of Generative Search Engine on Adversarial Factual Questions**
+
+  Xuming Hu, Xiaochuan Li, Junzhe Chen, Yinghui Li, Yangning Li, Xiaoguang Li, Yasheng Wang, Qun Liu, Lijie Wen, Philip S Yu, **Zhijiang Guo<sup>#</sup>**
+
+  **Findings of ACL 2024**
+
+  [[Paper]](https://arxiv.org/pdf/2403.12077)
+
 - **Do Large Language Models Know about Facts?**
 
   Xuming Hu, Junzhe Chen, Xiaochuan Li, Yufei Guo, Lijie Wen, Philip S Yu, **Zhijiang Guo<sup>#</sup>**
@@ -203,13 +219,6 @@ I am generally interested in natural language processing and machine learning. C
 
 ## Preprints
 
-- **ProxyQA: An Alternative Framework for Evaluating Long-Form Text Generation with Large Language Models**
-
-  Haochen Tan<sup>$</sup>, **Zhijiang Guo<sup>$</sup>**, Zhan Shi, Lu Xu, Zhili Liu, Xiaoguang Li, Yasheng Wang, Lifeng Shang, Qun Liu, Linqi Song
-
-  **Preprint**
-
-  [[Paper]](https://arxiv.org/pdf/2401.15042.pdf) [[Code]](https://github.com/Namco0816/ProxyQA) [[Dataset]](https://github.com/Namco0816/ProxyQA?tab=readme-ov-file) [[Leaderboard]](https://proxy-qa.com/)
 
 - **Learning From Correctness Without Prompting Makes LLM Efficient Reasoner**
 
@@ -242,14 +251,6 @@ I am generally interested in natural language processing and machine learning. C
   **Preprint**
 
   [[Paper]](https://arxiv.org/pdf/2401.15498.pdf) [[Code]](https://github.com/caiqizh/FC_Chinese)
-
-- **Evaluating Robustness of Generative Search Engine on Adversarial Factual Questions**
-
-  Xuming Hu, Xiaochuan Li, Junzhe Chen, Yinghui Li, Yangning Li, Xiaoguang Li, Yasheng Wang, Qun Liu, Lijie Wen, Philip S Yu, **Zhijiang Guo<sup>#</sup>**
-
-  **Preprint**
-
-  [[Paper]](https://arxiv.org/pdf/2403.12077)
 
 - **YODA: Teacher-Student Progressive Learning for Language Models**
 
