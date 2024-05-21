@@ -334,6 +334,7 @@ I am fortunate to be working with the following talented students and interns:
 - Yunlong Feng: PhD at HIT
 - Yuxuan Yao: PhD at CityU
 - Alisa Wan: Master at Cambridge
+- Dong Huang: PhD at HKU
 
 ## Education
   
