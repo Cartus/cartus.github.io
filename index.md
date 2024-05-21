@@ -219,6 +219,13 @@ I am generally interested in natural language processing and machine learning. C
 
 ## Preprints
 
+- **MHPP: Exploring the Capabilities and Limitations of Language Models Beyond Basic Code Generation**
+
+  Jianbo Dai<sup>$</sup>, Jianqiao Lu<sup>$</sup>, Yunlong Feng<sup>$</sup>, Rongju Ruan, Ming Cheng, Haochen Tan, **Zhijiang Guo<sup>#</sup>**
+
+  **Preprint**
+
+  [[Paper]](https://arxiv.org/pdf/2405.11430) [[Dataset]](https://github.com/SparksofAGI/MHPP) [[Leaderboard]](https://sparksofagi.github.io/MHPP/)
 
 - **Learning From Correctness Without Prompting Makes LLM Efficient Reasoner**
 
