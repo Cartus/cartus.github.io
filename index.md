@@ -219,6 +219,15 @@ I am generally interested in natural language processing and machine learning. C
 
 ## Preprints
 
+
+- **SOAP: Enhancing Efficiency of Generated Code via Self-Optimization**
+
+  Dong Huang, Jianbo Dai, Han Weng, Puzhen Wu, Yuhao Qing, Jie M.Zhang, Heming Cui, **Zhijiang Guo<sup>#</sup>**
+
+  **Preprint**
+
+  [[Paper]](https://arxiv.org/pdf/2405.15189) [[Code]](https://github.com/huangd1999/SOAP)
+
 - **MHPP: Exploring the Capabilities and Limitations of Language Models Beyond Basic Code Generation**
 
   Jianbo Dai<sup>$</sup>, Jianqiao Lu<sup>$</sup>, Yunlong Feng<sup>$</sup>, Rongju Ruan, Ming Cheng, Haochen Tan, **Zhijiang Guo<sup>#</sup>**
