@@ -219,6 +219,13 @@ I am generally interested in natural language processing and machine learning. C
 
 ## Preprints
 
+- **AUTOCV: Empowering Reasoning with Automated Process Labeling via Confidence Variation**
+
+  Jianqiao Lu, Zhiyang Dou, Hongru Wang, Zeyu Cao, Jianbo Dai, Yingjia Wan, Yinya Huang, **Zhijiang Guosup>#</sup>**
+
+  **Preprint**
+
+  [[Paper]](https://arxiv.org/pdf/2405.16802) [[Code]](https://github.com/rookie-joe/AUTOCV)
 
 - **SOAP: Enhancing Efficiency of Generated Code via Self-Optimization**
 
