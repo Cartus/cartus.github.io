@@ -343,14 +343,15 @@ I am fortunate to be working with the following talented students and interns:
 - Caiqi Zhang: Master at Cambridge, to PhD at Cambridge
 - Henry Caushi: Undergrad at Cambridge, to Instructor at Warwick
 - Haochen Tan: PhD at CityU, to Researcher at Huawei Noah's Ark (HK)
+- Jing Xiong: Master at SYSU, to PhD at HKU
 - Jianqiao Lu: PhD at HKU
-- Jing Xiong: Master at SYSU
 - Ying Su: PhD at HKUST
 - William Liu: PhD at Cambridge
 - Yunlong Feng: PhD at HIT
 - Yuxuan Yao: PhD at CityU
 - Alisa Wan: Master at Cambridge
 - Dong Huang: PhD at HKU
+- Chunlin Tian: PhD at UM
 
 ## Education
   
