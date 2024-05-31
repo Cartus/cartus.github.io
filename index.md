@@ -219,9 +219,17 @@ I am generally interested in natural language processing and machine learning. C
 
 ## Preprints
 
+- **CtrlA: Adaptive Retrieval-Augmented Generation via Probe-Guided Control**
+
+  Huanshuo Liu<sup>$</sup>, Hao Zhang<sup>$</sup>,  **Zhijiang Guo<sup>#</sup>**, Kuicai Dong, Xiangyang Li, Yi Quan Lee, Cong Zhang, Yong Liu
+
+  **Preprint**
+
+  [[Paper]](https://arxiv.org/pdf/2405.18727) [[Code]](https://github.com/HSLiu-Initial/CtrlA)
+
 - **AUTOCV: Empowering Reasoning with Automated Process Labeling via Confidence Variation**
 
-  Jianqiao Lu, Zhiyang Dou, Hongru Wang, Zeyu Cao, Jianbo Dai, Yingjia Wan, Yinya Huang, **Zhijiang Guosup>#</sup>**
+  Jianqiao Lu, Zhiyang Dou, Hongru Wang, Zeyu Cao, Jianbo Dai, Yingjia Wan, Yinya Huang, **Zhijiang Guo<sup>#</sup>**
 
   **Preprint**
 
@@ -237,7 +245,7 @@ I am generally interested in natural language processing and machine learning. C
 
 - **MHPP: Exploring the Capabilities and Limitations of Language Models Beyond Basic Code Generation**
 
-  Jianbo Dai<sup>$</sup>, Jianqiao Lu<sup>$</sup>, Yunlong Feng<sup>$</sup>, Rongju Ruan, Ming Cheng, Haochen Tan, **Zhijiang Guo<sup>#</sup>**
+  Jianbo Dai<sup>$</sup>, Jianqiao Lu<sup>$</sup>, Yunlong Feng<sup>$</sup>, Rongju Ruan, Ming Cheng, Haochen Tan<sup>#</sup>, **Zhijiang Guo<sup>#</sup>**
 
   **Preprint**
 
@@ -245,7 +253,7 @@ I am generally interested in natural language processing and machine learning. C
 
 - **Learning From Correctness Without Prompting Makes LLM Efficient Reasoner**
 
-  Yuxuan Yao<sup>$</sup>, Han Wu<sup>$</sup>, **Zhijiang Guo<sup>#</sup>**, Biyan Zhou, Jiahui Gao, Sichun Luo, Hanxu Hou, Xiaojin Fu, Linqi Song
+  Yuxuan Yao<sup>$</sup>, Han Wu<sup>$</sup>, **Zhijiang Guo<sup>#</sup>**, Biyan Zhou, Jiahui Gao, Sichun Luo, Hanxu Hou, Xiaojin Fu, Linqi Song<sup>#</sup>
 
   **Preprint**
 
