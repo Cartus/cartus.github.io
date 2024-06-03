@@ -71,6 +71,8 @@ I am generally interested in natural language processing and machine learning. C
   Linzi Xing, Xinglu Wang, Yuxi Feng, Zhenan Fan, Jing Xiong, **Zhijiang Guo**, Xiaojin Fu, Rindra Ramamonjison, Mahdi Mostajabdaveh, Xiongwei Han, Zirui Zhou and Yong Zhang
 
   **COLING 2024**
+
+   [[Paper]](https://aclanthology.org/2024.lrec-main.1438.pdf)
   
 - **AVeriTeC: A Dataset for Real-world Claim Verification with Evidence from the Web**
   
