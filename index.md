@@ -221,6 +221,14 @@ I am generally interested in natural language processing and machine learning. C
 
 ## Preprints
 
+- **Process-Driven Autoformalization in Lean 4**
+
+  Jianqiao Lu, Zhengying Liu, Yingjia Wan, Yinya Huang, Haiming Wang, Zhicheng Yang, Jing Tang, **Zhijiang Guo<sup>#</sup>**
+
+  [[Paper]](https://arxiv.org/pdf/2405.18727) [[Code]](https://github.com/rookie-joe/PDA)
+
+  **Preprint**
+
 - **CtrlA: Adaptive Retrieval-Augmented Generation via Probe-Guided Control**
 
   Huanshuo Liu<sup>$</sup>, Hao Zhang<sup>$</sup>,  **Zhijiang Guo<sup>#</sup>**, Kuicai Dong, Xiangyang Li, Yi Quan Lee, Cong Zhang, Yong Liu
