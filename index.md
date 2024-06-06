@@ -48,7 +48,7 @@ I am generally interested in natural language processing and machine learning. C
 
   **Findings of ACL 2024**
 
-  [[Paper]](https://arxiv.org/pdf/2403.12077)
+  [[Paper]](https://arxiv.org/pdf/2403.12077) [[Code]](https://github.com/HKUSTGZ-NLP/Adversarial-Attack)
 
 - **Do Large Language Models Know about Facts?**
 
