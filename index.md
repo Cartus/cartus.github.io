@@ -221,14 +221,6 @@ I am generally interested in natural language processing and machine learning. C
 
 ## Preprints
 
-- **Process-Driven Autoformalization in Lean 4**
-
-  Jianqiao Lu, Zhengying Liu, Yingjia Wan, Yinya Huang, Haiming Wang, Zhicheng Yang, Jing Tang, **Zhijiang Guo<sup>#</sup>**
-
-  [[Paper]](https://arxiv.org/pdf/2405.18727) [[Code]](https://github.com/rookie-joe/PDA)
-
-  **Preprint**
-
 - **CtrlA: Adaptive Retrieval-Augmented Generation via Probe-Guided Control**
 
   Huanshuo Liu<sup>$</sup>, Hao Zhang<sup>$</sup>,  **Zhijiang Guo<sup>#</sup>**, Kuicai Dong, Xiangyang Li, Yi Quan Lee, Cong Zhang, Yong Liu
@@ -236,30 +228,6 @@ I am generally interested in natural language processing and machine learning. C
   **Preprint**
 
   [[Paper]](https://arxiv.org/pdf/2405.18727) [[Code]](https://github.com/HSLiu-Initial/CtrlA)
-
-- **AUTOCV: Empowering Reasoning with Automated Process Labeling via Confidence Variation**
-
-  Jianqiao Lu, Zhiyang Dou, Hongru Wang, Zeyu Cao, Jianbo Dai, Yingjia Wan, Yinya Huang, **Zhijiang Guo<sup>#</sup>**
-
-  **Preprint**
-
-  [[Paper]](https://arxiv.org/pdf/2405.16802) [[Code]](https://github.com/rookie-joe/AUTOCV)
-
-- **SOAP: Enhancing Efficiency of Generated Code via Self-Optimization**
-
-  Dong Huang, Jianbo Dai, Han Weng, Puzhen Wu, Yuhao Qing, Jie M.Zhang, Heming Cui, **Zhijiang Guo<sup>#</sup>**
-
-  **Preprint**
-
-  [[Paper]](https://arxiv.org/pdf/2405.15189) [[Code]](https://github.com/huangd1999/SOAP)
-
-- **MHPP: Exploring the Capabilities and Limitations of Language Models Beyond Basic Code Generation**
-
-  Jianbo Dai<sup>$</sup>, Jianqiao Lu<sup>$</sup>, Yunlong Feng<sup>$</sup>, Rongju Ruan, Ming Cheng, Haochen Tan<sup>#</sup>, **Zhijiang Guo<sup>#</sup>**
-
-  **Preprint**
-
-  [[Paper]](https://arxiv.org/pdf/2405.11430) [[Dataset]](https://github.com/SparksofAGI/MHPP) [[Leaderboard]](https://sparksofagi.github.io/MHPP/)
 
 - **Learning From Correctness Without Prompting Makes LLM Efficient Reasoner**
 
