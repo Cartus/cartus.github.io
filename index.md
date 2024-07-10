@@ -35,6 +35,23 @@ I am generally interested in natural language processing and machine learning. C
 
 <sup>$</sup> denotes equal contribution, <sup>#</sup> denotes corresponding author.
 
+
+- **Learning From Correctness Without Prompting Makes LLM Efficient Reasoner**
+
+  Yuxuan Yao<sup>$</sup>, Han Wu<sup>$</sup>, **Zhijiang Guo<sup>#</sup>**, Biyan Zhou, Jiahui Gao, Sichun Luo, Hanxu Hou, Xiaojin Fu, Linqi Song<sup>#</sup>
+
+  **COLM 2024**
+
+  [[Paper]](https://arxiv.org/pdf/2403.19094.pdf)
+
+- **Aligning with Human Judgement: The Role of Pairwise Preference in Large Language Model Evaluators**
+
+  Yinhong Liu<sup>$</sup>, Han Zhou<sup>$</sup>, **Zhijiang Guo**, Ehsan Shareghi, Ivan Vulić, Anna Korhonen, Nigel Collier
+
+  [[Paper]](https://arxiv.org/pdf/2403.16950.pdf) [[Code]](https://github.com/cambridgeltl/PairS)
+
+  **COLM 2024**
+
 - **ProxyQA: An Alternative Framework for Evaluating Long-Form Text Generation with Large Language Models**
 
   Haochen Tan<sup>$</sup>, **Zhijiang Guo<sup>$</sup>**, Zhan Shi, Lu Xu, Zhili Liu, Xiaoguang Li, Yasheng Wang, Lifeng Shang, Qun Liu, Linqi Song
@@ -230,21 +247,7 @@ I am generally interested in natural language processing and machine learning. C
 
   [[Paper]](https://arxiv.org/pdf/2405.18727) [[Code]](https://github.com/HSLiu-Initial/CtrlA)
 
-- **Learning From Correctness Without Prompting Makes LLM Efficient Reasoner**
 
-  Yuxuan Yao<sup>$</sup>, Han Wu<sup>$</sup>, **Zhijiang Guo<sup>#</sup>**, Biyan Zhou, Jiahui Gao, Sichun Luo, Hanxu Hou, Xiaojin Fu, Linqi Song<sup>#</sup>
-
-  **Preprint**
-
-  [[Paper]](https://arxiv.org/pdf/2403.19094.pdf)
-
-- **Aligning with Human Judgement: The Role of Pairwise Preference in Large Language Model Evaluators**
-
-  Yinhong Liu<sup>$</sup>, Han Zhou<sup>$</sup>, **Zhijiang Guo**, Ehsan Shareghi, Ivan Vulić, Anna Korhonen, Nigel Collier
-
-  [[Paper]](https://arxiv.org/pdf/2403.16950.pdf) [[Code]](https://github.com/cambridgeltl/PairS)
-
-  **Preprint**
   
 - **Are LLMs Rigorous Logical Reasoners? Empowering Natural Language Proof Generation with Contrastive Stepwise Decoding**
 
