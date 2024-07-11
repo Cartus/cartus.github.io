@@ -358,7 +358,7 @@ I am generally interested in natural language processing and machine learning. C
 
 ## Academic Services
 
-- **Area Chair**: EMNLP (Machine Learning for NLP), ACL 2024 (Interpretability and Analysis), COLING 2024 (Machine Learning), EMNLP 2023 (NLP Application), EMNLP 2022 (Semantics)
+- **Area Chair**: EMNLP 2024 (Machine Learning for NLP), ACL 2024 (Interpretability and Analysis), COLING 2024 (Machine Learning), EMNLP 2023 (NLP Application), EMNLP 2022 (Semantics)
 - **Action Editor**: ACL ARR
 - **Senior Program Committee**: AAAI 2024, AAAI 2023, IJCAI 2022
 - **Standing Reviewer**: Computational Linguistics 
