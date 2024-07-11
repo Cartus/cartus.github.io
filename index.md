@@ -239,6 +239,22 @@ I am generally interested in natural language processing and machine learning. C
 
 ## Preprints
 
+- **MR-BEN: A Comprehensive Meta-Reasoning Benchmark for Large Language Models**
+
+  Zhongshen Zeng, Yinhong Liu, Yingjia Wan, Jingyao Li, Pengguang Chen, Jianbo Dai, Yuxuan Yao, Rongwu Xu, Zehan Qi, Wanru Zhao, Linling Shen, Jianqiao Lu, Haochen Tan, Yukang Chen, Hao Zhang, Zhan Shi, Bailin Wang, **Zhijiang Guo<sup>#</sup>** **Jiaya Jia<sup>#</sup>**
+
+   **Preprint**
+
+  [[Paper]](https://arxiv.org/pdf/2406.13975) [[Code]](https://github.com/dvlab-research/Mr-Ben) [[Dataset]](https://huggingface.co/datasets/Randolphzeng/Mr-Ben) [[Leaderboard]](https://randolph-zeng.github.io/Mr-Ben.github.io/)
+
+- **Knowledge Conflicts for LLMs: A Survey**
+
+  Rongwu Xu<sup>$</sup>, Zehan Qi<sup>$</sup>, **Zhijiang Guo**, Cunxiang Wang, Hongru Wang, Yue Zhang, Wei Xu
+
+   **Preprint**
+
+  [[Paper]](https://arxiv.org/pdf/2403.08319) [[Code]](https://github.com/pillowsofwind/Knowledge-Conflicts-Survey)
+
 - **CtrlA: Adaptive Retrieval-Augmented Generation via Probe-Guided Control**
 
   Huanshuo Liu<sup>$</sup>, Hao Zhang<sup>$</sup>,  **Zhijiang Guo<sup>#</sup>**, Kuicai Dong, Xiangyang Li, Yi Quan Lee, Cong Zhang, Yong Liu
@@ -247,7 +263,37 @@ I am generally interested in natural language processing and machine learning. C
 
   [[Paper]](https://arxiv.org/pdf/2405.18727) [[Code]](https://github.com/HSLiu-Initial/CtrlA)
 
+- **AUTOCV: Empowering Reasoning with Automated Process Labeling via Confidence Variation**
 
+  Jianqiao Lu, Zhiyang Dou, Hongru Wang, Zeyu Cao, Jianbo Dai, Yingjia Wan, Yinya Huang, **Zhijiang Guo<sup>#</sup>**
+
+  **Preprint**
+
+  [[Paper]](https://arxiv.org/pdf/2405.16802) [[Code]](https://github.com/rookie-joe/AUTOCV)
+
+- **SOAP: Enhancing Efficiency of Generated Code via Self-Optimization**
+
+  Dong Huang, Jianbo Dai, Han Weng, Puzhen Wu, Yuhao Qing, Jie M.Zhang, Heming Cui, **Zhijiang Guo<sup>#</sup>**
+
+  **Preprint**
+
+  [[Paper]](https://arxiv.org/pdf/2405.15189) [[Code]](https://github.com/huangd1999/SOAP)
+
+- **MHPP: Exploring the Capabilities and Limitations of Language Models Beyond Basic Code Generation**
+
+  Jianbo Dai<sup>$</sup>, Jianqiao Lu<sup>$</sup>, Yunlong Feng<sup>$</sup>, Rongju Ruan, Ming Cheng, Haochen Tan<sup>#</sup>, **Zhijiang Guo<sup>#</sup>**
+
+  **Preprint**
+
+  [[Paper]](https://arxiv.org/pdf/2405.11430) [[Dataset]](https://github.com/SparksofAGI/MHPP) [Leaderboard]
+
+- **Process-Driven Autoformalization in Lean 4**
+
+  Jianqiao Lu, Zhengying Liu, Yingjia Wan, Yinya Huang, Haiming Wang, Zhicheng Yang, Jing Tang, **Zhijiang Guo<sup>#</sup>**
+
+  [[Paper]](https://arxiv.org/pdf/2405.18727) [[Code]](https://github.com/rookie-joe/PDA)
+
+  **Preprint**
   
 - **Are LLMs Rigorous Logical Reasoners? Empowering Natural Language Proof Generation with Contrastive Stepwise Decoding**
 
@@ -304,7 +350,7 @@ I am generally interested in natural language processing and machine learning. C
   
   **Zhijiang Guo**
   
-  *PhD Thesis*
+  *PhD Thesis, Outstanding Thesis Award*
   
   [[Paper]](./docs/thesis.pdf) [[Slides]](./docs/thesis_slides.pdf)
   
@@ -321,10 +367,10 @@ I am generally interested in natural language processing and machine learning. C
     
 ## Workshops Organization
 
-- **EMNLP 2021 Workshop**: The Fourth Fact Extraction and VERification (FEVER) 
-- **ACL 2022 Workshop**: The Fifth Fact Extraction and VERification (FEVER) 
+- **EMNLP 2024 Workshop**: The Seventh Fact Extraction and VERification (FEVER)
 - **EACL 2023 Workshop**: The Sixth Fact Extraction and VERification (FEVER)
-- **EMNLP 2024 Workshop**: The Seventh Fact Extraction and VERification (FEVER) 
+- **ACL 2022 Workshop**: The Fifth Fact Extraction and VERification (FEVER) 
+- **EMNLP 2021 Workshop**: The Fourth Fact Extraction and VERification (FEVER) 
 
 
 ## Research Mentoring
@@ -332,7 +378,7 @@ I am fortunate to be working with the following talented students and interns:
 - Andrew Georgiou: Master at Cambridge, to Google Zurich
 - Caiqi Zhang: Master at Cambridge, to PhD at Cambridge
 - Henry Caushi: Undergrad at Cambridge, to Instructor at Warwick
-- Haochen Tan: PhD at CityU, to Researcher at Huawei Noah's Ark (HK)
+- Haochen Tan: PhD at CityU, to Researcher at Huawei Noah's Ark Hong Kong
 - Jing Xiong: Master at SYSU, to PhD at HKU
 - Jianqiao Lu: PhD at HKU
 - Ying Su: PhD at HKUST
