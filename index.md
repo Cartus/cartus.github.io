@@ -42,7 +42,7 @@ I am generally interested in natural language processing and machine learning. C
 
   **COLM 2024**
 
-  [[Paper]](https://arxiv.org/pdf/2403.19094.pdf)
+  [[Paper]](https://arxiv.org/pdf/2403.19094.pdf) [[Code]](https://github.com/starrYYxuan/LeCo)
 
 - **Aligning with Human Judgement: The Role of Pairwise Preference in Large Language Model Evaluators**
 
