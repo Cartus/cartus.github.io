@@ -241,7 +241,7 @@ I am generally interested in natural language processing and machine learning. C
 
 - **MR-BEN: A Comprehensive Meta-Reasoning Benchmark for Large Language Models**
 
-  Zhongshen Zeng, Yinhong Liu, Yingjia Wan, Jingyao Li, Pengguang Chen, Jianbo Dai, Yuxuan Yao, Rongwu Xu, Zehan Qi, Wanru Zhao, Linling Shen, Jianqiao Lu, Haochen Tan, Yukang Chen, Hao Zhang, Zhan Shi, Bailin Wang, **Zhijiang Guo<sup>#</sup>** **Jiaya Jia<sup>#</sup>**
+  Zhongshen Zeng, Yinhong Liu, Yingjia Wan, Jingyao Li, Pengguang Chen, Jianbo Dai, Yuxuan Yao, Rongwu Xu, Zehan Qi, Wanru Zhao, Linling Shen, Jianqiao Lu, Haochen Tan, Yukang Chen, Hao Zhang, Zhan Shi, Bailin Wang, **Zhijiang Guo<sup>#</sup>**, Jiaya Jia<sup>#</sup>
 
    **Preprint**
 
@@ -348,9 +348,7 @@ I am generally interested in natural language processing and machine learning. C
 ## Thesis
 - **Learning with Graphs in Natural Language Processing**
   
-  **Zhijiang Guo**
-  
-  *PhD Thesis, Outstanding Thesis Award*
+  **PhD Thesis, Outstanding Thesis Award**
   
   [[Paper]](./docs/thesis.pdf) [[Slides]](./docs/thesis_slides.pdf)
   
