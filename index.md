@@ -346,7 +346,7 @@ I am generally interested in natural language processing and machine learning. C
 
 
 ## Thesis
-- **Learning with Graphs in Natural Language Processing**
+- *Learning with Graphs in Natural Language Processing*
   
   **PhD Thesis, Outstanding Thesis Award**
   
