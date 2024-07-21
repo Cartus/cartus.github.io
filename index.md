@@ -386,6 +386,7 @@ I am fortunate to be working with the following talented students and interns:
 - Alisa Wan: Master at Cambridge
 - Dong Huang: PhD at HKU
 - Chunlin Tian: PhD at UM
+- Huanshuo Liu: Master at NUS
 
 ## Education
   
