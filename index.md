@@ -388,13 +388,13 @@ I am fortunate to be working with the following talented students and interns:
 - Haochen Tan: PhD at CityU, to Researcher at Huawei Noah's Ark Hong Kong
 - Jing Xiong: Master at SYSU, to PhD at HKU
 - Jianqiao Lu: PhD at HKU
-- Ying Su: PhD at HKUST
-- Yunlong Feng: PhD at HIT
+- Rongwu Xu: Master at Tsinghua
 - Yuxuan Yao: PhD at CityU
 - Alisa Wan: Master at Cambridge
-- Dong Huang: PhD at HKU
 - Chunlin Tian: PhD at UM
-- Rongwu Xu: Master at Tsinghua
+- Dong Huang: PhD at HKU
+- Ying Su: PhD at HKUST
+- Yunlong Feng: PhD at HIT
 - Huanshuo Liu: Master at NUS
 
 ## Education
