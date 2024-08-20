@@ -20,7 +20,7 @@ I am generally interested in natural language processing and machine learning. C
 
 ## News
 
-- **2024.06**: Glad to serve as Area Chair (AC) for [ICLR 2025](https://iclr.cc/Conferences/2025)
+- **2024.08**: Glad to serve as Area Chair (AC) for [ICLR 2025](https://iclr.cc/Conferences/2025)
 - **2024.06**: Glad to serve as Area Chair (AC) for [EMNLP 2024](https://2024.emnlp.org/)
 - **2024.02**: Glad to serve as Area Chair (AC) for [ACL 2024](https://2024.aclweb.org/)
 - **2023.10**: Glad to serve as Area Chair (AC) for [COLING 2024](https://lrec-coling-2024.org/)
@@ -375,10 +375,10 @@ I am generally interested in natural language processing and machine learning. C
     
 ## Workshops Organization
 
-- **EMNLP 2024 Workshop**: [[The Seventh Fact Extraction and VERification (FEVER)]](https://fever.ai/)
-- **EACL 2023 Workshop**: The Sixth Fact Extraction and VERification (FEVER)
-- **ACL 2022 Workshop**: The Fifth Fact Extraction and VERification (FEVER) 
-- **EMNLP 2021 Workshop**: The Fourth Fact Extraction and VERification (FEVER) 
+- **EMNLP 2024 Workshop**: [The Seventh Fact Extraction and VERification (FEVER)](https://fever.ai/)
+- **EACL 2023 Workshop**: [The Sixth Fact Extraction and VERification (FEVER)](https://fever.ai/2023/workshop.html)
+- **ACL 2022 Workshop**: [The Fifth Fact Extraction and VERification (FEVER)](https://fever.ai/2022/workshop.html) 
+- **EMNLP 2021 Workshop**: [The Fourth Fact Extraction and VERification (FEVER)](https://fever.ai/2021/workshop.html) 
 
 
 ## Research Mentoring
