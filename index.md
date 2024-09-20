@@ -36,6 +36,7 @@ I am generally interested in natural language processing and machine learning. C
 
 <sup>$</sup> denotes equal contribution, <sup>#</sup> denotes corresponding author.
 
+
 - **Knowledge Conflicts for LLMs: A Survey**
 
   Rongwu Xu<sup>$</sup>, Zehan Qi<sup>$</sup>, **Zhijiang Guo**, Cunxiang Wang, Hongru Wang, Yue Zhang, Wei Xu
@@ -51,6 +52,22 @@ I am generally interested in natural language processing and machine learning. C
   **EMNLP 2024**
 
   [[Paper]](https://arxiv.org/pdf/2401.15498.pdf) [[Code]](https://github.com/caiqizh/FC_Chinese)
+
+- **DVD: Dynamic Contrastive Decoding for Knowledge Amplification in Multi-Document Question Answering**
+
+  Jing Jin, Houfeng Wang, Hao Zhang, Xiaoguang Li, **Zhijiang Guo**
+
+  **EMNLP 2024**
+  
+  **Paper and Code is coming soon!**
+
+- **Long$^2$Rag: Evaluating Long-Context & Long-Form Retrieval-Augmented Generation with Key Point Recall**
+
+  Zehan Qi, Rongwu Xu, **Zhijiang Guo<sup>#</sup>**, Cunxiang Wang, Hao Zhang, Wei Xu
+
+  **EMNLP 2024**
+  
+  **Paper and Code is coming soon!**
 
 - **Learning From Correctness Without Prompting Makes LLM Efficient Reasoner**
 
