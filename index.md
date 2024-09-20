@@ -36,6 +36,21 @@ I am generally interested in natural language processing and machine learning. C
 
 <sup>$</sup> denotes equal contribution, <sup>#</sup> denotes corresponding author.
 
+- **Knowledge Conflicts for LLMs: A Survey**
+
+  Rongwu Xu<sup>$</sup>, Zehan Qi<sup>$</sup>, **Zhijiang Guo**, Cunxiang Wang, Hongru Wang, Yue Zhang, Wei Xu
+
+   **EMNLP 2024**
+
+  [[Paper]](https://arxiv.org/pdf/2403.08319) [[Code]](https://github.com/pillowsofwind/Knowledge-Conflicts-Survey)
+
+- **Do We Need Language-Specific Fact-Checking Models? The Case of Chinese**
+
+  Caiqi Zhang, **Zhijiang Guo**, Andreas Vlachos
+
+  **EMNLP 2024**
+
+  [[Paper]](https://arxiv.org/pdf/2401.15498.pdf) [[Code]](https://github.com/caiqizh/FC_Chinese)
 
 - **Learning From Correctness Without Prompting Makes LLM Efficient Reasoner**
 
@@ -257,14 +272,6 @@ I am generally interested in natural language processing and machine learning. C
 
   [[Paper]](https://arxiv.org/pdf/2406.13975) [[Code]](https://github.com/dvlab-research/Mr-Ben) [[Dataset]](https://huggingface.co/datasets/Randolphzeng/Mr-Ben) [[Leaderboard]](https://randolph-zeng.github.io/Mr-Ben.github.io/)
 
-- **Knowledge Conflicts for LLMs: A Survey**
-
-  Rongwu Xu<sup>$</sup>, Zehan Qi<sup>$</sup>, **Zhijiang Guo**, Cunxiang Wang, Hongru Wang, Yue Zhang, Wei Xu
-
-   **Preprint**
-
-  [[Paper]](https://arxiv.org/pdf/2403.08319) [[Code]](https://github.com/pillowsofwind/Knowledge-Conflicts-Survey)
-
 - **CtrlA: Adaptive Retrieval-Augmented Generation via Probe-Guided Control**
 
   Huanshuo Liu<sup>$</sup>, Hao Zhang<sup>$</sup>,  **Zhijiang Guo<sup>#</sup>**, Kuicai Dong, Xiangyang Li, Yi Quan Lee, Cong Zhang, Yong Liu
@@ -313,13 +320,7 @@ I am generally interested in natural language processing and machine learning. C
 
   [[Paper]](https://arxiv.org/pdf/2311.06736.pdf)
 
-- **Do We Need Language-Specific Fact-Checking Models? The Case of Chinese**
 
-  Caiqi Zhang, **Zhijiang Guo**, Andreas Vlachos
-
-  **Preprint**
-
-  [[Paper]](https://arxiv.org/pdf/2401.15498.pdf) [[Code]](https://github.com/caiqizh/FC_Chinese)
 
 - **YODA: Teacher-Student Progressive Learning for Language Models**
 
