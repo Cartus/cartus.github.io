@@ -53,7 +53,7 @@ I am generally interested in natural language processing and machine learning. C
 
   [[Paper]](https://arxiv.org/pdf/2401.15498.pdf) [[Code]](https://github.com/caiqizh/FC_Chinese)
 
-- **DVD: Dynamic Contrastive Decoding for Knowledge Amplification in Multi-Document Question Answering**
+- **DvD: Dynamic Contrastive Decoding for Knowledge Amplification in Multi-Document Question Answering**
 
   Jing Jin, Houfeng Wang, Hao Zhang, Xiaoguang Li, **Zhijiang Guo**
 
