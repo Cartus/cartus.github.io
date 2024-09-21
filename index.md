@@ -59,15 +59,15 @@ I am generally interested in natural language processing and machine learning. C
 
   **EMNLP 2024**
   
-  **Paper and Code is coming soon!**
+  **Paper and Code are coming soon!**
 
 - **Long$^2$Rag: Evaluating Long-Context & Long-Form Retrieval-Augmented Generation with Key Point Recall**
 
   Zehan Qi, Rongwu Xu, **Zhijiang Guo<sup>#</sup>**, Cunxiang Wang, Hao Zhang, Wei Xu
 
-  **EMNLP 2024**
+  **Findings of EMNLP 2024**
   
-  **Paper and Code is coming soon!**
+  **Paper and Code are coming soon!**
 
 - **Learning From Correctness Without Prompting Makes LLM Efficient Reasoner**
 
