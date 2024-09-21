@@ -61,7 +61,7 @@ I am generally interested in natural language processing and machine learning. C
   
   **Paper and Code are coming soon!**
 
-- **Long$^2$Rag: Evaluating Long-Context & Long-Form Retrieval-Augmented Generation with Key Point Recall**
+- **Long<sup>2</sup>Rag: Evaluating Long-Context & Long-Form Retrieval-Augmented Generation with Key Point Recall**
 
   Zehan Qi, Rongwu Xu, **Zhijiang Guo<sup>#</sup>**, Cunxiang Wang, Hao Zhang, Wei Xu
 
