@@ -36,6 +36,37 @@ I am generally interested in natural language processing and machine learning. C
 
 <sup>$</sup> denotes equal contribution, <sup>#</sup> denotes corresponding author.
 
+- **AUTOCV: Empowering Reasoning with Automated Process Labeling via Confidence Variation**
+
+  Jianqiao Lu, Zhiyang Dou, Hongru Wang, Zeyu Cao, Jianbo Dai, Yingjia Wan, Yinya Huang, **Zhijiang Guo<sup>#</sup>**
+
+  **NeurIPS 2024**
+
+  [[Paper]](https://arxiv.org/pdf/2405.16802) [[Code]](https://github.com/rookie-joe/AUTOCV)
+
+- **MR-BEN: A Comprehensive Meta-Reasoning Benchmark for Large Language Models**
+
+  Zhongshen Zeng, Yinhong Liu, Yingjia Wan, Jingyao Li, Pengguang Chen, Jianbo Dai, Yuxuan Yao, Rongwu Xu, Zehan Qi, Wanru Zhao, Linling Shen, Jianqiao Lu, Haochen Tan, Yukang Chen, Hao Zhang, Zhan Shi, Bailin Wang, **Zhijiang Guo<sup>#</sup>**, Jiaya Jia<sup>#</sup>
+
+   **NeurIPS 2024**
+
+  [[Paper]](https://arxiv.org/pdf/2406.13975) [[Code]](https://github.com/dvlab-research/Mr-Ben) [[Dataset]](https://huggingface.co/datasets/Randolphzeng/Mr-Ben) [[Leaderboard]](https://randolph-zeng.github.io/Mr-Ben.github.io/)
+
+- **SOAP: Enhancing Efficiency of Generated Code via Self-Optimization**
+
+  Dong Huang, Jianbo Dai, Han Weng, Puzhen Wu, Yuhao Qing, Jie M.Zhang, Heming Cui, **Zhijiang Guo<sup>#</sup>**
+
+  **NeurIPS 2024**
+
+  [[Paper]](https://arxiv.org/pdf/2405.15189) [[Code]](https://github.com/huangd1999/SOAP)
+
+- **HydraLoRA: An Asymmetric LoRA Architecture for Efficient Fine-Tuning**
+
+  Chunlin Tian<sup>$</sup>, Zhan Shi<sup>$</sup>, **Zhijiang Guo**, Li Li, Cheng-zhong Xu
+
+  **NeurIPS 2024 (Oral)**
+
+  [[Paper]](https://arxiv.org/pdf/2404.19245)[[Code]](https://github.com/Clin0212/HydraLoRA)
 
 - **Knowledge Conflicts for LLMs: A Survey**
 
@@ -281,14 +312,6 @@ I am generally interested in natural language processing and machine learning. C
 
   [[Paper]](https://arxiv.org/pdf/2408.01419) [[Code]](https://github.com/pillowsofwind/DebateQA)
 
-- **MR-BEN: A Comprehensive Meta-Reasoning Benchmark for Large Language Models**
-
-  Zhongshen Zeng, Yinhong Liu, Yingjia Wan, Jingyao Li, Pengguang Chen, Jianbo Dai, Yuxuan Yao, Rongwu Xu, Zehan Qi, Wanru Zhao, Linling Shen, Jianqiao Lu, Haochen Tan, Yukang Chen, Hao Zhang, Zhan Shi, Bailin Wang, **Zhijiang Guo<sup>#</sup>**, Jiaya Jia<sup>#</sup>
-
-   **Preprint**
-
-  [[Paper]](https://arxiv.org/pdf/2406.13975) [[Code]](https://github.com/dvlab-research/Mr-Ben) [[Dataset]](https://huggingface.co/datasets/Randolphzeng/Mr-Ben) [[Leaderboard]](https://randolph-zeng.github.io/Mr-Ben.github.io/)
-
 - **CtrlA: Adaptive Retrieval-Augmented Generation via Probe-Guided Control**
 
   Huanshuo Liu<sup>$</sup>, Hao Zhang<sup>$</sup>,  **Zhijiang Guo<sup>#</sup>**, Kuicai Dong, Xiangyang Li, Yi Quan Lee, Cong Zhang, Yong Liu
@@ -296,22 +319,6 @@ I am generally interested in natural language processing and machine learning. C
   **Preprint**
 
   [[Paper]](https://arxiv.org/pdf/2405.18727) [[Code]](https://github.com/HSLiu-Initial/CtrlA)
-
-- **AUTOCV: Empowering Reasoning with Automated Process Labeling via Confidence Variation**
-
-  Jianqiao Lu, Zhiyang Dou, Hongru Wang, Zeyu Cao, Jianbo Dai, Yingjia Wan, Yinya Huang, **Zhijiang Guo<sup>#</sup>**
-
-  **Preprint**
-
-  [[Paper]](https://arxiv.org/pdf/2405.16802) [[Code]](https://github.com/rookie-joe/AUTOCV)
-
-- **SOAP: Enhancing Efficiency of Generated Code via Self-Optimization**
-
-  Dong Huang, Jianbo Dai, Han Weng, Puzhen Wu, Yuhao Qing, Jie M.Zhang, Heming Cui, **Zhijiang Guo<sup>#</sup>**
-
-  **Preprint**
-
-  [[Paper]](https://arxiv.org/pdf/2405.15189) [[Code]](https://github.com/huangd1999/SOAP)
 
 - **MHPP: Exploring the Capabilities and Limitations of Language Models Beyond Basic Code Generation**
 
@@ -337,8 +344,6 @@ I am generally interested in natural language processing and machine learning. C
 
   [[Paper]](https://arxiv.org/pdf/2311.06736.pdf)
 
-
-
 - **YODA: Teacher-Student Progressive Learning for Language Models**
 
   Jianqiao Lu<sup>$</sup>, Wanjun Zhong<sup>$</sup>, Yufei Wang, **Zhijiang Guo**, Qi Zhu, Wenyong Huang, Yanlin Wang, Fei Mi, Baojun Wang, Yasheng Wang, Lifeng Shang, Xin Jiang, Qun Liu
@@ -346,14 +351,6 @@ I am generally interested in natural language processing and machine learning. C
   **Preprint**
 
   [[Paper]](https://arxiv.org/pdf/2401.15670.pdf)
-
-- **HydraLoRA: An Asymmetric LoRA Architecture for Efficient Fine-Tuning**
-
-  Chunlin Tian, Zhan Shi, **Zhijiang Guo**, Li Li, Cheng-zhong Xu
-
-  **Preprint**
-
-  [[Paper]](https://arxiv.org/pdf/2404.19245)[[Code]](https://github.com/Clin0212/HydraLoRA)
 
 - **Give Me More Details: Improving Real-World Fact-checking with Latent Retrieval**
 
