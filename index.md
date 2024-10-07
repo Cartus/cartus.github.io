@@ -399,16 +399,16 @@ I am generally interested in natural language processing and machine learning. C
 ## Research Mentoring
 I am fortunate to be working with the following talented students and interns:
 - Andrew Georgiou: Master at Cambridge, to Google Zurich
-- Caiqi Zhang: Master at Cambridge, to PhD at Cambridge
+- [Caiqi Zhang](https://caiqizh.github.io/): Master at Cambridge, to PhD at Cambridge
 - Henry Caushi: Undergrad at Cambridge, to Instructor at Warwick
-- Haochen Tan: PhD at CityU, to Researcher at Huawei Noah's Ark Hong Kong
-- Jing Xiong: Master at SYSU, to PhD at HKU
-- Jianqiao Lu: PhD at HKU
-- Rongwu Xu: Master at Tsinghua
+- [Haochen Tan](https://namco0816.github.io/): PhD at CityU, to Researcher at Huawei Noah's Ark Hong Kong
+- [Jing Xiong](https://menik1126.github.io/): Master at SYSU, to PhD at HKU
+- [Jianqiao Lu](https://jianqiaolu.github.io/): PhD at HKU
+- [Rongwu Xu](https://rongwuxu.site/): Master at Tsinghua
 - Yuxuan Yao: PhD at CityU
-- Alisa Wan: Master at Cambridge
-- Chunlin Tian: PhD at UM
-- Dong Huang: PhD at HKU
+- [Alisa Wan](https://yingjia.one/): Master at Cambridge
+- [Chunlin Tian](https://clin0212.github.io/): PhD at UM
+- [Dong Huang](https://huangd1999.github.io/): PhD at HKU
 - Ying Su: PhD at HKUST
 - Yunlong Feng: PhD at HIT
 - Huanshuo Liu: Master at NUS
