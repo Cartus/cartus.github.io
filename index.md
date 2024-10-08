@@ -304,6 +304,12 @@ I am generally interested in natural language processing and machine learning. C
 ## Preprints
 
 
+- **Aligning with Logic: Measuring, Evaluating and Improving Logical Consistency in Large Language Models**
+
+  Yinhong Liu, **Zhijiang Guo**, Tianya Liang, Ehsan Shareghi, Ivan Vulić, Anna Korhonen, Nigel Collier
+
+  [[Paper]](https://arxiv.org/pdf/2410.02205) 
+
 - **DEBATEQA: Evaluating Question Answering on Debatable Knowledge**
 
   Rongwu Xu<sup>$</sup>, Xuan Qi<sup>$</sup>, Zehan Qi, Wei Xu, Zhijiang Guo
@@ -333,6 +339,14 @@ I am generally interested in natural language processing and machine learning. C
   Jianqiao Lu, Zhengying Liu, Yingjia Wan, Yinya Huang, Haiming Wang, Zhicheng Yang, Jing Tang, **Zhijiang Guo<sup>#</sup>**
 
   [[Paper]](https://arxiv.org/pdf/2405.18727) [[Code]](https://github.com/rookie-joe/PDA)
+
+  **Preprint**
+
+- **OptiBench Meets ReSocratic: Measure and Improve LLMs for Optimization Modeling**
+
+  Zhicheng Yang, Yiwei Wang, Yinya Huang, **Zhijiang Guo**, Wei Shi, Xiongwei Han, Liang Feng, Linqi Song, Xiaodan Liang, Jing Tang
+
+   [[Paper]](https://arxiv.org/pdf/2407.09887) [[Code]](https://github.com/yangzhch6/ReSocratic)
 
   **Preprint**
   
