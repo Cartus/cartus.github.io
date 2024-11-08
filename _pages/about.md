@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: cartusguo AT gmail.com. 雲在青天水在瓶
 
