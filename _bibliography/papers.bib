@@ -1,6 +1,22 @@
 ---
 ---
 
+@inproceedings{Zeng2024MRBenAM,
+  abbr={NeurIPS},
+  title={MR-Ben: A Meta-Reasoning Benchmark for Evaluating System-2 Thinking in LLMs},
+  author={Zhongshen Zeng and Yinhong Liu and Yingjia Wan and Jingyao Li and Pengguang Chen and Jianbo Dai and Yuxuan Yao and Rongwu Xu and Zehan Qi and Wanru Zhao and Linling Shen and Jianqiao Lu and Haochen Tan and Yukang Chen and Hao Zhang and Zhan Shi and Bailin Wang and Zhijiang Guo† and Jiaya Jia†},
+  year={2024},
+  preview={MrBen.png},
+  booktitle={NeurIPS},
+  selected={true},
+  bibtex_show={true},
+  annotation={† denotes Corresponding Author.},
+  html={https://arxiv.org/pdf/2406.13975v1},
+  code={https://github.com/dvlab-research/Mr-Ben},
+  website={https://randolph-zeng.github.io/Mr-Ben.github.io/},
+  abstract={Large language models (LLMs) have shown increasing capability in problem-solving and decision-making, largely based on the step-by-step chain-of-thought reasoning processes. However, it has been increasingly challenging to evaluate the reasoning capability of LLMs. Concretely, existing outcome-based benchmarks begin to saturate and become less sufficient to monitor the progress. To this end, we present a process-based benchmark Mr-Ben that demands a meta reasoning skill, where LMs are asked to locate and analyse potential errors in automatically generated reasoning steps. Mr-Ben is a comprehensive benchmark comprising 5,975 questions collected from human experts, covering various subjects such as physics, chemistry, logic, coding, and more. Through our designed metrics for assessing meta-reasoning on this benchmark, we identify interesting limitations and weaknesses of current LLMs (open-source and closed-source models). For example, open-source models are seemingly comparable to GPT-4 on outcome-based benchmarks, but they lag far behind on our benchmark, revealing the underlying reasoning capability gap between them. Our dataset and codes are available on https://randolph-zeng.github.io/Mr-Ben.github.io/.} 
+}
+
 @inproceedings{DBLP:conf/acl/TanGSXLFLWSLS24,
   abbr={ACL},
   author       = {Haochen Tan* and
@@ -27,3 +43,5 @@
   abstract = {Large Language Models (LLMs) have succeeded remarkably in understanding long-form contents. However, exploring their capability for generating long-form contents, such as reports and articles, has been relatively unexplored and inadequately assessed by existing benchmarks. The prevalent evaluation methods, which predominantly rely on crowdsourcing, are recognized for their labor-intensive nature and lack of efficiency, whereas automated metrics, such as the ROUGE score, demonstrate discordance with human judgment criteria. In this paper, we propose ProxyQA, an innovative framework dedicated to assessing long-text generation. ProxyQA comprises in-depth human-curated meta-questions spanning various domains, each accompanied by specific proxy-questions with pre-annotated answers. LLMs are tasked to generate extensive content in response to these meta-questions, by engaging an evaluator and incorporating the generated texts as contextual background, ProxyQA assesses the generated content{'}s quality through the evaluator{'}s accuracy in addressing the proxy-questions. We examine multiple LLMs, emphasizing ProxyQA{'}s demanding nature as a high-quality assessment tool. Human evaluation demonstrates that the proxy-question method is notably self-consistent and aligns closely with human evaluative standards. The dataset and leaderboard is available at \url{https://proxy-qa.com}.},
   bibtex_show = {true}
 }
+
+
