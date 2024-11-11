@@ -14,10 +14,6 @@
   url: https://transacl.org/index.php/tacl
   color: "#003366"
 
-"COLING":
-  url: https://aclanthology.org/venues/coling/
-  color: "#003366"
-
 "NeurIPS":
   url: https://papers.nips.cc/
   color: "#cc9900"
@@ -26,10 +22,18 @@
   url: https://iclr.cc/
   color: "#cc9900"
 
-"IJCAI":
-  url: https://www.ijcai.org/
-  color: "#cc9900"
-
 "COLM":
   url: https://colmweb.org/
   color: "#cc9900"
+
+"IJCAI":
+  url: https://www.ijcai.org/
+  color: "#ccccc0"
+
+"COLING":
+  url: https://aclanthology.org/venues/coling/
+  color: "#ccccc0"
+
+"SIGIR":
+  url: https://aclanthology.org/venues/coling/
+  color: "#ccccc0"
