@@ -1,45 +1,35 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
-
-"PhysRev":
-  url: https://journals.aps.org/
-
-"Vision":
-  color: "#009f36"
-
 "ACL":
   url: https://aclanthology.org/venues/acl/
-  color: "#009f36"
+  color: "#003366"
 
 "EMNLP":
   url: https://aclanthology.org/venues/emnlp/
-  color: "#009f36"
+  color: "#003366"
 
 "NAACL":
   url: https://naacl.org/index.html
-  color: "#009f36"
+  color: "#003366"
 
 "TACL":
   url: https://transacl.org/index.php/tacl
-  color: "#009f36"
+  color: "#003366"
 
 "COLING":
   url: https://aclanthology.org/venues/coling/
-  color: "#009f36"
+  color: "#003366"
 
 "NeurIPS":
   url: https://papers.nips.cc/
-  color: "#800080"
+  color: "#cc9900"
 
 "ICLR":
   url: https://iclr.cc/
-  color: "#800080"
+  color: "#cc9900"
 
 "IJCAI":
   url: https://www.ijcai.org/
-  color: "#800080"
+  color: "#cc9900"
 
 "COLM":
   url: https://colmweb.org/
-  color: "#800080"
+  color: "#cc9900"
