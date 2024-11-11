@@ -48,6 +48,20 @@
 }
 
 
+@inproceedings{Hu2024EvaluatingRO,
+  title={Evaluating Robustness of Generative Search Engine on Adversarial Factual Questions},
+  author={Xuming Hu* and Xiaochuan Li* and Junzhe Chen and Yinghui Li and Yangning Li and Xiaoguang Li and Yasheng Wang and Qun Liu and Lijie Wen and Philip S. Yu and Zhijiang Guo†},
+  booktitle  = {Findings of ACL},
+  year={2024},
+  html       = {https://arxiv.org/pdf/2403.12077},
+  code       = {https://github.com/HKUSTGZ-NLP/Adversarial-Attack},
+  selected   = {false},
+  preview = {Attack.png},
+  annotation   = {* denotes Equal Contribution. † denotes Corresponding Author.},
+  abstract = {Generative search engines have the potential to transform how people seek information online, but generated responses from existing large language models (LLMs)-backed generative search engines may not always be accurate. Nonetheless, retrieval-augmented generation exacerbates safety concerns, since adversaries may successfully evade the entire system by subtly manipulating the most vulnerable part of a claim. To this end, we propose evaluating the robustness of generative search engines in the realistic and high-risk setting, where adversaries have only black-box system access and seek to deceive the model into returning incorrect responses. Through a comprehensive human evaluation of various generative search engines, such as Bing Chat, PerplexityAI, and YouChat across diverse queries, we demonstrate the effectiveness of adversarial factual questions in inducing incorrect responses. Moreover, retrieval-augmented generation exhibits a higher susceptibility to factual errors compared to LLMs without retrieval. These findings highlight the potential security risks of these systems and emphasize the need for rigorous evaluation before deployment.}
+}
+
+
 @inproceedings{DBLP:conf/iclr/XiongLZGYXYCWHT24,
   abbr={ICLR},
   author       = {Jing Xiong* and
@@ -104,6 +118,20 @@
   preview = {avtec.png},
   annotation   = {* denotes Equal Contribution.},
   abstract = {Existing datasets for automated fact-checking have substantial limitations, such as relying on artificial claims, lacking annotations for evidence and intermediate reasoning, or including evidence published after the claim. In this paper we introduce AVeriTeC, a new dataset of 4,568 real-world claims covering fact-checks by 50 different organizations. Each claim is annotated with question-answer pairs supported by evidence available online, as well as textual justifications explaining how the evidence combines to produce a verdict. Through a multi-round annotation process, we avoid common pitfalls including context dependence, evidence insufficiency, and temporal leakage, and reach a substantial inter-annotator agreement of κ=0.619 on verdicts. We develop a baseline as well as an evaluation scheme for verifying claims through several question-answering steps against the open web.}
+}
+
+
+@inproceedings{Akhtar2023MultimodalAF,
+  abbr={EMNLP},
+  title={Multimodal Automated Fact-Checking: A Survey},
+  author={Mubashara Akhtar and M. Schlichtkrull and Zhijiang Guo and Oana Cocarascu and Elena Paslaru Bontas Simperl and Andreas Vlachos},
+  booktitle={Findings of EMNLP},
+  year={2023},
+  html       = {https://arxiv.org/pdf/2305.13507},
+  code       = {https://github.com/Cartus/Automated-Fact-Checking-Resources},
+  selected   = {false},
+  preview = {MFactSurvey.png},
+  abstract = {Misinformation is often conveyed in multiple modalities, e.g. a miscaptioned image. Multimodal misinformation is perceived as more credible by humans, and spreads faster than its text-only counterparts. While an increasing body of research investigates automated fact-checking (AFC), previous surveys mostly focus on text. In this survey, we conceptualise a framework for AFC including subtasks unique to multimodal misinformation. Furthermore, we discuss related terms used in different communities and map them to our framework. We focus on four modalities prevalent in real-world fact-checking: text, image, audio, and video. We survey benchmarks and models, and discuss limitations and promising directions for future research}
 }
 
 
