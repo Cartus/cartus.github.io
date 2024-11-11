@@ -18,6 +18,9 @@
 }
 
 
+
+
+
 @inproceedings{DBLP:conf/acl/TanGSXLFLWSLS24,
   abbr={ACL},
   author       = {Haochen Tan* and
@@ -45,7 +48,37 @@
 }
 
 
+@inproceedings{Xiong2023TRIGOBF,
+  abbr={EMNLP},
+  title={TRIGO: Benchmarking Formal Mathematical Proof Reduction for Generative Language Models},
+  author={Jing Xiong and Jianhao Shen and Ye Yuan and Haiming Wang and Yichun Yin and Zhengying Liu and Lin Li and Zhijiang Guo and Qingxing Cao and Yinya Huang and Chuanyang Zheng and Xiaodan Liang and Ming Zhang and Qun Liu},
+  booktitle  = {EMNLP},
+  year={2023},
+  html       = {https://arxiv.org/pdf/2310.10180},
+  code       = {https://github.com/menik1126/TRIGO},
+  selected   = {false},
+  preview = {trigo.png},
+  abstract = {Automated theorem proving (ATP) has become an appealing domain for exploring the reasoning ability of the recent successful generative language models. However, current ATP benchmarks mainly focus on symbolic inference, but rarely involve the understanding of complex number combination reasoning. In this work, we propose TRIGO, an ATP benchmark that not only requires a model to reduce a trigonometric expression with step-by-step proofs but also evaluates a generative LM's reasoning ability on formulas and its capability to manipulate, group, and factor number terms. We gather trigonometric expressions and their reduced forms from the web, annotate the simplification process manually, and translate it into the Lean formal language system. We then automatically generate additional examples from the annotated samples to expand the dataset. Furthermore, we develop an automatic generator based on Lean-Gym to create dataset splits of varying difficulties and distributions in order to thoroughly analyze the model's generalization ability. Our extensive experiments show our proposed TRIGO poses a new challenge for advanced generative LM's including GPT-4 which is pre-trained on a considerable amount of open-source formal theorem-proving language data, and provide a new tool to study the generative LM's ability on both formal and mathematical reasoning.}
+}
+
+
+@inproceedings{Hu2023MultimodalRE,
+  abbr={ACL},
+  title={Multimodal Relation Extraction with Cross-Modal Retrieval and Synthesis},
+  author={Xuming Hu* and Zhijiang Guo* and Zhiyang Teng and Irwin King and Philip S. Yu},
+  booktitle  = {ACL},
+  year={2023},
+  html       = {https://arxiv.org/pdf/2305.16166},
+  code       = {https://github.com/THU-BPM/MRE},
+  selected   = {false},
+  preview = {MRE.png},
+  abstract = {Multimodal relation extraction (MRE) is the task of identifying the semantic relationships between two entities based on the context of the sentence image pair. Existing retrieval-augmented approaches mainly focused on modeling the retrieved textual knowledge, but this may not be able to accurately identify complex relations. To improve the prediction, this research proposes to retrieve textual and visual evidence based on the object, sentence, and whole image. We further develop a novel approach to synthesize the object-level, image-level, and sentence-level information for better reasoning between the same and different modalities. Extensive experiments and analyses show that the proposed method is able to effectively select and compare evidence across modalities and significantly outperforms state-of-the-art models.},
+  annotation   = {* denotes Equal Contribution.}
+}
+
+
 @inproceeding{Hu2023MR2AB,
+  abbr={SIGIR},
   title={MR2: A Benchmark for Multimodal Retrieval-Augmented Rumor Detection in Social Media},
   author={Xuming Hu* and Zhijiang Guo* and Junzhe Chen and Lijie Wen and Philip S. Yu},
   journal={Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval},
@@ -60,6 +93,7 @@
 
 
 @inproceeding{Hu2023ReadIT,
+  abbr={SIGIR},
   title={Read it Twice: Towards Faithfully Interpretable Fact Verification by Revisiting Evidence},
   author={Xuming Hu and Zhaochen Hong and Zhijiang Guo and Lijie Wen and Philip S. Yu},
   year={2023},
@@ -73,6 +107,7 @@
 
 
 @inproceeding{Guo2022ASO,
+  abbr={TACL},
   title={A Survey on Automated Fact-Checking},
   author={Zhijiang Guo* and Michael Schlichtkrull*  and Andreas Vlachos},
   booktitle={TACL},
@@ -81,12 +116,14 @@
   code       = {https://github.com/Cartus/Automated-Fact-Checking-Resources},
   selected   = {True},
   preview = {FactSurvey.png},
+  selected   = {true},
   annotation   = {* denotes Equal Contribution.},
   abstract = {Fact-checking has become increasingly important due to the speed with which both information and misinformation can spread in the modern media ecosystem. Therefore, researchers have been exploring how fact-checking can be automated, using techniques based on natural language processing, machine learning, knowledge representation, and databases to automatically predict the veracity of claims. In this paper, we survey automated fact-checking stemming from natural language processing, and discuss its connections to related tasks and disciplines. In this process, we present an overview of existing datasets and models, aiming to unify the various definitions given and identify common concepts. Finally, we highlight challenges for future research.}
 }
 
 
 @inproceeding{Zhou2022METSCoVAD,
+  abbr={NeurIPS},
   title={METS-CoV: A Dataset of Medical Entity and Targeted Sentiment on COVID-19 Related Tweets},
   author={Peilin Zhou and Zeqiang Wang and Dading Chong and Zhijiang Guo and Yining Hua and Zichang Su and Zhiyang Teng and Jiageng Wu and Jie Yang},
   booktitle={NeurIPS},
@@ -99,6 +136,7 @@
 }
 
 @inproceedings{Hu2022SceneGM,
+  abbr={COLING},
   title={Scene Graph Modification as Incremental Structure Expanding},
   author={Xuming Hu* and Zhijiang Guo* and Yuwei Fu and Lijie Wen and Philip S. Yu},
   booktitle={COLING},
@@ -112,6 +150,7 @@
 }
 
 @inproceedings{Hu2022CHEFAP,
+  abbr={NAACL},
   title={CHEF: A Pilot Chinese Dataset for Evidence-Based Fact-Checking},
   author={Xuming Hu* and Zhijiang Guo* and Guan-Huei Wu and Aiwei Liu and Lijie Wen and Philip S. Yu},
   year={2022},
@@ -125,6 +164,7 @@
 }
 
 @inproceedings{Aly2021FEVEROUSFE,
+  abbr={NeurIPS},
   title={FEVEROUS: Fact Extraction and VERification Over Unstructured and Structured information},
   author={Rami Aly and Zhijiang Guo and M. Schlichtkrull and James Thorne and Andreas Vlachos and Christos Christodoulopoulos and Oana Cocarascu and Arpit Mittal},
   booktitle={NeurIPS},
