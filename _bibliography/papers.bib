@@ -44,6 +44,99 @@
   abstract = {Large Language Models (LLMs) have succeeded remarkably in understanding long-form contents. However, exploring their capability for generating long-form contents, such as reports and articles, has been relatively unexplored and inadequately assessed by existing benchmarks. The prevalent evaluation methods, which predominantly rely on crowdsourcing, are recognized for their labor-intensive nature and lack of efficiency, whereas automated metrics, such as the ROUGE score, demonstrate discordance with human judgment criteria. In this paper, we propose ProxyQA, an innovative framework dedicated to assessing long-text generation. ProxyQA comprises in-depth human-curated meta-questions spanning various domains, each accompanied by specific proxy-questions with pre-annotated answers. LLMs are tasked to generate extensive content in response to these meta-questions, by engaging an evaluator and incorporating the generated texts as contextual background, ProxyQA assesses the generated content{'}s quality through the evaluator{'}s accuracy in addressing the proxy-questions. We examine multiple LLMs, emphasizing ProxyQA{'}s demanding nature as a high-quality assessment tool. Human evaluation demonstrates that the proxy-question method is notably self-consistent and aligns closely with human evaluative standards. The dataset and leaderboard is available at \url{https://proxy-qa.com}.}
 }
 
+
+@inproceeding{Hu2023MR2AB,
+  title={MR2: A Benchmark for Multimodal Retrieval-Augmented Rumor Detection in Social Media},
+  author={Xuming Hu* and Zhijiang Guo* and Junzhe Chen and Lijie Wen and Philip S. Yu},
+  journal={Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval},
+  year={2023},
+  html       = {https://dl.acm.org/doi/pdf/10.1145/3539618.3591896},
+  code       = {https://github.com/THU-BPM/MR2},
+  selected   = {false},
+  preview = {MR2.png},
+  abstract = {As social media platforms are evolving from text-based forums into multi-modal environments, the nature of misinformation in social media is also transforming accordingly. Misinformation spreaders have recently targeted contextual connections between the modalities e.g., text and image. However, existing datasets for rumor detection mainly focus on a single modality i.e., text. To bridge this gap, we construct MR2, a multimodal multilingual retrieval-augmented dataset for rumor detection. The dataset covers rumors with images and texts, and provides evidence from both modalities that are retrieved from the Internet. Further, we develop established baselines and conduct a detailed analysis of the systems evaluated on the dataset. Extensive experiments show that MR2 will provide a challenging testbed for developing rumor detection systems designed to retrieve and reason over social media posts. Source code and data are available at: https://github.com/THU-BPM/MR2.},
+  annotation   = {* denotes Equal Contribution. † denotes Corresponding Author.},
+}
+
+
+@inproceeding{Hu2023ReadIT,
+  title={Read it Twice: Towards Faithfully Interpretable Fact Verification by Revisiting Evidence},
+  author={Xuming Hu and Zhaochen Hong and Zhijiang Guo and Lijie Wen and Philip S. Yu},
+  year={2023},
+  booktitle={SIGIR},
+  html       = {https://arxiv.org/pdf/2305.03507},
+  code       = {https://github.com/THU-BPM/ReRead},
+  selected   = {false},
+  preview = {ReadTwice.png},
+  abstract = {Real-world fact verification task aims to verify the factuality of a claim by retrieving evidence from the source document. The quality of the retrieved evidence plays an important role in claim verification. Ideally, the retrieved evidence should be faithful (reflecting the model's decision-making process in claim verification) and plausible (convincing to humans), and can improve the accuracy of verification task. Although existing approaches leverage the similarity measure of semantic or surface form between claims and documents to retrieve evidence, they all rely on certain heuristics that prevent them from satisfying all three requirements. In light of this, we propose a fact verification model named ReRead to retrieve evidence and verify claim that: (1) Train the evidence retriever to obtain interpretable evidence (i.e., faithfulness and plausibility criteria); (2) Train the claim verifier to revisit the evidence retrieved by the optimized evidence retriever to improve the accuracy. The proposed system is able to achieve significant improvements upon best-reported models under different settings.}
+}
+
+
+@inproceeding{Guo2022ASO,
+  title={A Survey on Automated Fact-Checking},
+  author={Zhijiang Guo* and Michael Schlichtkrull*  and Andreas Vlachos},
+  booktitle={TACL},
+  year={2022},
+  html       = {https://watermark.silverchair.com/tacl_a_00454.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAA0gwggNEBgkqhkiG9w0BBwagggM1MIIDMQIBADCCAyoGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMJ4p69Phf4EDOjlqbAgEQgIIC-9rtPbXf8FIuPiV9lIMrzxQ0fBPCqUeONxG2lzsseKakQvrJn860W6hr7ArSq8yJTIB5Ca0rOtbkb6t7Kmu-75J5JWvhEonn18lWr85ZS2xSQ7o55oqwFLRH9C5beJoi4itZoGIiU9Fp56-yxYMd9qPo0vc9NZkUmlZQctRWe1w5J11dfDnrizSaCvHECuRVlzvpvJsuP0UKlA0bQPRPQW0M_xzxGPlJM4afSZNudxoNNcQC8rscHElQWGUj2O8GiA1wnAR2M26EAYWJyDiV-W62ttaZmzfI1RpZ-4T64krLPAJ7p-bWz7Zenn-19GeolUtLMFXHMnyKwPUJSI9z2vwJZZWCKq_fMSo6w_MXN5WAi4NCNbIy766H4yymIcUwZVpg1evIXovYluC6BDmehI-zt-o3OklV2qjHLUp5B6yQkuJ6XX13P0cB108-Qr-cSf9vbGKGry7DUEe19Dkk5daKSQUpk7XLADqXmc1AzPw_w8VtTH8hM6WNCeGN8VtfG9Rz_N38hoCfQKlM0Yd1DIYNZ3FNCRsWa8ZFuUShfO_F03O0D9pnguRBfjZufYf1qFZl0T_l48RKEcIL1Mt8oeSSAUU9ARRMLZIaISDP1VM3FUKoh9hpQg4ec0tuoqISO7OT87hBhu-PiXk0m5-YnSz5ktKijuZ2IDlAhbAbaQu9fqkaOUPkwleiCOBRVP0IjThzPZ2jOEpFL4w6ebZPI1bMe192tK6A-sE8WvDHoTjhz5OCqkCtDiTQBB8cH-QWN0pqm2AHCpQitYe-5sfsaLmVBk4LOLb7ui5Yoj2g-bJp5CbIKYaowAAxH76z9VsAlcd-HPWE_zMnsiizimRb2J-EL74i-9gLBMOjIYXZzIt1x20-FHdF44THpEYLH6u08w8bjGQS68dE6Froimfp9oXOWjY1OCm-fJRCRrIDnmDyBXbFp51_etZWE5b9aAL5sHWkO0sv-7ILe3UI54LUS-iGDX5EB7irFnqn91RN4Nbhz9EXhhLwMHyfhVQ},
+  code       = {https://github.com/Cartus/Automated-Fact-Checking-Resources},
+  selected   = {True},
+  preview = {FactSurvey.png},
+  abstract = {Fact-checking has become increasingly important due to the speed with which both information and misinformation can spread in the modern media ecosystem. Therefore, researchers have been exploring how fact-checking can be automated, using techniques based on natural language processing, machine learning, knowledge representation, and databases to automatically predict the veracity of claims. In this paper, we survey automated fact-checking stemming from natural language processing, and discuss its connections to related tasks and disciplines. In this process, we present an overview of existing datasets and models, aiming to unify the various definitions given and identify common concepts. Finally, we highlight challenges for future research.}
+  annotation   = {* denotes Equal Contribution.},
+}
+
+
+@inproceeding{Zhou2022METSCoVAD,
+  title={METS-CoV: A Dataset of Medical Entity and Targeted Sentiment on COVID-19 Related Tweets},
+  author={Peilin Zhou and Zeqiang Wang and Dading Chong and Zhijiang Guo and Yining Hua and Zichang Su and Zhiyang Teng and Jiageng Wu and Jie Yang},
+  booktitle={NeurIPS},
+  year={2022},
+  html       = {https://arxiv.org/pdf/2209.13773},
+  code       = {https://github.com/YLab-Open/METS-CoV},
+  selected   = {false},
+  preview = {Mets.png},
+  abstract = {The COVID-19 pandemic continues to bring up various topics discussed or debated on social media. In order to explore the impact of pandemics on people's lives, it is crucial to understand the public's concerns and attitudes towards pandemic-related entities (e.g., drugs, vaccines) on social media. However, models trained on existing named entity recognition (NER) or targeted sentiment analysis (TSA) datasets have limited ability to understand COVID-19-related social media texts because these datasets are not designed or annotated from a medical perspective. This paper releases METS-CoV, a dataset containing medical entities and targeted sentiments from COVID-19-related tweets. METS-CoV contains 10,000 tweets with 7 types of entities, including 4 medical entity types (Disease, Drug, Symptom, and Vaccine) and 3 general entity types (Person, Location, and Organization). To further investigate tweet users' attitudes toward specific entities, 4 types of entities (Person, Organization, Drug, and Vaccine) are selected and annotated with user sentiments, resulting in a targeted sentiment dataset with 9,101 entities (in 5,278 tweets). To the best of our knowledge, METS-CoV is the first dataset to collect medical entities and corresponding sentiments of COVID-19-related tweets. We benchmark the performance of classical machine learning models and state-of-the-art deep learning models on NER and TSA tasks with extensive experiments. Results show that the dataset has vast room for improvement for both NER and TSA tasks. METS-CoV is an important resource for developing better medical social media tools and facilitating computational social science research, especially in epidemiology. Our data, annotation guidelines, benchmark models, and source code are publicly available (this https URL) to ensure reproducibility.}
+}
+
+@inproceedings{Hu2022SceneGM,
+  title={Scene Graph Modification as Incremental Structure Expanding},
+  author={Xuming Hu* and Zhijiang Guo* and Yuwei Fu and Lijie Wen and Philip S. Yu},
+  booktitle={COLING},
+  year={2022},
+  html       = {https://arxiv.org/pdf/2209.09093},
+  code       = {https://github.com/THU-BPM/SGM},
+  selected   = {false},
+  preview = {SGM.png},
+  abstract = {A scene graph is a semantic representation that expresses the objects, attributes, and relationships between objects in a scene. Scene graphs play an important role in many cross modality tasks, as they are able to capture the interactions between images and texts. In this paper, we focus on scene graph modification (SGM), where the system is required to learn how to update an existing scene graph based on a natural language query. Unlike previous approaches that rebuilt the entire scene graph, we frame SGM as a graph expansion task by introducing the incremental structure expanding (ISE). ISE constructs the target graph by incrementally expanding the source graph without changing the unmodified structure. Based on ISE, we further propose a model that iterates between nodes prediction and edges prediction, inferring more accurate and harmonious expansion decisions progressively. In addition, we construct a challenging dataset that contains more complicated queries and larger scene graphs than existing datasets. Experiments on four benchmarks demonstrate the effectiveness of our approach, which surpasses the previous state-of-the-art model by large margins.},
+  annotation   = {* denotes Equal Contribution.},
+}
+
+@inproceedings{Hu2022CHEFAP,
+  title={CHEF: A Pilot Chinese Dataset for Evidence-Based Fact-Checking},
+  author={Xuming Hu* and Zhijiang Guo* and Guan-Huei Wu and Aiwei Liu and Lijie Wen and Philip S. Yu},
+  year={2022},
+  booktitle={NAACL},
+  html       = {https://arxiv.org/pdf/2206.11863},
+  code       = {https://github.com/THU-BPM/CHEF},
+  selected   = {false},
+  preview = {CHEF.png},
+  abstract = {The explosion of misinformation spreading in the media ecosystem urges for automated fact-checking. While misinformation spans both geographic and linguistic boundaries, most work in the field has focused on English. Datasets and tools available in other languages, such as Chinese, are limited. In order to bridge this gap, we construct CHEF, the first CHinese Evidence-based Fact-checking dataset of 10K real-world claims. The dataset covers multiple domains, ranging from politics to public health, and provides annotated evidence retrieved from the Internet. Further, we develop established baselines and a novel approach that is able to model the evidence retrieval as a latent variable, allowing jointly training with the veracity prediction model in an end-to-end fashion. Extensive experiments show that CHEF will provide a challenging testbed for the development of fact-checking systems designed to retrieve and reason over non-English claims.},
+  annotation   = {* denotes Equal Contribution.},
+}
+
+@inproceedings{Aly2021FEVEROUSFE,
+  title={FEVEROUS: Fact Extraction and VERification Over Unstructured and Structured information},
+  author={Rami Aly and Zhijiang Guo and M. Schlichtkrull and James Thorne and Andreas Vlachos and Christos Christodoulopoulos and Oana Cocarascu and Arpit Mittal},
+  booktitle={NeurIPS},
+  year={2021},
+  html       = {https://arxiv.org/pdf/2106.05707},
+  code       = {https://github.com/Raldir/FEVEROUS},
+  website    = {https://fever.ai/dataset/feverous.html},
+  selected   = {false},
+  preview = {Feverous.png},
+  abstract = {Fact verification has attracted a lot of attention in the machine learning and natural language processing communities, as it is one of the key methods for detecting misinformation. Existing large-scale benchmarks for this task have focused mostly on textual sources, i.e. unstructured information, and thus ignored the wealth of information available in structured formats, such as tables. In this paper we introduce a novel dataset and benchmark, Fact Extraction and VERification Over Unstructured and Structured information (FEVEROUS), which consists of 87,026 verified claims. Each claim is annotated with evidence in the form of sentences and/or cells from tables in Wikipedia, as well as a label indicating whether this evidence supports, refutes, or does not provide enough information to reach a verdict. Furthermore, we detail our efforts to track and minimize the biases present in the dataset and could be exploited by models, e.g. being able to predict the label without using evidence. Finally, we develop a baseline for verifying claims against text and tables which predicts both the correct evidence and verdict for 18% of the claims.}
+}
+
 @inproceedings{Nan2021UncoveringMC,
   abbr={EMNLP},
   title={Uncovering Main Causalities for Long-tailed Information Extraction},
