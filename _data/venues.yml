@@ -35,3 +35,7 @@
 "ICLR":
   url: https://iclr.cc/
   color: "#800080"
+
+"IJCAI":
+  url: https://www.ijcai.org/
+  color: "#800080"
