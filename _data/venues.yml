@@ -39,3 +39,7 @@
 "IJCAI":
   url: https://www.ijcai.org/
   color: "#800080"
+
+"COLM":
+  url: https://colmweb.org/
+  color: "#800080"
