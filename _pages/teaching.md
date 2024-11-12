@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /teaching/
-title: Group
+title: teaching
 Research Mentoring: I am fortunate to be working with the following talented students and interns:
 nav: true
 nav_order: 6
