@@ -1,8 +1,8 @@
 ---
 layout: page
-permalink: /
-title: Group
-Research Mentoring: I am fortunate to be working with the following talented students and interns:
+permalink: /group/
+title: group
+description: Research Mentoring: I am fortunate to be working with the following talented students and interns:
 nav: true
 nav_order: 6
 ---
