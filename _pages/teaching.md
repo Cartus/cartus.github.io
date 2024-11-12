@@ -1,13 +1,12 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+title: Group
+Research Mentoring: I am fortunate to be working with the following talented students and interns:
 nav: true
 nav_order: 6
 ---
 
-I am fortunate to be working with the following talented students and interns:
 - Andrew Georgiou: Master at Cambridge, to Google Zurich
 - [Caiqi Zhang](https://caiqizh.github.io/): Master at Cambridge, to PhD at Cambridge
 - Henry Caushi: Undergrad at Cambridge, to Instructor at Warwick
@@ -19,6 +18,6 @@ I am fortunate to be working with the following talented students and interns:
 - [Alisa Wan](https://yingjia.one/): Master at Cambridge
 - [Chunlin Tian](https://clin0212.github.io/): PhD at UM
 - [Dong Huang](https://huangd1999.github.io/): PhD at HKU
-- Ying Su: PhD at HKUST
+- [Ying Su](https://suytingwan.github.io/): PhD at HKUST
 - Yunlong Feng: PhD at HIT
 - Huanshuo Liu: Master at NUS
