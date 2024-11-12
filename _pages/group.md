@@ -13,7 +13,7 @@ nav_order: 1
 - [Haochen Tan](https://namco0816.github.io/): PhD at CityU, to Researcher at Huawei Noah's Ark Hong Kong
 - [Jing Xiong](https://menik1126.github.io/): Master at SYSU, to PhD at HKU
 - [Jianqiao Lu](https://jianqiaolu.github.io/): PhD at HKU
-- [Rongwu Xu](https://rongwuxu.site/): Master at Tsinghua
+- [Rongwu Xu](https://rongwuxu.com/): Master at Tsinghua
 - Yuxuan Yao: PhD at CityU
 - [Alisa Wan](https://yingjia.one/): Master at Cambridge
 - [Chunlin Tian](https://clin0212.github.io/): PhD at UM
