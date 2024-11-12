@@ -4,7 +4,7 @@ permalink: /group/
 title: group
 description: Research Mentoring: I am fortunate to be working with the following talented students and interns:
 nav: true
-nav_order: 6
+nav_order: 1
 ---
 
 - Andrew Georgiou: Master at Cambridge, to Google Zurich
