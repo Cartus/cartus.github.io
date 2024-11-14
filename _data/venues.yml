@@ -1,3 +1,7 @@
+"ArXiv":
+  url: https://arxiv.org/
+  color: "#996600"
+
 "ACL":
   url: https://aclanthology.org/venues/acl/
   color: "#003366"
