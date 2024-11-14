@@ -1,6 +1,20 @@
 ---
 ---
 
+
+@inproceedings{Liu2024AligningWL,
+  abbr={ArXiv},
+  title={Aligning with Logic: Measuring, Evaluating and Improving Logical Consistency in Large Language Models},
+  author={Yinhong Liu and Zhijiang Guo and Tianya Liang and Ehsan Shareghi and Ivan Vuli'c and Nigel Collier},
+  booktitle={ArXiv},
+  year={2024},
+  html       = {https://arxiv.org/pdf/2410.02205},
+  selected   = {false},
+  preview = {AlignLogic.png},
+  abstract = {Recent research in Large Language Models (LLMs) has shown promising progress related to LLM alignment with human preferences. LLM-empowered decision-making systems are expected to be predictable, reliable and trustworthy, which implies being free from paradoxes or contradictions that could undermine their credibility and validity. However, LLMs still exhibit inconsistent and biased behaviour when making decisions or judgements. In this work, we focus on studying logical consistency of LLMs as a prerequisite for more reliable and trustworthy systems. Logical consistency ensures that decisions are based on a stable and coherent understanding of the problem, reducing the risk of erratic or contradictory outputs. We first propose a universal framework to quantify the logical consistency via three fundamental proxies: transitivity, commutativity and negation invariance. We then evaluate logical consistency, using the defined measures, of a wide range of LLMs, demonstrating that it can serve as a strong proxy for overall robustness. Additionally, we introduce a data refinement and augmentation technique that enhances the logical consistency of LLMs without sacrificing alignment to human preferences. It augments noisy and sparse pairwise-comparison annotations by estimating a partially or totally ordered preference rankings using rank aggregation methods. Finally, we show that logical consistency impacts the performance of LLM-based logic-dependent algorithms, where LLMs serve as logical operators.}
+}
+
+
 @inproceedings{Lu2024AutoPSVAP,
   abbr={NeurIPS},
   title={AutoPSV: Automated Process-Supervised Verifier},
@@ -187,6 +201,19 @@
   preview = {LPWP.png},
   annotation   = {* denotes Equal Contribution.},
   abstract = {Math Word Problem (MWP) is a crucial NLP task aimed at providing solutions for given mathematical descriptions. A notable sub-category of MWP is the Linear Programming Word Problem (LPWP), which holds significant relevance in real-world decision-making and operations research. While the recent rise of generative large language models (LLMs) has brought more advanced solutions to LPWPs, existing evaluation methodologies for this task still diverge from human judgment and face challenges in recognizing mathematically equivalent answers. In this paper, we introduce a novel evaluation metric rooted in graph edit distance, featuring benefits such as permutation invariance and more accurate program equivalence identification. Human evaluations empirically validate the superior efficacy of our proposed metric when particularly assessing LLM-based solutions for LPWP.}
+}
+
+
+@inproceedings{Lu2024YODATP,
+  abbr={ArXiv},
+  title={YODA: Teacher-Student Progressive Learning for Language Models},
+  author={Jianqiao Lu*  and Wanjun Zhong* and Yufei Wang and Zhijiang Guo and Qi Zhu and Wenyong Huang and Yanlin Wang and Fei Mi and Baojun Wang and Yasheng Wang and Lifeng Shang and Xin Jiang and Qun Liu},
+  booktitle={ArXiv},
+  year={2024},
+  html       = {https://arxiv.org/pdf/2401.15670},
+  selected   = {false},
+  annotation   = {* denotes Equal Contribution.} 
+  abstract = {Although large language models (LLMs) have demonstrated adeptness in a range of tasks, they still lag behind human learning efficiency. This disparity is often linked to the inherent human capacity to learn from basic examples, gradually generalize and handle more complex problems, and refine their skills with continuous feedback. Inspired by this, this paper introduces YODA, a novel teacher-student progressive learning framework that emulates the teacher-student education process to improve the efficacy of model fine-tuning. The framework operates on an interactive \textit{basic-generalized-harder} loop. The teacher agent provides tailored feedback on the student's answers, and systematically organizes the education process. This process unfolds by teaching the student basic examples, reinforcing understanding through generalized questions, and then enhancing learning by posing questions with progressively enhanced complexity. With the teacher's guidance, the student learns to iteratively refine its answer with feedback, and forms a robust and comprehensive understanding of the posed questions. The systematic procedural data, which reflects the progressive learning process of humans, is then utilized for model training. Taking math reasoning as a testbed, experiments show that training LLaMA2 with data from YODA improves SFT with significant performance gain (+17.01\% on GSM8K and +9.98\% on MATH). In addition, we find that training with curriculum learning further improves learning robustness.}
 }
 
 @inproceedings{Su2023AreLR,
