@@ -291,6 +291,21 @@
 }
 
 
+
+@inproceedings{Hu2023GiveMM,
+  abbr={ArXiv},
+  title={Give Me More Details: Improving Fact-Checking with Latent Retrieval},
+  author={Xuming Hu* and Zhijiang Guo* and Guan-Huei Wu and Lijie Wen and Philip S. Yu},
+  booktitle={ArXiv},
+  year={2023},
+  html       = {https://arxiv.org/pdf/2305.16128},
+  selected   = {false},
+  preview = {GMMD.png},
+  annotation   = {* denotes Equal Contribution. † denotes Corresponding Author.},
+  abstract = {Evidence plays a crucial role in automated fact-checking. When verifying real-world claims, existing fact-checking systems either assume the evidence sentences are given or use the search snippets returned by the search engine. Such methods ignore the challenges of collecting evidence and may not provide sufficient information to verify real-world claims. Aiming at building a better fact-checking system, we propose to incorporate full text from source documents as evidence and introduce two enriched datasets. The first one is a multilingual dataset, while the second one is monolingual (English). We further develop a latent variable model to jointly extract evidence sentences from documents and perform claim verification. Experiments indicate that including source documents can provide sufficient contextual clues even when gold evidence sentences are not annotated. The proposed system is able to achieve significant improvements upon best-reported models under different settings.}
+}
+
+
 @inproceedings{Guo2022ASO,
   abbr={TACL},
   title={A Survey on Automated Fact-Checking},
@@ -346,6 +361,20 @@
   annotation   = {* denotes Equal Contribution.},
   abstract = {The explosion of misinformation spreading in the media ecosystem urges for automated fact-checking. While misinformation spans both geographic and linguistic boundaries, most work in the field has focused on English. Datasets and tools available in other languages, such as Chinese, are limited. In order to bridge this gap, we construct CHEF, the first CHinese Evidence-based Fact-checking dataset of 10K real-world claims. The dataset covers multiple domains, ranging from politics to public health, and provides annotated evidence retrieved from the Internet. Further, we develop established baselines and a novel approach that is able to model the evidence retrieval as a latent variable, allowing jointly training with the veracity prediction model in an end-to-end fashion. Extensive experiments show that CHEF will provide a challenging testbed for the development of fact-checking systems designed to retrieve and reason over non-English claims.},
 }
+
+@article{Song2022GRATISDL,
+  abbr={ArXiv},
+  title={GRATIS: Deep Learning Graph Representation with Task-specific Topology and Multi-dimensional Edge Features},
+  author={Siyang Song and Yuxin Song and Cheng Luo and Zhiyuan Song and Selim Kuzucu and Xi Jia and Zhijiang Guo and Weicheng Xie and Linlin Shen and Hatice Gunes},
+  booktitle={ArXiv},
+  year={2022},
+  html       = {https://arxiv.org/pdf/2211.12482},
+  code       = {https://github.com/SSYSteve/GRATIS},
+  selected   = {false},
+  preview = {Gratis.png},
+  abstract = {Graph is powerful for representing various types of real-world data. The topology (edges' presence) and edges' features of a graph decides the message passing mechanism among vertices within the graph. While most existing approaches only manually define a single-value edge to describe the connectivity or strength of association between a pair of vertices, task-specific and crucial relationship cues may be disregarded by such manually defined topology and single-value edge features. In this paper, we propose the first general graph representation learning framework (called GRATIS) which can generate a strong graph representation with a task-specific topology and task-specific multi-dimensional edge features from any arbitrary input. To learn each edge's presence and multi-dimensional feature, our framework takes both of the corresponding vertices pair and their global contextual information into consideration, enabling the generated graph representation to have a globally optimal message passing mechanism for different down-stream tasks. The principled investigation results achieved for various graph analysis tasks on 11 graph and non-graph datasets show that our GRATIS can not only largely enhance pre-defined graphs but also learns a strong graph representation for non-graph data, with clear performance improvements on all tasks. In particular, the learned topology and multi-dimensional edge features provide complementary task-related cues for graph analysis tasks. Our framework is effective, robust and flexible, and is a plug-and-play module that can be combined with different backbones and Graph Neural Networks (GNNs) to generate a task-specific graph representation from various graph and non-graph data.}
+}
+
 
 @inproceedings{Aly2021FEVEROUSFE,
   abbr={NeurIPS},
