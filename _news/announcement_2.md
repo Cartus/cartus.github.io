@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Four papers are accepted at [EMNLP 2024](https://2024.emnlp.org/program/accepted_main_conference/) (3 Main, 1 Findings)! :tada:
+Four papers are accepted at [EMNLP 2024](https://2024.emnlp.org/program/accepted_main_conference/) (3 Main, 1 Findings) :tada:
