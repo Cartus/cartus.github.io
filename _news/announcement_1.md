@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Four papers are accepted at [NeurIPS 2024](https://nips.cc/virtual/2024/papers.html?filter=titles) (1 Oral)! :tada:
+Four papers are accepted at [NeurIPS 2024](https://nips.cc/virtual/2024/papers.html?filter=titles) (1 Oral) :tada:
