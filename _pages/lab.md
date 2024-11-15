@@ -2,12 +2,13 @@
 layout: page
 permalink: /members/
 title: Members
-description: Research Mentoring
+description: 
 nav: true
 nav_order: 3
 ---
 
 ---
+## Research Mentoring
 I am fortunate to be working with the following talented students/interns:
 - Andrew Georgiou: Master at Cambridge, to Google Zurich
 - [Caiqi Zhang](https://caiqizh.github.io/): Master at Cambridge, to PhD at Cambridge
