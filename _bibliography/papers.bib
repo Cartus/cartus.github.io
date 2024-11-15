@@ -2,6 +2,81 @@
 ---
 
 
+@article{Lu2024ProcessDrivenAI,
+  abbr={ArXiv},
+  title={Process-Driven Autoformalization in Lean 4},
+  author={Jianqiao Lu* and Yingjia Wan* and Zhengying Liu and Yinya Huang and Jing Xiong and Chengwu Liu and Jianhao Shen and Hui Jin and Jipeng Zhang and Haiming Wang and Zhicheng Yang and Jing Tang and Zhijiang Guo†},
+  booktitle={ArXiv},
+  year={2024},
+  html       = {https://arxiv.org/pdf/2406.01940},
+  code       = {https://github.com/rookie-joe/PDA},
+  selected   = {false},
+  preview = {PDA.png},
+  annotation   = {* denotes Equal Contribution. † denotes Corresponding Author.},
+  abstract = {Autoformalization, the conversion of natural language mathematics into formal languages, offers significant potential for advancing mathematical reasoning. However, existing efforts are limited to formal languages with substantial online corpora and struggle to keep pace with rapidly evolving languages like Lean 4. To bridge this gap, we propose a new benchmark \textbf{Form}alization for \textbf{L}ean~\textbf{4} (\textbf{\name}) designed to evaluate the autoformalization capabilities of large language models (LLMs). This benchmark encompasses a comprehensive assessment of questions, answers, formal statements, and proofs. Additionally, we introduce a \textbf{P}rocess-\textbf{S}upervised \textbf{V}erifier (\textbf{PSV}) model that leverages the precise feedback from Lean 4 compilers to enhance autoformalization. Our experiments demonstrate that the PSV method improves autoformalization, enabling higher accuracy using less filtered training data. Furthermore, when fine-tuned with data containing detailed process information, PSV can leverage the data more effectively, leading to more significant improvements in autoformalization for Lean 4. }
+}
+
+@inproceedings{Lu2024FormalAlignAA,
+  abbr={ArXiv},
+  title={FormalAlign: Automated Alignment Evaluation for Autoformalization},
+  author={Jianqiao Lu* and Yingjia Wan* and Yinya Huang and Jing Xiong and Zhengying Liu and Zhijiang Guo†},
+  booktitle={ArXiv},
+  year={2024},
+  html       = {https://arxiv.org/pdf/2410.10135},
+  code       = {https://github.com/rookie-joe/FormalAlign},
+  selected   = {false},
+  preview = {FormalAlign.png},
+  annotation   = {* denotes Equal Contribution. † denotes Corresponding Author.},
+  abstract = {Autoformalization aims to convert informal mathematical proofs into machine-verifiable formats, bridging the gap between natural and formal languages. However, ensuring semantic alignment between the informal and formalized statements remains challenging. Existing approaches heavily rely on manual verification, hindering scalability. To address this, we introduce \textsc{FormalAlign}, the first automated framework designed for evaluating the alignment between natural and formal languages in autoformalization. \textsc{FormalAlign} trains on both the autoformalization sequence generation task and the representational alignment between input and output, employing a dual loss that combines a pair of mutually enhancing autoformalization and alignment tasks. Evaluated across four benchmarks augmented by our proposed misalignment strategies, \textsc{FormalAlign} demonstrates superior performance. In our experiments, \textsc{FormalAlign} outperforms GPT-4, achieving an Alignment-Selection Score 11.58\% higher on \forml-Basic (99.21\% vs. 88.91\%) and 3.19\% higher on MiniF2F-Valid (66.39\% vs. 64.34\%). This effective alignment evaluation significantly reduces the need for manual verification.}
+}
+
+
+@article{Dai2024MHPPET,
+  abbr={ArXiv},
+  title={MHPP: Exploring the Capabilities and Limitations of Language Models Beyond Basic Code Generation},
+  author={Jianbo Dai* and Jianqiao Lu* and Yunlong Feng and Dong Huang and Guangtao Zeng and Rongju Ruan and Ming Cheng and Haochen Tan and Zhijiang Guo†},
+  booktitle={ArXiv},
+  year={2024},
+  html       = {https://arxiv.org/pdf/2405.11430},
+  code       = {https://github.com/SparksofAGI/MHPP},
+  selected   = {false},
+  website = {https://sparksofagi.github.io/MHPP/}
+  preview = {MHPP.png},
+  annotation   = {* denotes Equal Contribution. † denotes Corresponding Author.},
+  abstract = {Recent advancements in large language models (LLMs) have greatly improved code generation, specifically at the function level. For instance, GPT-4o has achieved a 91.0\% pass rate on HumanEval. However, this draws into question the adequacy of existing benchmarks in thoroughly assessing function-level code generation capabilities. Our study analyzed two common benchmarks, HumanEval and MBPP, and found that these might not thoroughly evaluate LLMs' code generation capacities due to limitations in quality, difficulty, and granularity. To resolve this, we introduce the Mostly Hard Python Problems (MHPP) dataset, consisting of 210 unique human-curated problems. By focusing on the combination of natural language and code reasoning, MHPP gauges LLMs' abilities to comprehend specifications and restrictions, engage in multi-step reasoning, and apply coding knowledge effectively. Initial evaluations of 26 LLMs using MHPP showed many high-performing models on HumanEval failed to achieve similar success on MHPP. Moreover, MHPP highlighted various previously undiscovered limitations within various LLMs, leading us to believe that it could pave the way for a better understanding of LLMs' capabilities and limitations. }
+}
+
+
+@inproceedings{Liu2024CtrlAAR,
+  abbr={ArXiv},
+  title={CtrlA: Adaptive Retrieval-Augmented Generation via Inherent Control},
+  author={Huanshuo Liu* and Hao Zhang* and Zhijiang Guo† and Kuicai Dong and Xiangyang Li and Yi Quan Lee and Cong Zhang and Yong Liu},
+  booktitle={ArXiv},
+  year={2024},
+  html       = {https://arxiv.org/pdf/2405.18727},
+  code       = {https://github.com/HSLiu-Initial/CtrlA},
+  selected   = {false},
+  preview = {CtrlA.png},
+  annotation   = {* denotes Equal Contribution. † denotes Corresponding Author.},
+  abstract = {Retrieval-augmented generation (RAG) has emerged as a promising solution for mitigating hallucinations of large language models (LLMs) with retrieved external knowledge. Adaptive RAG enhances this approach by enabling dynamic retrieval during generation, activating retrieval only when the query exceeds LLM's internal knowledge. Existing methods primarily focus on detecting LLM's confidence via statistical uncertainty. Instead, we present the first attempts to solve adaptive RAG from a representation perspective and develop an inherent control-based framework, termed \name. Specifically, we extract the features that represent the honesty and confidence directions of LLM and adopt them to control LLM behavior and guide retrieval timing decisions. We also design a simple yet effective query formulation strategy to support adaptive retrieval. Experiments show that \name is superior to existing adaptive RAG methods on a diverse set of tasks, the honesty steering can effectively make LLMs more honest and confidence monitoring is a promising indicator of retrieval }
+}
+
+
+@inproceedings{Huang2024EffiCodeUC,
+  abbr={ArXiv},
+  title={Effi-Code: Unleashing Code Efficiency in Language Models},
+  author={Dong Huang* and Guangtao Zeng* and Jianbo Dai and Meng Luo and Han Weng and Yuhao Qing and Heming Cui and Zhijiang Guo† and Jie M. Zhang},
+  booktitle={ArXiv},
+  year={2024},
+  html       = {https://arxiv.org/pdf/2410.10209},
+  code       = {https://github.com/huangd1999/Effi-Code},
+  selected   = {false},
+  preview = {EffiCode.png},
+  annotation   = {* denotes Equal Contribution. † denotes Corresponding Author.},
+  abstract = {As the use of large language models (LLMs) for code generation becomes more prevalent in software development, it is critical to enhance both the efficiency and correctness of the generated code. Existing methods and models primarily focus on the correctness of LLM-generated code, ignoring efficiency. In this work, we present Effi-Code, an approach to enhancing code generation in LLMs that can improve both efficiency and correctness. We introduce a Self-Optimization process based on Overhead Profiling that leverages open-source LLMs to generate a high-quality dataset of correct and efficient code samples. This dataset is then used to fine-tune various LLMs. Our method involves the iterative refinement of generated code, guided by runtime performance metrics and correctness checks. Extensive experiments demonstrate that models fine-tuned on the Effi-Code show significant improvements in both code correctness and efficiency across task types. For example, the pass@1 of DeepSeek-Coder-6.7B-Instruct generated code increases from \textbf{43.3\%} to \textbf{76.8\%}, and the average execution time for the same correct tasks decreases by \textbf{30.5\%}. Effi-Code offers a scalable and generalizable approach to improving code generation in AI systems, with potential applications in software development, algorithm design, and computational problem-solving. }
+}
+
+
 @inproceedings{Liu2024AligningWL,
   abbr={ArXiv},
   title={Aligning with Logic: Measuring, Evaluating and Improving Logical Consistency in Large Language Models},
@@ -12,6 +87,45 @@
   selected   = {false},
   preview = {AlignLogic.png},
   abstract = {Recent research in Large Language Models (LLMs) has shown promising progress related to LLM alignment with human preferences. LLM-empowered decision-making systems are expected to be predictable, reliable and trustworthy, which implies being free from paradoxes or contradictions that could undermine their credibility and validity. However, LLMs still exhibit inconsistent and biased behaviour when making decisions or judgements. In this work, we focus on studying logical consistency of LLMs as a prerequisite for more reliable and trustworthy systems. Logical consistency ensures that decisions are based on a stable and coherent understanding of the problem, reducing the risk of erratic or contradictory outputs. We first propose a universal framework to quantify the logical consistency via three fundamental proxies: transitivity, commutativity and negation invariance. We then evaluate logical consistency, using the defined measures, of a wide range of LLMs, demonstrating that it can serve as a strong proxy for overall robustness. Additionally, we introduce a data refinement and augmentation technique that enhances the logical consistency of LLMs without sacrificing alignment to human preferences. It augments noisy and sparse pairwise-comparison annotations by estimating a partially or totally ordered preference rankings using rank aggregation methods. Finally, we show that logical consistency impacts the performance of LLM-based logic-dependent algorithms, where LLMs serve as logical operators.}
+}
+
+@article{Yao2024DetermineThenEnsembleNO,
+  abbr={ArXiv},
+  title={Determine-Then-Ensemble: Necessity of Top-k Union for Large Language Model Ensembling},
+  author={Yuxuan Yao and Han Wu and Mingyang Liu and Sichun Luo and Xiongwei Han and Jie Liu and Zhijiang Guo and Linqi Song},
+  booktitle={ArXiv},
+  year={2024},
+  html       = {https://arxiv.org/pdf/2410.03777},
+  selected   = {false},
+  preview = {Unite.png},
+  abstract = {Large language models (LLMs) exhibit varying strengths and weaknesses across different tasks, prompting recent studies to explore the benefits of ensembling models to leverage their complementary advantages. However, existing LLM ensembling methods often overlook model compatibility and struggle with inefficient alignment of probabilities across the entire vocabulary. In this study, we empirically investigate the factors influencing ensemble performance, identifying model performance, vocabulary size, and response style as key determinants, revealing that compatibility among models is essential for effective ensembling. This analysis leads to the development of a simple yet effective model selection strategy that identifies compatible models. Additionally, we introduce the \textsc{Uni}on \textsc{T}op-k \textsc{E}nsembling (\textsc{UniTE}), a novel approach that efficiently combines models by focusing on the union of the top-k tokens from each model, thereby avoiding the need for full vocabulary alignment and reducing computational overhead. Extensive evaluations across multiple benchmarks demonstrate that \textsc{UniTE} significantly enhances performance compared to existing methods, offering a more efficient framework for LLM ensembling.}
+}
+
+
+@inproceedings{Xiong2024UNCompUL,
+  abbr={ArXiv},
+  title={UNComp: Uncertainty-Aware Long-Context Compressor for Efficient Large Language Model Inference},
+  author={Jing Xiong and Jianghan Shen and Fanghua Ye and Chaofan Tao and Zhongwei Wan and Jianqiao Lu and Xun Wu and Chuanyang Zheng and Zhijiang Guo and Lingpeng Kong and Ngai Wong},
+  booktitle={ArXiv},
+  year={2024},
+  html       = {https://arxiv.org/pdf/2410.03090},
+  selected   = {false},
+  preview = {UNComp.png},
+  abstract = {Deploying large language models (LLMs) is challenging due to their high memory and computational demands, especially during long-context inference. While key-value (KV) caching accelerates inference by reusing previously computed keys and values, it also introduces significant memory overhead. Existing KV cache compression methods such as eviction and merging typically compress the KV cache after it is generated and overlook the eviction of hidden states, failing to improve the speed of the prefilling stage. Additionally, applying a uniform compression rate across different attention heads can harm crucial retrieval heads in needle-in-a-haystack tasks due to excessive compression. In this paper, we propose UNComp, an uncertainty-aware compression scheme that leverages matrix entropy to estimate model uncertainty across layers and heads at the token sequence level. By grouping layers and heads based on their uncertainty, UNComp adaptively compresses both the hidden states and the KV cache. Our method achieves a 1.6x speedup in the prefilling stage and reduces the KV cache to 4.74% of its original size, resulting in a 6.4x increase in throughput and a 1.4x speedup in inference with only a 1.41% performance loss. Remarkably, in needle-in-a-haystack tasks, UNComp outperforms the full-size KV cache even when compressed to 9.38% of its original size. Our approach offers an efficient, training-free Grouped-Query Attention paradigm that can be seamlessly integrated into existing KV cache schemes.}
+}
+
+
+@inproceedings{YANG2024OptiBenchMR,
+  abbr={ArXiv},
+  title={OptiBench Meets ReSocratic: Measure and Improve LLMs for Optimization Modeling},
+  author={Zhicheng YANG and Yinya Huang and Zhijiang Guo and Wei Shi and Liang Feng and Linqi Song and Yiwei Wang and Xiaodan Liang and Jing Tang},
+  booktitle={ArXiv},
+  year={2024},
+  html       = {https://arxiv.org/pdf/2407.09887v2},
+  code       = {https://github.com/yangzhch6/ReSocratic},
+  selected   = {false},
+  preview = {OptiBench.png},
+  abstract = {Large language models (LLMs) have exhibited their problem-solving abilities in mathematical reasoning. Solving realistic optimization (OPT) problems in application scenarios requires advanced and applied mathematics ability. However, current OPT benchmarks that merely solve linear programming are far from complex realistic situations. In this work, we propose OptiBench, a benchmark for End-to-end optimization problem-solving with human-readable inputs and outputs. OptiBench contains rich optimization problems, including linear and nonlinear programming with or without tabular data, which can comprehensively evaluate LLMs' solving ability. In our benchmark, LLMs are required to call a code solver to provide precise numerical answers. Furthermore, to alleviate the data scarcity for optimization problems, and to bridge the gap between open-source LLMs on a small scale (e.g., Llama-3-8b) and closed-source LLMs (e.g., GPT-4), we further propose a data synthesis method namely ReSocratic. Unlike general data synthesis methods that proceed from questions to answers, \ReSocratic first incrementally synthesizes formatted optimization demonstration with mathematical formulations step by step and then back-translates the generated demonstrations into questions. Based on this, we synthesize the ReSocratic-29k dataset. We further conduct supervised fine-tuning with ReSocratic-29k on multiple open-source models. Experimental results show that ReSocratic-29k significantly improves the performance of open-source models.}
 }
 
 
@@ -49,7 +163,7 @@
 @inproceedings{Tian2024HydraLoRAAA,
   abbr={NeurIPS},
   title={HydraLoRA: An Asymmetric LoRA Architecture for Efficient Fine-Tuning},
-  author={Chunlin Tian* and Zhanying Shi* and Zhijiang Guo and Li Li and Chengzhong Xu},
+  author={Chunlin Tian* and Zhan Shi* and Zhijiang Guo and Li Li and Chengzhong Xu},
   booktitle={NeurIPS (Oral)},
   year={2024},
   annotation = {* denotes Equal Contribution.},
