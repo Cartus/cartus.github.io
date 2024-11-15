@@ -4,7 +4,7 @@ permalink: /members/
 title: Members
 description: Research Mentoring
 nav: true
-nav_order: 6
+nav_order: 3
 ---
 
 ---
