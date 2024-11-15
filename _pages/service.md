@@ -2,25 +2,25 @@
 layout: page
 permalink: /service/
 title: Service
-description: Academic Activities
+description: 
 nav: true
 nav_order: 4
 ---
 
 ---
-I am fortunate to be working with the following talented students/interns:
-- Andrew Georgiou: Master at Cambridge, to Google Zurich
-- [Caiqi Zhang](https://caiqizh.github.io/): Master at Cambridge, to PhD at Cambridge
-- Henry Caushi: Undergrad at Cambridge, to Instructor at Warwick
-- [Haochen Tan](https://namco0816.github.io/): PhD at CityU, to Researcher at Huawei Noah's Ark Hong Kong
-- [Jing Xiong](https://menik1126.github.io/): Master at SYSU, to PhD at HKU
-- [Jianqiao Lu](https://jianqiaolu.github.io/): PhD at HKU
-- [Rongwu Xu](https://rongwuxu.com/): Master at Tsinghua
-- Yuxuan Yao: PhD at CityU
-- [Alisa Wan](https://yingjia.one/): Master at Cambridge
-- [Chunlin Tian](https://clin0212.github.io/): PhD at UM
-- [Dong Huang](https://huangd1999.github.io/): PhD at HKU
-- [Ying Su](https://suytingwan.github.io/): PhD at HKUST
-- Yunlong Feng: PhD at HIT
-- Huanshuo Liu: Master at NUS
+## Academic Services
+
+- **Area Chair**: ICLR 2025, EMNLP 2024 (Machine Learning for NLP), ACL 2024 (Interpretability and Analysis), COLING 2024 (Machine Learning), EMNLP 2023 (NLP Application), EMNLP 2022 (Semantics)
+- **Action Editor**: ACL ARR (2023-Present)
+- **Senior Program Committee**: AAAI 2024, AAAI 2023, IJCAI 2022
+- **Standing Reviewer**: Computational Linguistics 
+- **Program Committee**: NeurIPS/ICLR/ICML/COLM/ACL/EMNLP/NAACL/EACL/COLING
+- **Journal**: Machine Learning/TACL/TKDE/TALLIP/TASLP/TOIS
+    
+## Workshops Organization
+
+- **EMNLP 2024 Workshop**: [The Seventh Fact Extraction and VERification (FEVER)](https://fever.ai/)
+- **EACL 2023 Workshop**: [The Sixth Fact Extraction and VERification (FEVER)](https://fever.ai/2023/workshop.html)
+- **ACL 2022 Workshop**: [The Fifth Fact Extraction and VERification (FEVER)](https://fever.ai/2022/workshop.html) 
+- **EMNLP 2021 Workshop**: [The Fourth Fact Extraction and VERification (FEVER)](https://fever.ai/2021/workshop.html) 
 
