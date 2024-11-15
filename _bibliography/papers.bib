@@ -30,6 +30,20 @@
   abstract = {Autoformalization aims to convert informal mathematical proofs into machine-verifiable formats, bridging the gap between natural and formal languages. However, ensuring semantic alignment between the informal and formalized statements remains challenging. Existing approaches heavily rely on manual verification, hindering scalability. To address this, we introduce \textsc{FormalAlign}, the first automated framework designed for evaluating the alignment between natural and formal languages in autoformalization. \textsc{FormalAlign} trains on both the autoformalization sequence generation task and the representational alignment between input and output, employing a dual loss that combines a pair of mutually enhancing autoformalization and alignment tasks. Evaluated across four benchmarks augmented by our proposed misalignment strategies, \textsc{FormalAlign} demonstrates superior performance. In our experiments, \textsc{FormalAlign} outperforms GPT-4, achieving an Alignment-Selection Score 11.58\% higher on \forml-Basic (99.21\% vs. 88.91\%) and 3.19\% higher on MiniF2F-Valid (66.39\% vs. 64.34\%). This effective alignment evaluation significantly reduces the need for manual verification.}
 }
 
+@article{Xu2024DebateQAEQ,
+  abbr={ArXiv},
+  title={DebateQA: Evaluating Question Answering on Debatable Knowledge},
+  author={Rongwu Xu* and Xuan Qi* and Zehan Qi and Wei Xu and Zhijiang Guo},
+  booktitle={ArXiv},
+  year={2024},
+  html       = {https://arxiv.org/pdf/2408.01419},
+  code       = {https://github.com/pillowsofwind/DebateQA},
+  selected   = {false},
+  preview = {DebateQA.png},
+  annotation   = {* denotes Equal Contribution. † denotes Corresponding Author.},
+  abstract = {The rise of large language models (LLMs) has enabled us to seek answers to inherently debatable questions on LLM chatbots, necessitating a reliable way to evaluate their ability. However, traditional QA benchmarks assume fixed answers are inadequate for this purpose. To address this, we introduce DebateQA, a dataset of 2,941 debatable questions, each accompanied by multiple human-annotated partial answers that capture a variety of perspectives. We develop two metrics: Perspective Diversity, which evaluates the comprehensiveness of perspectives, and Dispute Awareness, which assesses if the LLM acknowledges the question's debatable nature. Experiments demonstrate that both metrics align with human preferences and are stable across different underlying models. Using DebateQA with two metrics, we assess 12 popular LLMs and retrieval-augmented generation methods. Our findings reveal that while LLMs generally excel at recognizing debatable issues, their ability to provide comprehensive answers encompassing diverse perspectives varies considerably.}
+}
+
 
 @article{Dai2024MHPPET,
   abbr={ArXiv},
@@ -187,6 +201,65 @@
   preview = {Effi-Learner.png},
   abstract = {Large language models (LLMs) have shown remarkable progress in code generation, but their generated code often suffers from inefficiency, resulting in longer execution times and higher memory consumption. To address this issue, we propose \textbf{EffiLearner}, a self-optimization framework that utilizes execution overhead profiles to improve the efficiency of LLM-generated code. EffiLearner first generates code using an LLM, then executes it locally to capture execution time and memory usage profiles. These profiles are fed back to the LLM, which then revises the code to reduce overhead. To evaluate the effectiveness of EffiLearner, we conduct extensive experiments on the EffiBench, HumanEval, and MBPP with 16 open-source and 6 closed-source models. Our evaluation results demonstrate that through iterative self-optimization, EffiLearner significantly enhances the efficiency of LLM-generated code. For example, the execution time (ET) of StarCoder2-15B for the EffiBench decreases from 0.93 (s) to 0.12 (s) which reduces 87.1% the execution time requirement compared with the initial code. The total memory usage (TMU) of StarCoder2-15B also decreases from 22.02 (Mb*s) to 2.03 (Mb*s), which decreases 90.8% of total memory consumption during the execution process.}
 }
+
+
+@inproceedings{Xu2024KnowledgeCF,
+  abbr={EMNLP},
+  title={Knowledge Conflicts for LLMs: A Survey},
+  author={Rongwu Xu* and Zehan Qi* and Zhijiang Guo† and Cunxiang Wang and Hongru Wang and Yue Zhang† and Wei Xu†},
+  booktitle={EMNLP},
+  year={2024},
+  html       = {https://arxiv.org/pdf/2403.08319},
+  code       = {https://github.com/pillowsofwind/Knowledge-Conflicts-Survey},
+  selected   = {true},
+  preview = {KnowConflict.png},
+  annotation   = {* denotes Equal Contribution. † denotes Corresponding Author.},
+  abstract = {This survey provides an in-depth analysis of knowledge conflicts for large language models (LLMs), highlighting the complex challenges they encounter when blending contextual and parametric knowledge. Our focus is on three categories of knowledge conflicts: context-memory, inter-context, and intra-memory conflict. These conflicts can significantly impact the trustworthiness and performance of LLMs, especially in real-world applications where noise and misinformation are common. By categorizing these conflicts, exploring the causes, examining the behaviors of LLMs under such conflicts, and reviewing available solutions, this survey aims to shed light on strategies for improving the robustness of LLMs, thereby serving as a valuable resource for advancing research in this evolving area.}
+}
+
+
+@inproceedings{Jin2024DVDDC,
+  abbr={EMNLP},
+  title={DvD: Dynamic Contrastive Decoding for Knowledge Amplification in Multi-Document Question Answering},
+  author={Jing Jin and Houfeng Wang and Hao Zhang and Xiaoguang Li and Zhijiang Guo},
+  booktitle={EMNLP},
+  year={2024},
+  html       = {https://aclanthology.org/2024.emnlp-main.266.pdf},
+  code       = {https://github.com/JulieJin-km/Dynamic_Contrastive_Decoding},
+  selected   = {false},
+  preview = {DvD.png},
+  abstract = {Large language models (LLMs) are widely used in question-answering (QA) systems but often generate information with hallucinations. Retrieval-augmented generation (RAG) offers a potential remedy, yet the uneven retrieval quality and irrelevant contents may distract LLMs.In this work, we address these issues at the generation phase by treating RAG as a multi-document QA task.We propose a novel decoding strategy, Dynamic Contrastive Decoding, which dynamically amplifies knowledge from selected documents during the generation phase. involves constructing inputs batchwise, designing new selection criteria to identify documents worth amplifying, and applying contrastive decoding with a specialized weight calculation to adjust the final logits used for sampling answer tokens. Zero-shot experimental results on ALCE-ASQA, NQ, TQA and PopQA benchmarks show that our method outperforms other decoding strategies. Additionally, we conduct experiments to validate the effectiveness of our selection criteria, weight calculation, and general multi-document scenarios. Our method requires no training and can be integrated with other methods to improve the RAG performance. }
+}
+
+
+@inproceedings{Zhang2024DoWN,
+  abbr={EMNLP},
+  title={Do We Need Language-Specific Fact-Checking Models? The Case of Chinese},
+  author={Caiqi Zhang and Zhijiang Guo and Andreas Vlachos},
+  booktitle={EMNLP},
+  year={2024},
+  html       = {https://arxiv.org/pdf/2401.15498},
+  code       = {https://github.com/caiqizh/FC_Chinese},
+  selected   = {false},
+  preview = {CNFact.png},
+  abstract = {This paper investigates the potential benefits of language-specific fact-checking models, focusing on the case of Chinese. We first demonstrate the limitations of translation-based methods and multilingual large language models (e.g., GPT-4), highlighting the need for language-specific systems. We further propose a Chinese fact-checking system that can better retrieve evidence from a document by incorporating context information. To better analyze token-level biases in different systems, we construct an adversarial dataset based on the CHEF dataset, where each instance has large word overlap with the original one but holds the opposite veracity label. Experimental results on the CHEF dataset and our adversarial dataset show that our proposed method outperforms translation-based methods and multilingual LLMs and is more robust toward biases, while there is still large room for improvement, emphasizing the importance of language-specific fact-checking systems.}
+}
+
+
+@inproceedings{Qi2024Long2RAGEL,
+  abbr={EMNLP},
+  title={Long^2RAG: Evaluating Long-Context\&Long-Form Retrieval-Augmented Generation with Key Point Recall},
+  author={Zehan Qi* and Rongwu Xu* and Zhijiang Guo† and Cunxiang Wang and Hao Zhang and Wei Xu†},
+  year={2024},
+  booktitle={Findings of EMNLP},
+  annotation   = {* denotes Equal Contribution. † denotes Corresponding Author.},
+  html       = {https://arxiv.org/abs/2410.23000},
+  selected   = {false},
+  preview = {LongRag.png},
+  annotation   = {* denotes Equal Contribution. † denotes Corresponding Author.},
+  abstract = {Retrieval-augmented generation (RAG) is a promising approach to address the limitations of fixed knowledge in large language models (LLMs). However, current benchmarks for evaluating RAG systems suffer from two key deficiencies: (1) they fail to adequately measure LLMs' capability in handling long-context retrieval due to a lack of datasets that reflect the characteristics of retrieved documents, and (2) they lack a comprehensive evaluation method for assessing LLMs' ability to generate long-form responses that effectively exploits retrieved information. To address these shortcomings, we introduce the Long2RAG benchmark and the Key Point Recall (KPR) metric. Long2RAG comprises 280 questions spanning 10 domains and across 8 question categories, each associated with 5 retrieved documents with an average length of 2,444 words. KPR evaluates the extent to which LLMs incorporate key points extracted from the retrieved documents into their generated responses, providing a more nuanced assessment of their ability to exploit retrieved information.}
+}
+
 
 
 @inproceedings{Liu2024AligningWH,
