@@ -23,4 +23,3 @@ I am fortunate to be working with the following talented students/interns:
 - [Dong Huang](https://huangd1999.github.io/): PhD at HKU
 - [Ying Su](https://suytingwan.github.io/): PhD at HKUST
 - Yunlong Feng: PhD at HIT
-- Huanshuo Liu: Master at NUS
