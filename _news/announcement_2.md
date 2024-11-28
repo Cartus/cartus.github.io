@@ -1,33 +1,69 @@
 ---
 layout: post
-title: A long announcement with details
-date: 2015-11-07 16:11:00-0400
+title: Prospective Students and Visitors
+date: 2024-11-28 16:11:00-0400
 inline: false
 related_posts: false
 ---
 
-Announcements and news can be much longer than just quick inline posts. In fact, they can have all the features available for the standard blog posts. See below.
+郭志江博士现任华为诺亚方舟实验室研究员和剑桥大学访问研究员，他将于2025年春季加入香港科技大学（广州）数据科学与分析学域担任助理教授，博士生导师。课题组计划招收若干名2025入学的博士生，研究助理和实习生。有意向申请2025秋季入学博士的同学也可以先申请研究助理或者实习生，有意申请者请先阅读以下相关指引然后按照要求发送邮件提交申请。
 
 ---
 
-Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon. Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch. <a href="https://www.pinterest.com">Pinterest</a> DIY authentic Schlitz, hoodie Intelligentsia butcher trust fund brunch shabby chic Kickstarter forage flexitarian. Direct trade <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice">cold-pressed</a> meggings stumptown plaid, pop-up taxidermy. Hoodie XOXO fingerstache scenester Echo Park. Plaid ugh Wes Anderson, freegan pug selvage fanny pack leggings pickled food truck DIY irony Banksy.
+### 导师介绍
 
-#### Hipster list
+郭志江博士现任华为诺亚方舟实验室研究员和剑桥大学访问研究员，专注于自然语言处理和机器学习的研究，目前的研究兴趣主要是大型语言模型（LLMs）。目前已在NeurIPS/ICLR/COLM/TACL/ACL/EMNLP/NAACL上发表30多篇工作，并入选Oral或Spotlight，谷歌学术引用约2300次。他曾担任ICLR/ACL/EMNLP/NAACL/COLING的领域主席（Area Chair），AAAI和IJCAI的高级委员会成员（SPC），以及ACL Rolling Review的执行编辑（Action Editor），并且在ACL/EMNLP/EACL上组织了多届FEVER研讨会。他在中山大学取得学士学位，师从Wei Lu教授，在2019年至2020年在爱丁堡大学Shay Cohen教授组作为访问学者，博士毕业后在剑桥大学Andreas Vlachos教授组从事博士后，2023年加入华为诺亚方舟实验室工作至今。
 
-<ul>
-    <li>brunch</li>
-    <li>fixie</li>
-    <li>raybans</li>
-    <li>messenger bag</li>
-</ul>
+导师主页：https://cartus.github.io/
 
-Hoodie Thundercats retro, tote bag 8-bit Godard craft beer gastropub. Truffaut Tumblr taxidermy, raw denim Kickstarter sartorial dreamcatcher. Quinoa chambray slow-carb salvia readymade, bicycle rights 90's yr typewriter selfies letterpress cardigan vegan.
+谷歌学术主页：https://scholar.google.com/citations?user=8b-u3icAAAAJ
+
+### 学校介绍
+
+香港科技大学是亚洲以至全球领先的研究学府之一。在2025年，科大位列 QS 世界大学排名第47位和泰晤士高等教育世界年轻大学排名第3位。2022年9月，香港科技大学（广州）成立，重点发展交叉学科，以相互补足。课程设计将围绕讯息、功能、系统、社会四个枢纽定位，研究范畴涵盖数据科学、机械人与自动化系统、人工智能、先进材料等新兴领域。目前香港科技大学（广州）位于广州南沙，生活成本低，博士生提供一个月一万五的奖学金，学校为全英文教学环境。
+
+
+### 指导学生经验
+
+郭志江博士在剑桥和华为诺亚曾指导过10余名学生，大部分学生都发表了顶级会议论文，甚至是第一篇论文。他尊重学生兴趣，致力于帮助学生全方位成长，为很多合作的学生都写了推荐信。指导过的学生可以在这里找到：https://cartus.github.io/members/ 关于我的指导风格和为人，欢迎找他们私聊，已经全部征求过他们的同意了XD。
+
+### 博士生招生
+
+由于我是2025年春季才加入学校，所以我目前只能接受2025年秋季入学的同学，具体要求如下：
+1. 对大型语言模型的基础研究和应用有浓厚兴趣，渴望做出有影响力的科研成果（类比马斯洛需求层次理论，研究初期可以做一些短平快的工作入门，但是到后期还是希望能够做出更高质量更有影响力的工作）。
+2. 有较强的数学和编程能力，愿意学习探索新知识（因为现在每天都挂一堆论文出来）。
+3. 良好的英语发表与写作基础（满足港科大英语招生要求，入学需取得雅思6.5或托福80)。
+
+优先考虑符合以下要求的申请者：
+1. 有过大型语言模型，机器学习，自然语言处理的相关研究经验，曾在ML（三大会）/NLP（ACL系列）/LLM（只有COLM啦）会议上发表过论文。
+2. 有很强的编程能力，参与过有影响力的大型语言模型相关的开源项目。
+3. 曾经在组里担任过研究助理或者实习合作过。
+
+一些重要的点：
+1. 研究兴趣和我比较能对齐，我目前主要关注大模型的事实性，推理和知识（参见主页和最近的论文发表情况），因为我还是希望能够手把手帮助每一位同学的研究，包括idea的提出和讨论，实验的设计，论文的撰写投稿，rebuttal等等。改代码可能会比较困难，不过如果有需要我也会一起努力。
+2. 我并非毕业自顶尖大学，所以对申请者的学历专业背景并没有那么看重。我非常看重的是学习和工作的态度和抗压能力。大模型的研究并不是rocket science，很多时候更加需要的是严谨的态度和持之以恒的精神。抗压能力不是指我会给学生施加压力，我并不会这样做。是指现在AI的研究社区非常大，审稿充满不确定性，有时候自己长时间努力的成果并不能得到审稿人的赏识，而且博士还有发表的要求（毕业之后找工作非常需要）。即使第一次投稿失败，我也希望我们能一起努力，发表有影响力的论文。
+3. 我非常鼓励合作，包括和全球各地学术界和业界的研究者，包括博士期间的交换，还有实习（全球范围）。因为我自己就是全球合作交流的获益者，在海内外也有一定的connections，我会全力帮助你去交流和实习。
+4. 指导风格的话，每周至少一对一讨论一次。如果有需要讨论的话，其实随时都可以找我或者留言，我会尽快安排时间做短的讨论。每周还会组织组会，希望组里的同学能了解其他同学的研究方向。还有论文分享会，我也会定期邀请全球学术界和业界的研究者来开讲座。
+5. 港科广是新学校，如果非常介意学校名气和排名的话，可能不太适合。
+6. 虽然有较为丰富的指导经验，但是我也是刚刚开始担任独立PI，肯定还是有很多不足之处。如果在合作过程中，对我有任何不满或者认为有做得不好的地方，非常欢迎和我提出来，我会努力改善，我们共同进步。
+
+### 研究助理/实习生/访问者
+
+1. 春季就可以加入了，不需要等到秋季。如果咱们合作愉快的话，也非常欢迎你留下成为博士生。如果你想去看看更大的世界，我也非常愿意给你强推到其他海外学校。
+2. 实习生和访问者都可以远程，具体的情况可以讨论决定，我比较flexible。
+3. 希望组里主要围绕几个重点的方向，所以如果你的研究兴趣差异比较大的话，我可能比较难以提供有效的指导。为了能亲身参与所有同学研究，所有目前不打算招太多的同学。
+4. 非常提倡组内积极讨论和合作，希望所有的同学都能积极参与组会的讨论，还有论文的分享。
+
+### 申请方式
+
+请发送邮件到：cartusguo@gmail.com，包含你想我看到的所有信息。
+格式为“Year-Position-Your Name-Affiliation”, 例如 25Fall-PhD-Wukong-SYSU.
+
+对于所有投递我都会尽快阅读并进行评估，若简历通过筛选，会有邮件通知面试。
 
 ---
 
-Pug heirloom High Life vinyl swag, single-origin coffee four dollar toast taxidermy reprehenderit fap distillery master cleanse locavore. Est anim sapiente leggings Brooklyn ea. Thundercats locavore excepteur veniam eiusmod. Raw denim Truffaut Schlitz, migas sapiente Portland VHS twee Bushwick Marfa typewriter retro id keytar.
+I have multiple openings for PhD students, RAs, Visitors, and Student Interns. I’m happy to host students who are excited to join the exciting endeavor of LLMs. Read my advising statement below if you're considering applying!
 
-> We do not grow absolutely, chronologically. We grow sometimes in one dimension, and not in another, unevenly. We grow partially. We are relative. We are mature in one realm, childish in another.
-> —Anais Nin
 
-Fap aliqua qui, scenester pug Echo Park polaroid irony shabby chic ex cardigan church-key Odd Future accusamus. Blog stumptown sartorial squid, gastropub duis aesthetic Truffaut vero. Pinterest tilde twee, odio mumblecore jean shorts lumbersexual.
+
