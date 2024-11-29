@@ -6,7 +6,7 @@ inline: false
 related_posts: false
 ---
 
-Announcements and news can be much longer than just quick inline posts. In fact, they can have all the features available for the standard blog posts. See below.
+郭志江博士现任华为诺亚方舟实验室研究员和剑桥大学访问研究员，他将于2025年春季加入香港科技大学（广州）数据科学与分析学域担任助理教授，博士生导师。课题组计划招收若干名2025入学的博士生，研究助理和实习生。有意向申请2025秋季入学博士的同学也可以先申请研究助理或者实习生，有意申请者请先阅读以下相关指引，然后按照要求发送邮件提交申请。
 
 ---
 
