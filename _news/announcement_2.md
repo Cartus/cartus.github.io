@@ -6,13 +6,15 @@ inline: false
 related_posts: false
 ---
 
-Dr. Zhijiang Guo is set to join the Data Science and Analytics Thrust at The Hong Kong University of Science and Technology (Guangzhou) as an Assistant Professor and PhD Supervisor in Spring 2025. The research group hopes to recruit several PhD students and research assistants for enrollment in 2025. We warmly encourage prospective applicants for the Fall 2025 PhD program to consider applying for a research assistant position first. We would greatly appreciate it if interested applicants could read the guidelines below and submit their applications via email as instructed.
+Dr. Zhijiang Guo will join the Hong Kong University of Science and Technology (Guangzhou) as an Assistant Professor in Spring 2025. The research group hopes to recruit several PhD students and research assistants for enrollment in 2025. We warmly encourage prospective applicants for the Fall 2025 PhD program to consider applying for a research assistant position first. We would greatly appreciate it if interested applicants could read the guidelines below and submit their applications via email as instructed.
 
 ---
 
-### 导师介绍
+### About the Mentor
 
-郭志江博士现任华为诺亚方舟实验室研究员和剑桥大学访问研究员，专注于自然语言处理和机器学习的研究，目前的研究兴趣主要是大语言模型（LLMs）。目前已在NeurIPS/ICLR/COLM/TACL/ACL/EMNLP/NAACL上发表30多篇工作，并入选Oral或Spotlight，谷歌学术引用2300+。他曾担任ICLR/ACL/EMNLP/NAACL/COLING的领域主席（Area Chair），AAAI和IJCAI的高级委员会成员（SPC），以及ACL Rolling Review的执行编辑（Action Editor），并且在ACL/EMNLP/EACL上组织了多届FEVER研讨会。他在中山大学取得学士学位，之后在新加坡科技与设计大学师从Wei Lu教授，在2019年至2020年在爱丁堡大学Shay Cohen教授组作为访问学者，博士毕业后在剑桥大学Andreas Vlachos教授组从事博士后，2023年加入华为诺亚方舟实验室工作至今。
+Zhijiang is currently a researcher at Huawei Noah's Ark Lab and a visiting researcher at the University of Cambridge. He focuses on research in natural language processing and machine learning, with his current interests primarily centered around large language models (LLMs). He has published over 30 papers in leading conferences such as NeurIPS, ICLR, COLM, TACL, ACL, EMNLP, and NAACL, with several selected for Oral or Spotlight presentations, and has over 2300 citations on Google Scholar.
+
+He has served as an Area Chair (AC) for ICLR, ACL, EMNLP, NAACL, and COLING, as well as a Senior Program Committee (SPC) member for AAAI and IJCAI. He has also been an Action Editor (AE) for the ACL Rolling Review and co-organized multiple FEVER workshops at ACL, EMNLP, and EACL. He earned his bachelor's degree from Sun Yat-sen University, and then completed his PhD under Prof. Wei Lu at the Singapore University of Technology and Design. He was a visiting researcher in Prof. Shay Cohen's group at the University of Edinburgh. He conducted postdoctoral research in Prof. Andreas Vlachos's group at the University of Cambridge before joining Huawei Noah's Ark Lab in 2023.
 
 ### 学校介绍
 
