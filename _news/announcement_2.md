@@ -6,7 +6,7 @@ inline: false
 related_posts: false
 ---
 
-郭志江博士现任华为诺亚方舟实验室研究员和剑桥大学访问研究员，他将于2025年春季加入香港科技大学（广州）数据科学与分析学域担任助理教授，博士生导师。课题组计划招收若干名2025入学的博士生，研究助理和实习生。有意向申请2025秋季入学博士的同学也可以先申请研究助理或者实习生，有意申请者恳请先阅读以下相关指引，然后按照要求发送邮件提交申请。
+Dr. Zhijiang Guo is set to join the Data Science and Analytics Thrust at The Hong Kong University of Science and Technology (Guangzhou) as an Assistant Professor and PhD Supervisor in Spring 2025. The research group hopes to recruit several PhD students and research assistants for enrollment in 2025. We warmly encourage prospective applicants for the Fall 2025 PhD program to consider applying for a research assistant position first. We would greatly appreciate it if interested applicants could read the guidelines below and submit their applications via email as instructed.
 
 ---
 
