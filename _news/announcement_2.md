@@ -16,13 +16,13 @@ Zhijiang is currently a researcher at Huawei Noah's Ark Lab and a visiting resea
 
 He has served as an Area Chair (AC) for ICLR, ACL, EMNLP, NAACL, and COLING, as well as a Senior Program Committee (SPC) member for AAAI and IJCAI. He has also been an Action Editor (AE) for the ACL Rolling Review and co-organized multiple FEVER workshops at ACL, EMNLP, and EACL. He earned his bachelor's degree from Sun Yat-sen University, and then completed his PhD under Prof. Wei Lu at the Singapore University of Technology and Design. He was a visiting researcher in Prof. Shay Cohen's group at the University of Edinburgh. He conducted postdoctoral research in Prof. Andreas Vlachos's group at the University of Cambridge before joining Huawei Noah's Ark Lab in 2023.
 
-### 学校介绍
+### About the University
 
-香港科技大学是亚洲以至全球领先的研究学府之一。在2025年，科大位列 QS 世界大学排名第47位和泰晤士高等教育世界年轻大学排名第3位。2022年9月，香港科技大学（广州）成立，重点发展交叉学科，以相互补足。课程设计将围绕讯息、功能、系统、社会四个枢纽定位，研究范畴涵盖数据科学、机械人与自动化系统、人工智能、先进材料等新兴领域。目前香港科技大学（广州）位于广州南沙，生活成本低，博士生提供一个月一万五的奖学金，学校为全英文教学环境。
+Hong Kong University of Science and Technology (HKUST) is one of the leading research institutions in Asia and globally. In 2025, HKUST ranked 47th in the QS World University Rankings and 3rd in the Times Higher Education Young University Rankings. In September 2022, HKUST (Guangzhou) was established, focusing on interdisciplinary development to complement each other. The curriculum is designed around four key areas: information, function, systems, and society, with research fields covering emerging areas such as data science, robotics and automation systems, artificial intelligence, and advanced materials. Currently, HKUST (Guangzhou) is located in Nansha, Guangzhou. The university offers a monthly scholarship of 18,000 HKD for doctoral students, and the teaching environment is entirely in English.
 
-### 指导学生经验
+### Experience in Mentoring
 
-郭志江博士在剑桥和华为诺亚曾指导过10余名学生，大部分学生都发表了顶级会议论文，甚至是第一篇论文。他尊重学生兴趣，致力于帮助学生全方位成长，为很多合作的学生都写了推荐信。指导过的学生可以在这里找到：https://cartus.github.io/members/ 关于我的指导风格和为人，欢迎找他们私聊，已经全部征求过他们的同意了XD。
+He has mentored over ten students at Cambridge and Huawei Noah's Ark, most of whom have published papers at top conferences, including their first papers. I respect students' interests and am dedicated to helping them grow in all aspects. I have written recommendation letters for many of my collaborating students (the application season is quite exhausting though). You can find the students I have mentored [here](https://cartus.github.io/members/). For more about my mentoring style, feel free to contact them; I have obtained their consent for this XD.
 
 ### 博士生
 
