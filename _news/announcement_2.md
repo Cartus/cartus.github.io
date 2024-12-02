@@ -38,24 +38,29 @@ I will give priority to applicants who meet the following criteria:
 - Strong programming abilities and involvement in meaningful open-source projects related to LLMs.
 - Previous experience as a research assistant in our lab or collaborators. I value working with individuals with whom I have had positive experiences, as our time together during the PhD will be collaborative and intensive.
 
-### 研究助理/实习生/访问学生
+### Research Assistant/Intern/Visitors
 
-1. 时间方面：春季就可以加入了，不需要等到秋季。如果咱们合作愉快的话，也非常欢迎你留下成为博士生。如果你想去看看外面更大的世界，我也非常愿意推荐你到其他海外学校。
-2. 实习生和访问学生都可以远程，具体的情况可以讨论决定，我比较flexible。
-3. 希望组里主要围绕几个重点的方向，如果我们的研究兴趣差异比较大的话，我可能比较难以提供有效的指导。为了能参与所有同学的研究，目前不打算招太多的同学。
-4. 非常提倡组内积极讨论和合作，希望所有的同学都能积极参与组会的讨论，还有论文的分享。
+I have multiple openings for these positions, but overall, I prefer a smaller group size.
 
-### 一些关键信息
+- My main goal is for the team to focus on a few key research areas. If our interests diverge significantly, it may be challenging for me to provide effective guidance. To ensure I can engage with all students' research, I plan to limit the number of recruits.
+- You can start in the spring without waiting until the fall. If our collaboration goes well, I would be delighted to have you continue as a PhD student. If you're interested in exploring opportunities elsewhere, I would be more than happy to recommend you to other institutions abroad; this year, I’ve already submitted over 30 recommendation letters for two students based on our joint work.
+- Both interns and visitors can work remotely, and time zone differences are not an issue for me, as I’m accustomed to it. We can discuss the specifics and come to an agreement; these roles are more flexible compared to those of PhD students.
+- I strongly encourage active discussion and collaboration within the group, and I hope all students will participate actively in our meetings and share their research findings.
 
-1. 非常希望申请者的研究兴趣和我比较能对齐（这个是最重要的！），我目前主要关注大模型的事实性，推理和知识（参见主页和最近的论文发表情况）。因为我还是希望能够手把手帮助每一位同学的研究，包括idea的提出和讨论，实验的设计，论文的撰写投稿，rebuttal等等。改代码可能会比较困难，不过如果有需要我也会一起努力。
-2. 我对申请者的学历专业背景并没有那么看重。比较重视的是学习和工作的态度和抗压能力。大模型的研究并不是rocket science，很多时候更加需要的是严谨的态度和持之以恒的精神。抗压能力不是指我会给学生施加压力，我并不会这样做。是指现在AI的研究社区非常大，审稿充满不确定性，有时候自己长时间努力的成果并不能得到审稿人的赏识，而且博士还有发表的要求（毕业之后找工作非常需要）。即使第一次投稿失败，我也希望我们能一起努力，发表有影响力的论文。
-3. 我非常鼓励合作，包括和全球各地学术界和业界的研究者，包括博士期间的交换，还有实习（全球范围）。因为我自己就是全球合作交流的获益者，在海内外也有一定的connections，会帮助你去交流和实习。
-4. 指导风格的话，每周至少一对一讨论一次。如果有需要讨论的话，其实随时都可以找我或者留言，我会尽快安排时间做短的讨论。每周还会组织组会，希望组里的同学能了解其他同学的研究方向（所以不希望组太大），还有论文分享会（认真学习高质量的论文很重要），我也会定期邀请全球学术界和业界的研究者来开讲座。
-5. 港科广是新学校，如果非常介意学校名气和排名的话，可能不太适合申请这边的博士。
+### Some Key Points
 
-### 申请方式
+- I hope that the research interests of the applicants align well with mine, as I want to provide hands-on guidance to each student in their research, including brainstorming paper ideas, designing experiments, writing and submitting papers, and handling rebuttals. While modifying code may be more challenging, I am willing to assist with that as well.
+- I do not place much emphasis on the educational background of applicants; instead, I value their attitudes toward learning and work, as well as their ability to handle pressure. In my view, most research on LLMs is not rocket science; it often requires a rigorous mindset and perseverance. When I refer to the ability to handle pressure, I don’t mean that I will impose stress on students—rather, you may need to be self-motivated. The current AI research community is vast, and the review process can be uncertain. Sometimes, our submissions may not receive recognition from reviewers, and publishing papers is crucial for job searches after earning a PhD. Even if our prior submission fails, I hope we can work together to ultimately publish quality work.
+- I strongly encourage collaboration with researchers in academia and industry worldwide. This includes exchange programs during the PhD with universities in North America, Europe, and Singapore, as well as internships at companies. Having benefited from global collaborations myself, I have established connections that I can leverage to help you networking.
+- Regarding my mentoring style, I hold at least one one-on-one discussion each week. If you need to discuss something, feel free to reach out or leave a message, and I will arrange a short meeting as soon as possible. Additionally, I organize weekly group meetings to help students understand each other’s research directions, and I regularly invite researchers from around the world to give talks during paper-sharing sessions.
+- As HKUST (GZ) is a new university, if you are highly concerned about the institution's reputation and ranking, it may not be the right fit for you.
 
-请发送邮件到：cartusguo@gmail.com，为了提高大家的效率，恳请邮件的主要内容包括**1.您的研究方向或研究兴趣；2.对我的哪些研究方向/论文感兴趣。**，其他详细信息以附件的形式附在邮件即可（比如简历，成绩单等等）。
-格式为“Year-Position-Your Name-Affiliation”, 例如 25Fall-PhD-Wukong-SYSU.
+### Application Process
 
-对于所有投递我都会尽快阅读并进行评估，若简历通过筛选，会有邮件通知面试。
+Please send your email to cartusguo@gmail.com. To enhance efficiency, kindly include the following key points in your message:
+
+- Research Direction: Share your research area and any publication records. If you don’t have publications, feel free to outline your research interests instead.
+- Interest in My Work: Specify which of my research directions or papers interest you, and what particular area you wish to pursue if you join my team.
+- Additional Information: Attach any relevant documents, such as your resume or transcripts. Please format the attachments as “Year-Position-Your Name-Affiliation” (e.g., “25Fall-PhD-Wukong-SYSU”).
+  
+I typically respond to most emails quickly, whether to schedule an interview or to indicate that we may not be a good fit. If you don’t hear back from me for a while, it means I’m still considering your application and may need additional time. Thank you for your understanding!
