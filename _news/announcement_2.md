@@ -24,17 +24,19 @@ Hong Kong University of Science and Technology (HKUST) is one of the leading res
 
 He has mentored over ten students at Cambridge and Huawei Noah's Ark, most of whom have published papers at top conferences, including their first papers. I respect students' interests and am dedicated to helping them grow in all aspects. I have written recommendation letters for many of my collaborating students (the application season is quite exhausting though). You can find the students I have mentored [here](https://cartus.github.io/members/). For more about my mentoring style, feel free to contact them; I have obtained their consent for this XD.
 
-### 博士生
+### For PhD Students
 
-由于我是2025年春季才加入学校，所以我目前只能接受2025年秋季入学的同学，具体要求如下：
-1. 对大型语言模型的基础研究和应用有浓厚兴趣，渴望做出有影响力的科研成果（类比马斯洛需求层次理论，研究初期可以做一些短平快的工作入门，但是到后期还是希望能够做出更高质量更有影响力的工作）。
-2. 有较强的数学和编程能力，愿意学习探索新知识（因为现在每天都挂一堆论文出来）。
-3. 良好的英语发表与写作基础（满足港科大英语招生要求，入学需取得雅思6.5或托福80)。
+As I will be joining the university in the spring of 2025, I am currently looking for students to start in the fall of 2025. Here are some key requirements I hope potential candidates will consider:
 
-优先考虑符合以下要求的申请者：
-1. 有过大语言模型，机器学习，自然语言处理的相关研究经验，曾在ML（三大会）/NLP（ACL系列）/LLM（COLM）会议上发表过论文。
-2. 有很强的编程能力，参与过有影响力的大型语言模型相关的开源项目。
-3. 曾经在组里担任过研究助理或者实习合作过。
+- Passionate about the fundamental research of LLMs, along with a desire to contribute to impactful scientific work. While it’s perfectly fine to begin with shorter projects, I hope that as we progress, we can collaborate on higher-quality, more influential research.
+- Strong mathematical and programming skills, with a willingness to learn and explore new ideas. Given the rapid advancements in our field, staying proactive is essential to keep up.
+- A solid foundation in English writing and publication. The admission requirements for HKUST (GZ) include an IELTS score of 6.5 or a TOEFL score of 80. However, I believe that strong communication skills are equally important. Good writing can make a significant difference in sharing your ideas, and effective communication is vital for networking at conferences. I would be happy to attend conferences with you and can help introduce you to others in the field.
+
+I will give priority to applicants who meet the following criteria:
+
+- Experience in large models, machine learning, or natural language processing, with publications in key conferences such as ML (ICML/NeurIPS/ICLR), NLP (ACL/EMNLP/NAACL/EACL), or LLM (COLM). I focus on these venues, as well as some journals (TACL/TMLR).
+- Strong programming abilities and involvement in meaningful open-source projects related to LLMs.
+- Previous experience as a research assistant in our lab or collaborators. I value working with individuals with whom I have had positive experiences, as our time together during the PhD will be collaborative and intensive.
 
 ### 研究助理/实习生/访问学生
 
