@@ -70,7 +70,7 @@ I have multiple openings for these positions, but overall, I prefer a smaller gr
 
 ### Application Process
 
-Please send your email to cartusguo@gmail.com. To enhance efficiency, kindly include the following key points in your message:
+Please send your email to zhijiangguo@hkust-gz.edu.cn . To enhance efficiency, kindly include the following key points in your message:
 
 - Research Direction: Share your research area and any publication records. If you don’t have publications, feel free to outline your research interests instead.
 - Interest in My Work: Specify which of my research directions or papers interest you, and what particular area you wish to pursue if you join my team.
