@@ -42,12 +42,12 @@ He has mentored over ten students at Cambridge and Huawei Noah's Ark, most of wh
 As I will be joining the university in the spring of 2025, I am currently looking for students to start in the fall of 2025. Here are some key requirements I hope potential candidates will consider:
 
 - Passionate about the fundamental research of LLMs, along with a desire to contribute to impactful scientific work. While it’s perfectly fine to begin with shorter projects, I hope that as we progress, we can collaborate on higher-quality, more influential research.
-- Strong mathematical and programming skills, with a willingness to learn and explore new ideas. Given the rapid advancements in our field, staying proactive is essential to keep up.
-- A solid foundation in English writing and publication. The admission requirements for HKUST (GZ) include an IELTS score of 6.5 or a TOEFL score of 80. However, I believe that strong communication skills are equally important. Good writing can make a significant difference in sharing your ideas, and effective communication is vital for networking at conferences. I would be happy to attend conferences with you and can help introduce you to others in the field.
+- Strong mathematical and programming skills, willing to learn and explore new ideas. Given the rapid advancements in our field, staying proactive is essential to keep up.
+- A solid foundation in English writing and publication. The admission requirements for HKUST (GZ) include an IELTS score of 6.5 or a TOEFL score 80. However, I believe that strong communication skills are equally important. Good writing can make a significant difference in sharing your ideas, and effective communication is vital for networking at conferences. I would be happy to attend conferences with you and can help introduce you to others in the field.
 
 I will give priority to applicants who meet the following criteria:
 
-- Experience in large models, machine learning, or natural language processing, with publications in key conferences such as ML (ICML/NeurIPS/ICLR), NLP (ACL/EMNLP/NAACL/EACL), or LLM (COLM). I focus on these venues, as well as some journals (TACL/TMLR).
+- Experience in large language models, machine learning, or natural language processing, with publications in key conferences such as ML (ICML/NeurIPS/ICLR), NLP (ACL/EMNLP/NAACL/EACL), or LLM (COLM). I focus on these venues, as well as some journals (TACL/TMLR).
 - Strong programming abilities and involvement in meaningful open-source projects related to LLMs.
 - Previous experience as a research assistant in our lab or collaborators. I value working with individuals with whom I have had positive experiences, as our time together during the PhD will be collaborative and intensive.
 
@@ -74,6 +74,6 @@ Please send your email to zhijiangguo@hkust-gz.edu.cn . To enhance efficiency, k
 
 - Research Direction: Share your research area and any publication records. If you don’t have publications, feel free to outline your research interests instead.
 - Interest in My Work: Specify which of my research directions or papers interest you, and what particular area you wish to pursue if you join my team.
-- Additional Information: Attach any relevant documents, such as your resume or transcripts. Please format the attachments as “Year-Position-Your Name-Affiliation” (e.g., “25Fall-PhD-Wukong-SYSU”).
+- Additional Information: Attach any relevant documents, such as your resume or transcripts. Please format the title of the email as “Year-Position-Your Name-Affiliation” (e.g., “25Fall-PhD-Wukong-SYSU”).
   
 I typically respond to most emails quickly, whether to schedule an interview or to indicate that we may not be a good fit. If you don’t hear back from me for a while, it means I’m still considering your application and may need additional time. Thank you for your understanding!
