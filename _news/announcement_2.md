@@ -6,7 +6,7 @@ inline: false
 related_posts: false
 ---
 
-Dr. Zhijiang Guo will join the Hong Kong University of Science and Technology (Guangzhou) as an Assistant Professor in Spring 2025. The research group hopes to recruit several PhD students and research assistants for enrollment in 2025. We warmly encourage prospective applicants for the Fall 2025 PhD program to consider applying for a research assistant position first. We would greatly appreciate it if interested applicants could read the guidelines below and submit their applications via email as instructed.
+Dr. Zhijiang Guo will join the Hong Kong University of Science and Technology (Guangzhou) as an Assistant Professor in Spring 2025. The research group hopes to recruit several PhD students for enrollment in 2025. We would greatly appreciate it if interested applicants could read the guidelines below and submit their applications via email as instructed. 
 
 ---
 
@@ -42,8 +42,9 @@ He has mentored over ten students at Cambridge and Huawei Noah's Ark, most of wh
 As I will be joining the university in the spring of 2025, I am currently looking for students to start in the fall of 2025. Here are some key requirements I hope potential candidates will consider:
 
 - Passionate about the fundamental research of LLMs, along with a desire to contribute to impactful scientific work. While it’s perfectly fine to begin with shorter projects, I hope that as we progress, we can collaborate on higher-quality, more influential research.
+- Relevant research or engineering experience in LLMs. After two weeks of screening and interviews, I have updated this criterion. At this stage, I will prefer applicants who have research experience relevant to my research direction.
 - Strong mathematical and programming skills, willing to learn and explore new ideas. Given the rapid advancements in our field, staying proactive is essential to keep up.
-- A solid foundation in English writing and publication. The admission requirements for HKUST (GZ) include an IELTS score of 6.5 or a TOEFL score 80. However, I believe that strong communication skills are equally important. Good writing can make a significant difference in sharing your ideas, and effective communication is vital for networking at conferences. I would be happy to attend conferences with you and can help introduce you to others in the field.
+- A solid foundation in English writing and publication. The admission requirements for HKUST (GZ) include an IELTS score of 6.5 or a TOEFL score of 80. However, I believe that strong communication skills are equally important. Good writing can make a significant difference in sharing your ideas, and effective communication is vital for networking at conferences. I would be happy to attend conferences with you and can help introduce you to others in the field.
 
 I will give priority to applicants who meet the following criteria:
 
@@ -51,14 +52,18 @@ I will give priority to applicants who meet the following criteria:
 - Strong programming abilities and involvement in meaningful open-source projects related to LLMs.
 - Previous experience as a research assistant in our lab or collaborators. I value working with individuals with whom I have had positive experiences, as our time together during the PhD will be collaborative and intensive.
 
-### Research Assistant/Intern/Visitors
+### For Research Assistant/Intern/Visitors
 
-I have multiple openings for these positions, but overall, I prefer a smaller group size.
+I have already welcomed multiple interns, research assistants, and visitors. At this time, I do not have plans to recruit additional team members. I will update this post when these new positions become available.
 
 - My main goal is for the team to focus on a few key research areas. If our interests diverge significantly, it may be challenging for me to provide effective guidance. To ensure I can engage with all students' research, I plan to limit the number of recruits.
 - You can start in the spring without waiting until the fall. If our collaboration goes well, I would be delighted to have you continue as a PhD student. If you're interested in exploring opportunities elsewhere, I would be more than happy to recommend you to other institutions abroad; this year, I’ve already submitted over 30 recommendation letters for two students based on our joint work.
 - Both interns and visitors can work remotely, and time zone differences are not an issue for me, as I’m accustomed to it. We can discuss the specifics and come to an agreement; these roles are more flexible compared to those of PhD students.
 - I strongly encourage active discussion and collaboration within the group, and I hope all students will participate actively in our meetings and share their research findings.
+
+### For MPhil Students
+
+I am unable to recruit any MPhil students. Please apply through the university's application system. If you have already been admitted, feel free to email me if you're interested in exploring any research directions within our group.
 
 ### Some Key Points
 
