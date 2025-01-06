@@ -21,4 +21,5 @@ I am fortunate to be working with the following talented students/interns:
 - [Alisa Wan](https://yingjia.one/): Master at Cambridge
 - [Chunlin Tian](https://clin0212.github.io/): PhD at UM
 - [Dong Huang](https://huangd1999.github.io/): PhD at HKU
+- [Zhicheng Yang](https://yangzhch6.github.io/): PhD at HKUST (GZ)
 - [Yunlong Feng](https://resume.alongwy.top/#anchor_about): PhD at HIT
