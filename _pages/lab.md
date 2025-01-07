@@ -9,7 +9,7 @@ nav_order: 3
 
 ---
 ## Research Mentoring
-I am fortunate to be working with the following talented students/interns:
+I was fortunate to work with the following talented students/interns:
 - Andrew Georgiou: Master at Cambridge, to Google Zurich
 - [Caiqi Zhang](https://caiqizh.github.io/): Master at Cambridge, to PhD at Cambridge
 - Henry Caushi: Undergrad at Cambridge, to Instructor at Warwick
@@ -23,3 +23,8 @@ I am fortunate to be working with the following talented students/interns:
 - [Dong Huang](https://huangd1999.github.io/): PhD at HKU
 - [Zhicheng Yang](https://yangzhch6.github.io/): PhD at HKUST (GZ)
 - [Yunlong Feng](https://resume.alongwy.top/#anchor_about): PhD at HIT
+
+
+---
+## Interns/RAs/Vistors
+- [Alisa Wan](https://yingjia.one/): Master at Cambridge
