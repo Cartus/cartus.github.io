@@ -8,7 +8,17 @@ nav_order: 3
 ---
 
 ---
-## Research Mentoring
+## Interns/RAs
+- [Yingjia Wan](https://yingjia.one/): Master at Cambridge
+- Boyu Zhu: Master at UCL
+- Langqi Liu: Master at NJU
+- Bowen Zhai: Master at PKU
+- Qingsong Lv: Master at THU
+- Junhan Shi: Master at THU
+- Jiaran Zhang: Master at HIT (SZ)
+
+---
+## Alumni
 I was fortunate to work with the following talented students/interns:
 - Andrew Georgiou: Master at Cambridge, to Google Zurich
 - [Caiqi Zhang](https://caiqizh.github.io/): Master at Cambridge, to PhD at Cambridge
@@ -18,13 +28,7 @@ I was fortunate to work with the following talented students/interns:
 - [Jianqiao Lu](https://jianqiaolu.github.io/): PhD at HKU
 - [Rongwu Xu](https://rongwuxu.com/): Master at Tsinghua
 - [Yuxuan Yao](https://scholar.google.com.hk/citations?user=PLe5qQEAAAAJ&hl=zh-CN): PhD at CityU
-- [Alisa Wan](https://yingjia.one/): Master at Cambridge
 - [Chunlin Tian](https://clin0212.github.io/): PhD at UM
 - [Dong Huang](https://huangd1999.github.io/): PhD at HKU
 - [Zhicheng Yang](https://yangzhch6.github.io/): PhD at HKUST (GZ)
 - [Yunlong Feng](https://resume.alongwy.top/#anchor_about): PhD at HIT
-
-
----
-## Interns/RAs/Vistors
-- [Alisa Wan](https://yingjia.one/): Master at Cambridge
