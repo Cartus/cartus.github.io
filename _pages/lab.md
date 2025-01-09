@@ -9,26 +9,26 @@ nav_order: 3
 
 ---
 ## Interns/RAs
-- [Yingjia Wan](https://yingjia.one/): Master at Cambridge
-- Boyu Zhu: Master at UCL
-- Langqi Liu: Master at NJU
-- Bowen Zhai: Master at PKU
-- Qingsong Lv: Master at THU
-- Junhan Shi: Master at THU
-- Jiaran Zhang: Master at HIT (SZ)
+- [Yingjia Wan](https://yingjia.one/): Master at University of Cambridge
+- Boyu Zhu: Master at University College London
+- Langqi Liu: Master at Nanjing University
+- Bowen Zhai: Master at Peking University
+- Qingsong Lv: Master at Tsinghua University
+- Junhan Shi: Master at Tsinghua University
+- Jiaran Zhang: Master at Harbin Institute of Technology
 
 ---
 ## Alumni
 I was fortunate to work with the following talented students/interns:
-- Andrew Georgiou: Master at Cambridge, to Google Zurich
-- [Caiqi Zhang](https://caiqizh.github.io/): Master at Cambridge, to PhD at Cambridge
-- Henry Caushi: Undergrad at Cambridge, to Instructor at Warwick
-- [Haochen Tan](https://namco0816.github.io/): PhD at CityU, to Researcher at Huawei Noah's Ark Hong Kong
-- [Jing Xiong](https://menik1126.github.io/): Master at SYSU, to PhD at HKU
-- [Jianqiao Lu](https://jianqiaolu.github.io/): PhD at HKU
-- [Rongwu Xu](https://rongwuxu.com/): Master at Tsinghua
-- [Yuxuan Yao](https://scholar.google.com.hk/citations?user=PLe5qQEAAAAJ&hl=zh-CN): PhD at CityU
-- [Chunlin Tian](https://clin0212.github.io/): PhD at UM
-- [Dong Huang](https://huangd1999.github.io/): PhD at HKU
-- [Zhicheng Yang](https://yangzhch6.github.io/): PhD at HKUST (GZ)
-- [Yunlong Feng](https://resume.alongwy.top/#anchor_about): PhD at HIT
+- Andrew Georgiou: Master at University of Cambridge, to Google Zurich
+- [Caiqi Zhang](https://caiqizh.github.io/): Master at University of Cambridge, to PhD at Cambridge
+- Henry Caushi: Undergrad at University of Cambridge, to Instructor at Warwick
+- [Haochen Tan](https://namco0816.github.io/): PhD at City University of Hong Kong, to Researcher at Huawei Noah's Ark Hong Kong
+- [Jing Xiong](https://menik1126.github.io/): Master at Sun Yat-sen University, to PhD at University of Hong Kong
+- [Jianqiao Lu](https://jianqiaolu.github.io/): PhD at University of Hong Kong
+- [Rongwu Xu](https://rongwuxu.com/): Master at Tsinghua University
+- [Yuxuan Yao](https://scholar.google.com.hk/citations?user=PLe5qQEAAAAJ&hl=zh-CN): PhD at City University of Hong Kong
+- [Chunlin Tian](https://clin0212.github.io/): PhD at University of Macau
+- [Dong Huang](https://huangd1999.github.io/): PhD at University of Hong Kong
+- [Zhicheng Yang](https://yangzhch6.github.io/): PhD at Hong Kong University of Science and Technology (Guangzhou)
+- [Yunlong Feng](https://resume.alongwy.top/#anchor_about): PhD at Harbin Institute of Technology
