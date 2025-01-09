@@ -9,7 +9,7 @@ nav_order: 3
 
 ---
 ## Interns/RAs
-- [Yingjia Wan](https://yingjia.one/): Master at University of Cambridge
+- [Alisa Yingjia Wan](https://yingjia.one/): Master at University of Cambridge
 - Boyu Zhu: Master at University College London
 - Langqi Liu: Master at Nanjing University
 - Bowen Zhai: Master at Peking University
