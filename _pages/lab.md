@@ -13,7 +13,7 @@ nav_order: 3
 - Boyu Zhu: Master at University College London
 - Langqi Liu: Master at Nanjing University
 - Bowen Zhai: Master at Peking University
-- Qingsong Lv: Master at Tsinghua University
+- Qingsong Lyu: Master at Tsinghua University
 - Junhan Shi: Master at Tsinghua University
 - Jiaran Zhang: Master at Harbin Institute of Technology
 
