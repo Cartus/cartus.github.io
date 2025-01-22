@@ -11,7 +11,7 @@ nav_order: 3
 ## Interns/RAs
 - [Alisa Yingjia Wan](https://yingjia.one/): Master at University of Cambridge
 - Boyu Zhu: Master at University College London
-- Langqi Liu: Master at Nanjing University
+- [Langqi Liu](https://liurunky.github.io/): Master at Nanjing University
 - Bowen Qu: Master at Peking University
 - Qingsong Lyu: Master at Tsinghua University
 - Junhan Shi: Master at Tsinghua University
