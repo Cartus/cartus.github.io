@@ -41,3 +41,7 @@
 "SIGIR":
   url: https://aclanthology.org/venues/coling/
   color: "#ccccc0"
+
+"JBI":
+  url: https://www.sciencedirect.com/journal/journal-of-biomedical-informatics
+  color: "#B95CF4"
