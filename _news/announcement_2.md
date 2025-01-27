@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Prospective Students and Visitors
-date: 2025-1-25 16:11:00-0400
+date: 2025-01-25 16:11:00-0400
 inline: false
 related_posts: false
 ---
 
-Dr. Zhijiang Guo will join the Hong Kong University of Science and Technology (Guangzhou) as an Assistant Professor in Spring 2025. The research group hopes to recruit several PhD students for enrollment in 2025. We would greatly appreciate it if interested applicants could read the guidelines below and submit their applications via email as instructed. 
+Dr. Zhijiang Guo join the Hong Kong University of Science and Technology (Guangzhou) as an Assistant Professor in Spring 2025. The research group hopes to recruit several PhD students for enrollment in 2025/2026. We would greatly appreciate it if interested applicants could read the guidelines below and submit their applications via email as instructed. 
 
 ---
 
