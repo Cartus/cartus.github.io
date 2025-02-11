@@ -3,6 +3,72 @@
 
 
 
+@inproceedings{Xu2025RedStarDS,
+  title={RedStar: Does Scaling Long-CoT Data Unlock Better Slow-Reasoning Systems?},
+  author={Haotian Xu and Xing Wu and Weinong Wang and Zhongzhi Li and Da Zheng and Boyuan Chen and Yi Hu and Shijia Kang and Jiaming Ji and Yingying Zhang and Zhijiang Guo and Yaodong Yang and Muhan Zhang and Debing Zhang},
+  booktitle={ArXiv},
+  year={2025},
+  html       = {https://arxiv.org/pdf/2501.11284},
+  code       = {https://huggingface.co/RedStar-Reasoning},
+  selected   = {false},
+  preview = {RedStar.png},
+  abstract = {Can scaling transform reasoning? In this work, we explore the untapped potential of scaling Long Chain-of-Thought (Long-CoT) data to 1000k samples, pioneering the development of a slow-thinking model, RedStar. Through extensive experiments with various LLMs and different sizes, we uncover the ingredients for specialization and scale for Long-CoT training. Surprisingly, even smaller models show significant performance gains with limited data, revealing the sample efficiency of Long-CoT and the critical role of sample difficulty in the learning process. Our findings demonstrate that Long-CoT reasoning can be effectively triggered with just a few thousand examples, while larger models achieve unparalleled improvements. We also introduce reinforcement learning (RL)-scale training as a promising direction for advancing slow-thinking systems. RedStar shines across domains: on the MATH-Hard benchmark, RedStar-code-math boosts performance from 66.2\% to 81.6\%, and on the USA Math Olympiad (AIME), it solves 46.7\% of problems using only 21k mixed-code-math datasets. In multimodal tasks like GeoQA and MathVista-GEO, RedStar-Geo achieves competitive results with minimal Long-CoT data, outperforming other slow-thinking systems like QvQ-Preview. Compared to QwQ, RedStar strikes the perfect balance between reasoning and generalizability. Our work highlights that, with careful tuning, scaling Long-CoT can unlock extraordinary reasoning capabilities-even with limited dataset and set a new standard for slow-thinking models across diverse challenges.}
+}
+
+@inproceedings{Lu2024FormalAlignAA,
+  abbr={ICLR},
+  title={FormalAlign: Automated Alignment Evaluation for Autoformalization},
+  author={Jianqiao Lu* and Yingjia Wan* and Yinya Huang and Jing Xiong and Zhengying Liu and Zhijiang Guo†},
+  booktitle    = {ICLR},
+  year={2025},
+  html       = {https://arxiv.org/pdf/2410.10135},
+  code       = {https://github.com/rookie-joe/FormalAlign},
+  selected   = {true},
+  preview = {FormalAlign.png},
+  annotation   = {* denotes Equal Contribution. † denotes Corresponding Author.},
+  abstract = {Autoformalization aims to convert informal mathematical proofs into machine-verifiable formats, bridging the gap between natural and formal languages. However, ensuring semantic alignment between the informal and formalized statements remains challenging. Existing approaches heavily rely on manual verification, hindering scalability. To address this, we introduce \textsc{FormalAlign}, the first automated framework designed for evaluating the alignment between natural and formal languages in autoformalization. \textsc{FormalAlign} trains on both the autoformalization sequence generation task and the representational alignment between input and output, employing a dual loss that combines a pair of mutually enhancing autoformalization and alignment tasks. Evaluated across four benchmarks augmented by our proposed misalignment strategies, \textsc{FormalAlign} demonstrates superior performance. In our experiments, \textsc{FormalAlign} outperforms GPT-4, achieving an Alignment-Selection Score 11.58\% higher on \forml-Basic (99.21\% vs. 88.91\%) and 3.19\% higher on MiniF2F-Valid (66.39\% vs. 64.34\%). This effective alignment evaluation significantly reduces the need for manual verification.}
+}
+
+@inproceedings{Yao2024DetermineThenEnsembleNO,
+  abbr={ICLR},
+  title={Determine-Then-Ensemble: Necessity of Top-k Union for Large Language Model Ensembling},
+  author={Yuxuan Yao and Han Wu† and Mingyang Liu and Sichun Luo and Xiongwei Han and Jie Liu and Zhijiang Guo and Linqi Song†},
+  booktitle    = {ICLR (Spotlight)},
+  year={2025},
+  html       = {https://arxiv.org/pdf/2410.03777},
+  selected   = {true},
+  preview = {Unite.png},
+  abstract = {Large language models (LLMs) exhibit varying strengths and weaknesses across different tasks, prompting recent studies to explore the benefits of ensembling models to leverage their complementary advantages. However, existing LLM ensembling methods often overlook model compatibility and struggle with inefficient alignment of probabilities across the entire vocabulary. In this study, we empirically investigate the factors influencing ensemble performance, identifying model performance, vocabulary size, and response style as key determinants, revealing that compatibility among models is essential for effective ensembling. This analysis leads to the development of a simple yet effective model selection strategy that identifies compatible models. Additionally, we introduce the \textsc{Uni}on \textsc{T}op-k \textsc{E}nsembling (\textsc{UniTE}), a novel approach that efficiently combines models by focusing on the union of the top-k tokens from each model, thereby avoiding the need for full vocabulary alignment and reducing computational overhead. Extensive evaluations across multiple benchmarks demonstrate that \textsc{UniTE} significantly enhances performance compared to existing methods, offering a more efficient framework for LLM ensembling.}
+}
+
+
+@inproceedings{YANG2024OptiBenchMR,
+  abbr={ICLR},
+  title={OptiBench Meets ReSocratic: Measure and Improve LLMs for Optimization Modeling},
+  author={Zhicheng YANG and Yinya Huang and Zhijiang Guo and Wei Shi and Liang Feng and Linqi Song and Yiwei Wang and Xiaodan Liang and Jing Tang},
+  booktitle    = {ICLR},
+  year={2025},
+  html       = {https://arxiv.org/pdf/2407.09887v2},
+  code       = {https://github.com/yangzhch6/ReSocratic},
+  selected   = {false},
+  preview = {OptiBench.png},
+  abstract = {Large language models (LLMs) have exhibited their problem-solving abilities in mathematical reasoning. Solving realistic optimization (OPT) problems in application scenarios requires advanced and applied mathematics ability. However, current OPT benchmarks that merely solve linear programming are far from complex realistic situations. In this work, we propose OptiBench, a benchmark for End-to-end optimization problem-solving with human-readable inputs and outputs. OptiBench contains rich optimization problems, including linear and nonlinear programming with or without tabular data, which can comprehensively evaluate LLMs' solving ability. In our benchmark, LLMs are required to call a code solver to provide precise numerical answers. Furthermore, to alleviate the data scarcity for optimization problems, and to bridge the gap between open-source LLMs on a small scale (e.g., Llama-3-8b) and closed-source LLMs (e.g., GPT-4), we further propose a data synthesis method namely ReSocratic. Unlike general data synthesis methods that proceed from questions to answers, \ReSocratic first incrementally synthesizes formatted optimization demonstration with mathematical formulations step by step and then back-translates the generated demonstrations into questions. Based on this, we synthesize the ReSocratic-29k dataset. We further conduct supervised fine-tuning with ReSocratic-29k on multiple open-source models. Experimental results show that ReSocratic-29k significantly improves the performance of open-source models.}
+}
+
+
+@inproceedings{Lin2024Analysis,
+  abbr={JBI},
+  title={Analysis of longitudinal social media for monitoring symptoms during a pandemic},
+  author={Shixu Lin and Lucas Garay and Yining Hua and Zhijiang Guo and Wanxin Li and Minghui Li and Yujie Zhang and Xiaolin Xu and Jie Yang},
+  booktitle    = {Journal of Biomedical Informatics},
+  year={2025},
+  html       = {https://www.sciencedirect.com/science/article/pii/S1532046425000073},
+  code       = {https://github.com/Lsx-8621/Analysis-of-Longitudinal-Social-Media-for-Monitoring-Symptoms-During-a-Pandemic},
+  selected   = {false},
+  preview = {Pandemic.png},
+  abstract = {Current studies leveraging social media data for disease monitoring face challenges like noisy colloquial language and insufficient tracking of user disease progression in longitudinal data settings. This study aims to develop a pipeline for collecting, cleaning, and analyzing large-scale longitudinal social media data for disease monitoring, with a focus on COVID-19 pandemic.}
+}
+
 
 
 @inproceedings{Lu2024ProcessDrivenAI,
@@ -19,19 +85,6 @@
   abstract = {Autoformalization, the conversion of natural language mathematics into formal languages, offers significant potential for advancing mathematical reasoning. However, existing efforts are limited to formal languages with substantial online corpora and struggle to keep pace with rapidly evolving languages like Lean 4. To bridge this gap, we propose a new benchmark \textbf{Form}alization for \textbf{L}ean~\textbf{4} (\textbf{\name}) designed to evaluate the autoformalization capabilities of large language models (LLMs). This benchmark encompasses a comprehensive assessment of questions, answers, formal statements, and proofs. Additionally, we introduce a \textbf{P}rocess-\textbf{S}upervised \textbf{V}erifier (\textbf{PSV}) model that leverages the precise feedback from Lean 4 compilers to enhance autoformalization. Our experiments demonstrate that the PSV method improves autoformalization, enabling higher accuracy using less filtered training data. Furthermore, when fine-tuned with data containing detailed process information, PSV can leverage the data more effectively, leading to more significant improvements in autoformalization for Lean 4. }
 }
 
-@inproceedings{Lu2024FormalAlignAA,
-  abbr={ICLR},
-  title={FormalAlign: Automated Alignment Evaluation for Autoformalization},
-  author={Jianqiao Lu* and Yingjia Wan* and Yinya Huang and Jing Xiong and Zhengying Liu and Zhijiang Guo†},
-  booktitle    = {ICLR},
-  year={2025},
-  html       = {https://arxiv.org/pdf/2410.10135},
-  code       = {https://github.com/rookie-joe/FormalAlign},
-  selected   = {true},
-  preview = {FormalAlign.png},
-  annotation   = {* denotes Equal Contribution. † denotes Corresponding Author.},
-  abstract = {Autoformalization aims to convert informal mathematical proofs into machine-verifiable formats, bridging the gap between natural and formal languages. However, ensuring semantic alignment between the informal and formalized statements remains challenging. Existing approaches heavily rely on manual verification, hindering scalability. To address this, we introduce \textsc{FormalAlign}, the first automated framework designed for evaluating the alignment between natural and formal languages in autoformalization. \textsc{FormalAlign} trains on both the autoformalization sequence generation task and the representational alignment between input and output, employing a dual loss that combines a pair of mutually enhancing autoformalization and alignment tasks. Evaluated across four benchmarks augmented by our proposed misalignment strategies, \textsc{FormalAlign} demonstrates superior performance. In our experiments, \textsc{FormalAlign} outperforms GPT-4, achieving an Alignment-Selection Score 11.58\% higher on \forml-Basic (99.21\% vs. 88.91\%) and 3.19\% higher on MiniF2F-Valid (66.39\% vs. 64.34\%). This effective alignment evaluation significantly reduces the need for manual verification.}
-}
 
 @inproceedings{Xu2024DebateQAEQ,
   abbr={ArXiv},
@@ -106,17 +159,6 @@
   abstract = {Recent research in Large Language Models (LLMs) has shown promising progress related to LLM alignment with human preferences. LLM-empowered decision-making systems are expected to be predictable, reliable and trustworthy, which implies being free from paradoxes or contradictions that could undermine their credibility and validity. However, LLMs still exhibit inconsistent and biased behaviour when making decisions or judgements. In this work, we focus on studying logical consistency of LLMs as a prerequisite for more reliable and trustworthy systems. Logical consistency ensures that decisions are based on a stable and coherent understanding of the problem, reducing the risk of erratic or contradictory outputs. We first propose a universal framework to quantify the logical consistency via three fundamental proxies: transitivity, commutativity and negation invariance. We then evaluate logical consistency, using the defined measures, of a wide range of LLMs, demonstrating that it can serve as a strong proxy for overall robustness. Additionally, we introduce a data refinement and augmentation technique that enhances the logical consistency of LLMs without sacrificing alignment to human preferences. It augments noisy and sparse pairwise-comparison annotations by estimating a partially or totally ordered preference rankings using rank aggregation methods. Finally, we show that logical consistency impacts the performance of LLM-based logic-dependent algorithms, where LLMs serve as logical operators.}
 }
 
-@inproceedings{Yao2024DetermineThenEnsembleNO,
-  abbr={ICLR},
-  title={Determine-Then-Ensemble: Necessity of Top-k Union for Large Language Model Ensembling},
-  author={Yuxuan Yao and Han Wu† and Mingyang Liu and Sichun Luo and Xiongwei Han and Jie Liu and Zhijiang Guo and Linqi Song†},
-  booktitle    = {ICLR},
-  year={2025},
-  html       = {https://arxiv.org/pdf/2410.03777},
-  selected   = {false},
-  preview = {Unite.png},
-  abstract = {Large language models (LLMs) exhibit varying strengths and weaknesses across different tasks, prompting recent studies to explore the benefits of ensembling models to leverage their complementary advantages. However, existing LLM ensembling methods often overlook model compatibility and struggle with inefficient alignment of probabilities across the entire vocabulary. In this study, we empirically investigate the factors influencing ensemble performance, identifying model performance, vocabulary size, and response style as key determinants, revealing that compatibility among models is essential for effective ensembling. This analysis leads to the development of a simple yet effective model selection strategy that identifies compatible models. Additionally, we introduce the \textsc{Uni}on \textsc{T}op-k \textsc{E}nsembling (\textsc{UniTE}), a novel approach that efficiently combines models by focusing on the union of the top-k tokens from each model, thereby avoiding the need for full vocabulary alignment and reducing computational overhead. Extensive evaluations across multiple benchmarks demonstrate that \textsc{UniTE} significantly enhances performance compared to existing methods, offering a more efficient framework for LLM ensembling.}
-}
 
 
 @inproceedings{Xiong2024UNCompUL,
@@ -132,31 +174,8 @@
 }
 
 
-@inproceedings{YANG2024OptiBenchMR,
-  abbr={ICLR},
-  title={OptiBench Meets ReSocratic: Measure and Improve LLMs for Optimization Modeling},
-  author={Zhicheng YANG and Yinya Huang and Zhijiang Guo and Wei Shi and Liang Feng and Linqi Song and Yiwei Wang and Xiaodan Liang and Jing Tang},
-  booktitle    = {ICLR},
-  year={2025},
-  html       = {https://arxiv.org/pdf/2407.09887v2},
-  code       = {https://github.com/yangzhch6/ReSocratic},
-  selected   = {false},
-  preview = {OptiBench.png},
-  abstract = {Large language models (LLMs) have exhibited their problem-solving abilities in mathematical reasoning. Solving realistic optimization (OPT) problems in application scenarios requires advanced and applied mathematics ability. However, current OPT benchmarks that merely solve linear programming are far from complex realistic situations. In this work, we propose OptiBench, a benchmark for End-to-end optimization problem-solving with human-readable inputs and outputs. OptiBench contains rich optimization problems, including linear and nonlinear programming with or without tabular data, which can comprehensively evaluate LLMs' solving ability. In our benchmark, LLMs are required to call a code solver to provide precise numerical answers. Furthermore, to alleviate the data scarcity for optimization problems, and to bridge the gap between open-source LLMs on a small scale (e.g., Llama-3-8b) and closed-source LLMs (e.g., GPT-4), we further propose a data synthesis method namely ReSocratic. Unlike general data synthesis methods that proceed from questions to answers, \ReSocratic first incrementally synthesizes formatted optimization demonstration with mathematical formulations step by step and then back-translates the generated demonstrations into questions. Based on this, we synthesize the ReSocratic-29k dataset. We further conduct supervised fine-tuning with ReSocratic-29k on multiple open-source models. Experimental results show that ReSocratic-29k significantly improves the performance of open-source models.}
-}
 
-@inproceedings{Lin2024Analysis,
-  abbr={JBI},
-  title={Analysis of longitudinal social media for monitoring symptoms during a pandemic},
-  author={Shixu Lin and Lucas Garay and Yining Hua and Zhijiang Guo and Wanxin Li and Minghui Li and Yujie Zhang and Xiaolin Xu and Jie Yang},
-  booktitle    = {Journal of Biomedical Informatics},
-  year={2025},
-  html       = {https://www.sciencedirect.com/science/article/pii/S1532046425000073},
-  code       = {https://github.com/Lsx-8621/Analysis-of-Longitudinal-Social-Media-for-Monitoring-Symptoms-During-a-Pandemic},
-  selected   = {false},
-  preview = {Pandemic.png},
-  abstract = {Current studies leveraging social media data for disease monitoring face challenges like noisy colloquial language and insufficient tracking of user disease progression in longitudinal data settings. This study aims to develop a pipeline for collecting, cleaning, and analyzing large-scale longitudinal social media data for disease monitoring, with a focus on COVID-19 pandemic.}
-}
+
 
 
 @inproceedings{Lu2024AutoPSVAP,
