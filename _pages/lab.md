@@ -8,7 +8,8 @@ nav_order: 3
 ---
 
 ---
-## Interns/RAs
+## Interns/RAs/Visitors
+- [Zhongzhi Li](https://zzli2022.github.io/): PhD at Chinese Academy of Sciences
 - [Alisa Yingjia Wan](https://yingjia.one/): Master at University of Cambridge
 - Boyu Zhu: Master at University College London
 - [Langqi Liu](https://liurunky.github.io/): Master at Nanjing University
