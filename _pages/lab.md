@@ -9,7 +9,6 @@ nav_order: 3
 
 ---
 ## Interns/RAs/Visitors
-- [Zhongzhi Li](https://zzli2022.github.io/): PhD at Chinese Academy of Sciences
 - [Alisa Yingjia Wan](https://yingjia.one/): Master at University of Cambridge
 - Boyu Zhu: Master at University College London
 - [Langqi Liu](https://liurunky.github.io/): Master at Nanjing University
@@ -17,6 +16,8 @@ nav_order: 3
 - Qingsong Lyu: Master at Tsinghua University
 - Junhan Shi: Master at Tsinghua University
 - Jiaran Zhang: Master at Harbin Institute of Technology
+- [Zhongzhi Li](https://zzli2022.github.io/): PhD at Chinese Academy of Sciences
+- [Fengwei Teng](https://qixucen.github.io/): Bachelor from Renmin University of China
 
 ---
 ## Alumni
