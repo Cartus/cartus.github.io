@@ -18,6 +18,7 @@ nav_order: 3
 - Jiaran Zhang: Master at Harbin Institute of Technology
 - [Zhongzhi Li](https://zzli2022.github.io/): PhD at Chinese Academy of Sciences
 - [Fengwei Teng](https://qixucen.github.io/): Bachelor from Renmin University of China
+- Changxuan Sun: PhD at East China Normal University
 
 ---
 ## Alumni
