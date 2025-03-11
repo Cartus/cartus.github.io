@@ -27,8 +27,9 @@ I was fortunate to work with the following talented students/interns:
 - Henry Caushi: Undergrad at University of Cambridge, to Instructor at Warwick
 - [Haochen Tan](https://namco0816.github.io/): PhD at City University of Hong Kong, to Researcher at Huawei Noah's Ark Hong Kong
 - [Jing Xiong](https://menik1126.github.io/): Master at Sun Yat-sen University, to PhD at University of Hong Kong
+- [Rongwu Xu](https://rongwuxu.com/): Master at Tsinghua University, to PhD at University of Washington
 - [Jianqiao Lu](https://jianqiaolu.github.io/): PhD at University of Hong Kong
-- [Rongwu Xu](https://rongwuxu.com/): Master at Tsinghua University
+
 - [Yuxuan Yao](https://scholar.google.com.hk/citations?user=PLe5qQEAAAAJ&hl=zh-CN): PhD at City University of Hong Kong
 - [Chunlin Tian](https://clin0212.github.io/): PhD at University of Macau
 - [Dong Huang](https://huangd1999.github.io/): PhD at University of Hong Kong
