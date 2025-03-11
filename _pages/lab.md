@@ -9,7 +9,7 @@ nav_order: 3
 
 ---
 ## Interns/RAs/Visitors
-- [Alisa Yingjia Wan](https://yingjia.one/): Master at University of Cambridge
+- [Alisa Yingjia Wan](https://yingjia.one/): Master at University of Cambridge, to PhD at University of California, Los Angeles.
 - Boyu Zhu: Master at University College London
 - [Langqi Liu](https://liurunky.github.io/): Master at Nanjing University
 - Bowen Qu: Master at Peking University
@@ -29,7 +29,6 @@ I was fortunate to work with the following talented students/interns:
 - [Jing Xiong](https://menik1126.github.io/): Master at Sun Yat-sen University, to PhD at University of Hong Kong
 - [Rongwu Xu](https://rongwuxu.com/): Master at Tsinghua University, to PhD at University of Washington
 - [Jianqiao Lu](https://jianqiaolu.github.io/): PhD at University of Hong Kong
-
 - [Yuxuan Yao](https://scholar.google.com.hk/citations?user=PLe5qQEAAAAJ&hl=zh-CN): PhD at City University of Hong Kong
 - [Chunlin Tian](https://clin0212.github.io/): PhD at University of Macau
 - [Dong Huang](https://huangd1999.github.io/): PhD at University of Hong Kong
