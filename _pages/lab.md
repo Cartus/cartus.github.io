@@ -9,7 +9,7 @@ nav_order: 3
 
 ---
 ## Interns/RAs/Visitors
-- [Alisa Yingjia Wan](https://yingjia.one/): Master at University of Cambridge, to PhD at University of California, Los Angeles.
+- [Alisa Yingjia Wan](https://yingjia.one/): Master at University of Cambridge, incoming PhD at University of California, Los Angeles.
 - Boyu Zhu: Master at University College London
 - [Langqi Liu](https://liurunky.github.io/): Master at Nanjing University
 - Bowen Qu: Master at Peking University
