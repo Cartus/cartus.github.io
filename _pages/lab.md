@@ -18,11 +18,11 @@ nav_order: 3
 - Junhan Shi: Master at Tsinghua University
 - Jiaran Zhang: Master at Harbin Institute of Technology
 - [Zhongzhi Li](https://zzli2022.github.io/): PhD at Chinese Academy of Sciences
-- Changxuan Sun: PhD at East China Normal University
+- [Changxuan Sun](https://uncovered-reindeer-d07.notion.site/Changxuan-Sun-1b3a62d9e28c80bdba45da2edcdf3d00): PhD at East China Normal University
 
 ## PhDs
 - Minrui Xu: Bachelor from Hong Kong University of Science and Technology
-- Zhiwei Li: Master from Fudan University
+- [Zhiwei Li](https://digbangbang.github.io/): Master from Fudan University
 - Xinyu Zhou: Master from Swiss Federal Technology Institute of Lausanne (EPFL)
 
 ## Mphil
