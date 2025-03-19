@@ -9,6 +9,7 @@ nav_order: 3
 
 ---
 ## Interns/RAs/Visitors
+- [Fengwei Teng](https://qixucen.github.io/): Bachelor from Renmin University of China
 - [Alisa Yingjia Wan](https://yingjia.one/): Master at University of Cambridge, incoming PhD at University of California, Los Angeles.
 - Boyu Zhu: Master at University College London
 - [Langqi Liu](https://liurunky.github.io/): Master at Nanjing University
@@ -17,8 +18,15 @@ nav_order: 3
 - Junhan Shi: Master at Tsinghua University
 - Jiaran Zhang: Master at Harbin Institute of Technology
 - [Zhongzhi Li](https://zzli2022.github.io/): PhD at Chinese Academy of Sciences
-- [Fengwei Teng](https://qixucen.github.io/): Bachelor from Renmin University of China
 - Changxuan Sun: PhD at East China Normal University
+
+## PhDs
+- Minrui Xu: Bachelor from Hong Kong University of Science and Technology
+- Zhiwei Li: Master from Fudan University
+- Xinyu Zhou: Master from Swiss Federal Technology Institute of Lausanne (EPFL)
+
+## Mphil
+- Jiayu Yang (Co-supervise with Prof. Yutao Yue): Bachelor from Chongqing University
 
 ---
 ## Alumni
