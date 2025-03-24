@@ -23,10 +23,10 @@ nav_order: 3
 ## PhDs
 - Minrui Xu: Bachelor from Hong Kong University of Science and Technology
 - [Zhiwei Li](https://digbangbang.github.io/): Master from Fudan University
-- Xinyu Zhou: Master from Swiss Federal Technology Institute of Lausanne (EPFL)
+- Xinyu Zhou: Master from Swiss Federal Technology Institute of Lausanne
 
 ## Mphil
-- Jiayu Yang (Co-supervise with Prof. Yutao Yue): Bachelor from Chongqing University
+- [Jiayu Yang](https://yjywdzh.github.io/) (Co-supervise with Prof. Yutao Yue): Bachelor from Chongqing University
 
 ---
 ## Alumni
