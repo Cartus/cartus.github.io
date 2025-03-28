@@ -25,8 +25,9 @@ nav_order: 3
 - [Zhiwei Li](https://digbangbang.github.io/): Master from Fudan University
 - Xinyu Zhou: Master from Swiss Federal Technology Institute of Lausanne
 
-## Mphil
+## Mphils
 - [Jiayu Yang](https://yjywdzh.github.io/) (Co-supervise with Prof. Yutao Yue): Bachelor from Chongqing University
+- [Xiao Zhu](https://hexagonstar.github.io/) (Co-supervise with Prof. Yanlin Zhang): Bachelor from Beijing University of Posts and Telecommunications
 
 ---
 ## Alumni
