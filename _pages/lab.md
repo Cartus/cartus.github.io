@@ -13,7 +13,6 @@ nav_order: 3
 - [Alisa Yingjia Wan](https://yingjia.one/): Master at University of Cambridge, incoming PhD at University of California, Los Angeles.
 - Boyu Zhu: Master at University College London
 - [Langqi Liu](https://liurunky.github.io/): Master at Nanjing University
-- Bowen Qu: Master at Peking University
 - Qingsong Lyu: Master at Tsinghua University
 - Junhan Shi: Master at Tsinghua University
 - Jiaran Zhang: Master at Harbin Institute of Technology
@@ -38,9 +37,10 @@ I was fortunate to work with the following talented students/interns:
 - [Haochen Tan](https://namco0816.github.io/): PhD at City University of Hong Kong, to Researcher at Huawei Noah's Ark Hong Kong
 - [Jing Xiong](https://menik1126.github.io/): Master at Sun Yat-sen University, to PhD at University of Hong Kong
 - [Rongwu Xu](https://rongwuxu.com/): Master at Tsinghua University, to PhD at University of Washington
+- [Dong Huang](https://huangd1999.github.io/): PhD at University of Hong Kong, to Postdoctoral Researcher at National University of Singapore
+- Bowen Qu: Master at Peking University, to Researcher at Moonshot AI
 - [Jianqiao Lu](https://jianqiaolu.github.io/): PhD at University of Hong Kong
 - [Yuxuan Yao](https://scholar.google.com.hk/citations?user=PLe5qQEAAAAJ&hl=zh-CN): PhD at City University of Hong Kong
 - [Chunlin Tian](https://clin0212.github.io/): PhD at University of Macau
-- [Dong Huang](https://huangd1999.github.io/): PhD at University of Hong Kong
 - [Zhicheng Yang](https://yangzhch6.github.io/): PhD at Hong Kong University of Science and Technology (Guangzhou)
 - [Yunlong Feng](https://resume.alongwy.top/#anchor_about): PhD at Harbin Institute of Technology
