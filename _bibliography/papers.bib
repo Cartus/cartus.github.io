@@ -44,6 +44,35 @@
 }
 
 
+
+@inproceedings{Liu2024AligningWL,
+  abbr={ICML},
+  title={Aligning with Logic: Measuring, Evaluating and Improving Logical Consistency in Large Language Models},
+  author={Yinhong Liu and Zhijiang Guo and Tianya Liang and Ehsan Shareghi and Ivan Vuli'c and Nigel Collier},
+  booktitle={ICML (Spotlight)},
+  year={2025},
+  html       = {https://arxiv.org/pdf/2410.02205},
+  selected   = {True},
+  preview = {AlignLogic.png},
+  abstract = {Recent research in Large Language Models (LLMs) has shown promising progress related to LLM alignment with human preferences. LLM-empowered decision-making systems are expected to be predictable, reliable and trustworthy, which implies being free from paradoxes or contradictions that could undermine their credibility and validity. However, LLMs still exhibit inconsistent and biased behaviour when making decisions or judgements. In this work, we focus on studying logical consistency of LLMs as a prerequisite for more reliable and trustworthy systems. Logical consistency ensures that decisions are based on a stable and coherent understanding of the problem, reducing the risk of erratic or contradictory outputs. We first propose a universal framework to quantify the logical consistency via three fundamental proxies: transitivity, commutativity and negation invariance. We then evaluate logical consistency, using the defined measures, of a wide range of LLMs, demonstrating that it can serve as a strong proxy for overall robustness. Additionally, we introduce a data refinement and augmentation technique that enhances the logical consistency of LLMs without sacrificing alignment to human preferences. It augments noisy and sparse pairwise-comparison annotations by estimating a partially or totally ordered preference rankings using rank aggregation methods. Finally, we show that logical consistency impacts the performance of LLM-based logic-dependent algorithms, where LLMs serve as logical operators.}
+}
+
+
+@inproceedings{Huang2024EffiCodeUC,
+  abbr={ICML},
+  title={Effi-Code: Unleashing Code Efficiency in Language Models},
+  author={Dong Huang* and Guangtao Zeng* and Jianbo Dai and Meng Luo and Han Weng and Yuhao Qing and Heming Cui and Zhijiang Guo† and Jie M. Zhang},
+  booktitle={ICML},
+  year={2025},
+  html       = {https://arxiv.org/pdf/2410.10209},
+  code       = {https://github.com/huangd1999/Effi-Code},
+  selected   = {false},
+  preview = {EffiCode.png},
+  annotation   = {* denotes Equal Contribution. † denotes Corresponding Author.},
+  abstract = {As the use of large language models (LLMs) for code generation becomes more prevalent in software development, it is critical to enhance both the efficiency and correctness of the generated code. Existing methods and models primarily focus on the correctness of LLM-generated code, ignoring efficiency. In this work, we present Effi-Code, an approach to enhancing code generation in LLMs that can improve both efficiency and correctness. We introduce a Self-Optimization process based on Overhead Profiling that leverages open-source LLMs to generate a high-quality dataset of correct and efficient code samples. This dataset is then used to fine-tune various LLMs. Our method involves the iterative refinement of generated code, guided by runtime performance metrics and correctness checks. Extensive experiments demonstrate that models fine-tuned on the Effi-Code show significant improvements in both code correctness and efficiency across task types. For example, the pass@1 of DeepSeek-Coder-6.7B-Instruct generated code increases from \textbf{43.3\%} to \textbf{76.8\%}, and the average execution time for the same correct tasks decreases by \textbf{30.5\%}. Effi-Code offers a scalable and generalizable approach to improving code generation in AI systems, with potential applications in software development, algorithm design, and computational problem-solving. }
+}
+
+
 @inproceedings{Lu2024FormalAlignAA,
   abbr={ICLR},
   title={FormalAlign: Automated Alignment Evaluation for Autoformalization},
@@ -161,32 +190,8 @@
 }
 
 
-@inproceedings{Huang2024EffiCodeUC,
-  abbr={ArXiv},
-  title={Effi-Code: Unleashing Code Efficiency in Language Models},
-  author={Dong Huang* and Guangtao Zeng* and Jianbo Dai and Meng Luo and Han Weng and Yuhao Qing and Heming Cui and Zhijiang Guo† and Jie M. Zhang},
-  booktitle={ArXiv},
-  year={2024},
-  html       = {https://arxiv.org/pdf/2410.10209},
-  code       = {https://github.com/huangd1999/Effi-Code},
-  selected   = {false},
-  preview = {EffiCode.png},
-  annotation   = {* denotes Equal Contribution. † denotes Corresponding Author.},
-  abstract = {As the use of large language models (LLMs) for code generation becomes more prevalent in software development, it is critical to enhance both the efficiency and correctness of the generated code. Existing methods and models primarily focus on the correctness of LLM-generated code, ignoring efficiency. In this work, we present Effi-Code, an approach to enhancing code generation in LLMs that can improve both efficiency and correctness. We introduce a Self-Optimization process based on Overhead Profiling that leverages open-source LLMs to generate a high-quality dataset of correct and efficient code samples. This dataset is then used to fine-tune various LLMs. Our method involves the iterative refinement of generated code, guided by runtime performance metrics and correctness checks. Extensive experiments demonstrate that models fine-tuned on the Effi-Code show significant improvements in both code correctness and efficiency across task types. For example, the pass@1 of DeepSeek-Coder-6.7B-Instruct generated code increases from \textbf{43.3\%} to \textbf{76.8\%}, and the average execution time for the same correct tasks decreases by \textbf{30.5\%}. Effi-Code offers a scalable and generalizable approach to improving code generation in AI systems, with potential applications in software development, algorithm design, and computational problem-solving. }
-}
 
 
-@inproceedings{Liu2024AligningWL,
-  abbr={ArXiv},
-  title={Aligning with Logic: Measuring, Evaluating and Improving Logical Consistency in Large Language Models},
-  author={Yinhong Liu and Zhijiang Guo and Tianya Liang and Ehsan Shareghi and Ivan Vuli'c and Nigel Collier},
-  booktitle={ArXiv},
-  year={2024},
-  html       = {https://arxiv.org/pdf/2410.02205},
-  selected   = {false},
-  preview = {AlignLogic.png},
-  abstract = {Recent research in Large Language Models (LLMs) has shown promising progress related to LLM alignment with human preferences. LLM-empowered decision-making systems are expected to be predictable, reliable and trustworthy, which implies being free from paradoxes or contradictions that could undermine their credibility and validity. However, LLMs still exhibit inconsistent and biased behaviour when making decisions or judgements. In this work, we focus on studying logical consistency of LLMs as a prerequisite for more reliable and trustworthy systems. Logical consistency ensures that decisions are based on a stable and coherent understanding of the problem, reducing the risk of erratic or contradictory outputs. We first propose a universal framework to quantify the logical consistency via three fundamental proxies: transitivity, commutativity and negation invariance. We then evaluate logical consistency, using the defined measures, of a wide range of LLMs, demonstrating that it can serve as a strong proxy for overall robustness. Additionally, we introduce a data refinement and augmentation technique that enhances the logical consistency of LLMs without sacrificing alignment to human preferences. It augments noisy and sparse pairwise-comparison annotations by estimating a partially or totally ordered preference rankings using rank aggregation methods. Finally, we show that logical consistency impacts the performance of LLM-based logic-dependent algorithms, where LLMs serve as logical operators.}
-}
 
 
 
@@ -275,7 +280,7 @@
   year={2024},
   html       = {https://arxiv.org/pdf/2403.08319},
   code       = {https://github.com/pillowsofwind/Knowledge-Conflicts-Survey},
-  selected   = {true},
+  selected   = {false},
   preview = {KnowConflict.png},
   annotation   = {* denotes Equal Contribution. † denotes Corresponding Author.},
   abstract = {This survey provides an in-depth analysis of knowledge conflicts for large language models (LLMs), highlighting the complex challenges they encounter when blending contextual and parametric knowledge. Our focus is on three categories of knowledge conflicts: context-memory, inter-context, and intra-memory conflict. These conflicts can significantly impact the trustworthiness and performance of LLMs, especially in real-world applications where noise and misinformation are common. By categorizing these conflicts, exploring the causes, examining the behaviors of LLMs under such conflicts, and reviewing available solutions, this survey aims to shed light on strategies for improving the robustness of LLMs, thereby serving as a valuable resource for advancing research in this evolving area.}
