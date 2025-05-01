@@ -6,15 +6,17 @@ inline: false
 related_posts: false
 ---
 
-Dr. Zhijiang Guo join the Hong Kong University of Science and Technology (Guangzhou) as an Assistant Professor in Spring 2025. The research group hopes to recruit several PhD students for enrollment in 2025/2026. We would greatly appreciate it if interested applicants could read the guidelines below and submit their applications via email as instructed. 
+Dr. Zhijiang Guo joined the Hong Kong University of Science and Technology (Guangzhou) as an Assistant Professor in Spring 2025. The research group hopes to recruit several PhD students for enrollment in 2026. We would greatly appreciate it if interested applicants could read the guidelines below and submit their applications via email as instructed. 
 
 ---
 
 ### About the Mentor
 
-Zhijiang is an Assistant Professor at the DSA Thrust, HKUST (GZ). He is also an Affiliated Assistant Professor of HKUST. He was a researcher at Huawei Noah's Ark Lab and a Postdoc at the University of Cambridge. He focuses on research in natural language processing and machine learning, with his current interests primarily centered around large language models (LLMs). He has published over 30 papers in leading conferences such as NeurIPS, ICLR, COLM, TACL, ACL, EMNLP, and NAACL, with several selected for Oral or Spotlight presentations, and has over 2700 citations on Google Scholar.
+Dr. Zhijiang Guo is an Assistant Professor at the DSA Thrust, Information Hub, HKUST (GZ). He is also an Affiliated Assistant Professor of HKUST. His research primarily focuses on natural language processing and machine learning, with a keen interest in large language models.
 
-He has served as an Area Chair (AC) for ICLR, ACL, EMNLP, NAACL, and COLING, as well as a Senior Program Committee (SPC) member for AAAI and IJCAI. He has also been an Action Editor (AE) for the ACL Rolling Review and co-organized multiple FEVER workshops at ACL, EMNLP, and EACL. He earned his bachelor's degree from Sun Yat-sen University, and then completed his PhD under Prof. Wei Lu at the Singapore University of Technology and Design. He was a visiting researcher in Prof. Shay Cohen's group at the University of Edinburgh. He conducted postdoctoral research in Prof. Andreas Vlachos's group at the University of Cambridge before joining Huawei Noah's Ark Lab in 2023.
+Prior to joining HKUST (GZ), Dr. Guo was a Senior Researcher at Huawei's Noah’s Ark Lab. Before that, he was a Postdoctoral Researcher at the University of Cambridge. He earned his Ph.D. from SUTD, where he was also a visiting student at the University of Edinburgh, after completing his undergraduate studies at Sun Yat-sen University.
+
+He has published papers in leading conferences and journals such as ICML, NeurIPS, ICLR, COLM, TACL, ACL, EMNLP, and NAACL, with several selected for Oral or Spotlight presentations. He has served as an Area Chair (AC) for NeurIPS, ICLR, ACL, EMNLP, NAACL, and COLING, as well as a Senior Program Committee (SPC) member for AAAI and IJCAI. He has also been an Action Editor (AE) for the ACL Rolling Review and co-organized the FEVER workshop at ACL/EMNLP/EACL, and the AI for Math workshop at ICML.
 
 ### About the University
 
