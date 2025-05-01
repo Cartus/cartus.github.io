@@ -18,6 +18,11 @@
   url: https://transacl.org/index.php/tacl
   color: "#003366"
 
+"ICML":
+  url: https://papers.nips.cc/
+  color: "#cc9900"
+
+
 "NeurIPS":
   url: https://papers.nips.cc/
   color: "#cc9900"
