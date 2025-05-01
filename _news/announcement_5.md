@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-09-20 07:59:00-0400
+date: 2025-05-01 07:59:00-0400
 inline: true
 related_posts: false
 ---
 
-Four papers are accepted at [EMNLP 2024](https://2024.emnlp.org/program/accepted_main_conference/) (3 Main, 1 Findings) :tada:
+Two papers are accepted at [ICML 2025](https://icml.cc/) (1 Spotlight) :tada:
