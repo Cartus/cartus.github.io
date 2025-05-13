@@ -41,7 +41,7 @@ He has mentored over ten students at Cambridge and Huawei Noah's Ark, most of wh
 
 ### For PhD Students
 
-As I will be joining the university in the spring of 2025, I am currently looking for students to start in the fall of 2025. Here are some key requirements I hope potential candidates will consider:
+I am currently looking for students to start in the fall of 2026. Here are some key requirements I hope potential candidates will consider:
 
 - Passionate about the fundamental research of LLMs, along with a desire to contribute to impactful scientific work. While it’s perfectly fine to begin with shorter projects, I hope that as we progress, we can collaborate on higher-quality, more influential research.
 - Relevant research or engineering experience in LLMs. After two weeks of screening and interviews, I have updated this criterion. At this stage, I will prefer applicants who have research experience relevant to my research direction.
