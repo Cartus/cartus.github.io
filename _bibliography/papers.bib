@@ -113,6 +113,20 @@
   abstract = {Large language models (LLMs) have exhibited their problem-solving abilities in mathematical reasoning. Solving realistic optimization (OPT) problems in application scenarios requires advanced and applied mathematics ability. However, current OPT benchmarks that merely solve linear programming are far from complex realistic situations. In this work, we propose OptiBench, a benchmark for End-to-end optimization problem-solving with human-readable inputs and outputs. OptiBench contains rich optimization problems, including linear and nonlinear programming with or without tabular data, which can comprehensively evaluate LLMs' solving ability. In our benchmark, LLMs are required to call a code solver to provide precise numerical answers. Furthermore, to alleviate the data scarcity for optimization problems, and to bridge the gap between open-source LLMs on a small scale (e.g., Llama-3-8b) and closed-source LLMs (e.g., GPT-4), we further propose a data synthesis method namely ReSocratic. Unlike general data synthesis methods that proceed from questions to answers, \ReSocratic first incrementally synthesizes formatted optimization demonstration with mathematical formulations step by step and then back-translates the generated demonstrations into questions. Based on this, we synthesize the ReSocratic-29k dataset. We further conduct supervised fine-tuning with ReSocratic-29k on multiple open-source models. Experimental results show that ReSocratic-29k significantly improves the performance of open-source models.}
 }
 
+@inproceedings{Liu2024CtrlAAR,
+  abbr={ACL},
+  title={CtrlA: Adaptive Retrieval-Augmented Generation via Inherent Control},
+  author={Huanshuo Liu* and Hao Zhang* and Zhijiang Guo† and Kuicai Dong and Xiangyang Li and Yi Quan Lee and Cong Zhang and Yong Liu},
+  booktitle={Findings of ACL},
+  year={2025},
+  html       = {https://arxiv.org/pdf/2405.18727},
+  code       = {https://github.com/HSLiu-Initial/CtrlA},
+  selected   = {false},
+  preview = {CtrlA.png},
+  annotation   = {* denotes Equal Contribution. † denotes Corresponding Author.},
+  abstract = {Retrieval-augmented generation (RAG) has emerged as a promising solution for mitigating hallucinations of large language models (LLMs) with retrieved external knowledge. Adaptive RAG enhances this approach by enabling dynamic retrieval during generation, activating retrieval only when the query exceeds LLM's internal knowledge. Existing methods primarily focus on detecting LLM's confidence via statistical uncertainty. Instead, we present the first attempts to solve adaptive RAG from a representation perspective and develop an inherent control-based framework, termed \name. Specifically, we extract the features that represent the honesty and confidence directions of LLM and adopt them to control LLM behavior and guide retrieval timing decisions. We also design a simple yet effective query formulation strategy to support adaptive retrieval. Experiments show that \name is superior to existing adaptive RAG methods on a diverse set of tasks, the honesty steering can effectively make LLMs more honest and confidence monitoring is a promising indicator of retrieval }
+}
+
 
 @inproceedings{Lin2024Analysis,
   abbr={JBI},
@@ -173,22 +187,6 @@
   annotation   = {* denotes Equal Contribution. † denotes Corresponding Author.},
   abstract = {Recent advancements in large language models (LLMs) have greatly improved code generation, specifically at the function level. For instance, GPT-4o has achieved a 91.0\% pass rate on HumanEval. However, this draws into question the adequacy of existing benchmarks in thoroughly assessing function-level code generation capabilities. Our study analyzed two common benchmarks, HumanEval and MBPP, and found that these might not thoroughly evaluate LLMs' code generation capacities due to limitations in quality, difficulty, and granularity. To resolve this, we introduce the Mostly Hard Python Problems (MHPP) dataset, consisting of 210 unique human-curated problems. By focusing on the combination of natural language and code reasoning, MHPP gauges LLMs' abilities to comprehend specifications and restrictions, engage in multi-step reasoning, and apply coding knowledge effectively. Initial evaluations of 26 LLMs using MHPP showed many high-performing models on HumanEval failed to achieve similar success on MHPP. Moreover, MHPP highlighted various previously undiscovered limitations within various LLMs, leading us to believe that it could pave the way for a better understanding of LLMs' capabilities and limitations. }
 }
-
-
-@inproceedings{Liu2024CtrlAAR,
-  abbr={ArXiv},
-  title={CtrlA: Adaptive Retrieval-Augmented Generation via Inherent Control},
-  author={Huanshuo Liu* and Hao Zhang* and Zhijiang Guo† and Kuicai Dong and Xiangyang Li and Yi Quan Lee and Cong Zhang and Yong Liu},
-  booktitle={ArXiv},
-  year={2024},
-  html       = {https://arxiv.org/pdf/2405.18727},
-  code       = {https://github.com/HSLiu-Initial/CtrlA},
-  selected   = {false},
-  preview = {CtrlA.png},
-  annotation   = {* denotes Equal Contribution. † denotes Corresponding Author.},
-  abstract = {Retrieval-augmented generation (RAG) has emerged as a promising solution for mitigating hallucinations of large language models (LLMs) with retrieved external knowledge. Adaptive RAG enhances this approach by enabling dynamic retrieval during generation, activating retrieval only when the query exceeds LLM's internal knowledge. Existing methods primarily focus on detecting LLM's confidence via statistical uncertainty. Instead, we present the first attempts to solve adaptive RAG from a representation perspective and develop an inherent control-based framework, termed \name. Specifically, we extract the features that represent the honesty and confidence directions of LLM and adopt them to control LLM behavior and guide retrieval timing decisions. We also design a simple yet effective query formulation strategy to support adaptive retrieval. Experiments show that \name is superior to existing adaptive RAG methods on a diverse set of tasks, the honesty steering can effectively make LLMs more honest and confidence monitoring is a promising indicator of retrieval }
-}
-
 
 
 
