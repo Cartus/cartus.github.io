@@ -20,7 +20,7 @@ nav_order: 3
 - [Changxuan Sun](https://uncovered-reindeer-d07.notion.site/Changxuan-Sun-1b3a62d9e28c80bdba45da2edcdf3d00): PhD at East China Normal University
 
 ## PhDs
-- Minrui Xu: Bachelor from Hong Kong University of Science and Technology (Prev. Intern at MSRA)
+- [Minrui Xu](https://rolandminrui.github.io/rolandminrui-homepage/): Bachelor from Hong Kong University of Science and Technology (Prev. Intern at MSRA)
 - [Zhiwei Li](https://digbangbang.github.io/): Master from Fudan University (Prev. Intern at Meituan)
 - [Xinyu Zhou](https://blackzxy.github.io/): Master from Swiss Federal Technology Institute of Lausanne  (Prev. Intern at Shanghai AI Lab)
 - Hoacheng Wang: Bachelor from Xiamen University (Prev. Intern at DeepSeek AI; ByteDance Research)
