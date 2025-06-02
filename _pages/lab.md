@@ -26,8 +26,10 @@ nav_order: 3
 - Hoacheng Wang: Bachelor from Xiamen University (Prev. Intern at DeepSeek AI; ByteDance Research)
 
 ## Mphils
-- [Jiayu Yang](https://yjywdzh.github.io/) (Co-supervise with Prof. Yutao Yue): Bachelor from Chongqing University
+- Zilin Wang: Bachelor from Harbin Institute of Technology
 - [Xiao Zhu](https://hexagonstar.github.io/) (Co-supervise with Prof. Yanlin Zhang): Bachelor from Beijing University of Posts and Telecommunications
+- [Jiayu Yang](https://yjywdzh.github.io/) (Co-supervise with Prof. Yutao Yue): Bachelor from Chongqing University
+
 
 ---
 ## Alumni
