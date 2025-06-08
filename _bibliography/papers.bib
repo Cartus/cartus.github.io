@@ -1,18 +1,18 @@
 ---
 ---
 
-@inproceedings{Cao2025averimatec,
+@inproceedings{Li2025TLDR,
   abbr={ArXiv},
-  title={AVERIMATEC: A Dataset for Automatic Verification of Image-Text Claims with Evidence from the Web},
-  author={Rui Cao and Zifeng Ding and Zhijiang Guo and Michael Schlichtkrull and Andreas Vlachos},
+  title={TL; DR: Too Long, Do Re-weighting for Effcient LLM Reasoning Compression},
+  author={Zhong-Zhi Li, Xiao Liang, Zihao Tang, Lei Ji, Peijie Wang, Haotian Xu, Haizhen Huang, Weiwei Deng, Ying Nian Wu, Yeyun Gong, Zhijiang Guo, Xiao Liu, Fei Yin, Cheng-Lin Liu},
   booktitle={ArXiv},
   year={2025},
-  html       = {https://arxiv.org/pdf/2505.17978},
+  html       = {https://arxiv.org/pdf/2506.02678},
+  code       = {https://github.com/zzli2022/TLDR},
   selected   = {false},
-  preview = {AVerImaTec.png},
-  abstract = {Textual claims are often accompanied by images to enhance their credibility and spread on social media and but this also raises concerns about the spread of misinformation. Existing datasets for automated verification of image-text claims remain limited and as they often consist of synthetic claims and lack evidence annotations to capture the reasoning behind the verdict. In this work and we introduce AVerImaTeC and a dataset consisting of 1,297 real-world image-text claims. Each claim is annotated with question-answer (QA) pairs containing evidence from the web and reflecting a decomposed reasoning regarding the verdict. We mitigate common challenges in fact-checking datasets such as contextual dependence and temporal leakage and and evidence insufficiency and via claim normalization and temporally constrained evidence annotation and and a two-stage sufficiency check. We assess the consistency of the annotation in AVerImaTeC via inter-annotator studies and achieving a \kappa=0.742 on verdicts and 74.7\% consistency on QA pairs. We also propose a novel evaluation method for evidence retrieval and conduct extensive experiments to establish baselines for verifying image-text claims using open-web evidence.}
+  preview = {TLDR.png},
+  abstract = {Large Language Models (LLMs) have recently achieved remarkable progress by leveraging Reinforcement Learning and extended Chain-of-Thought (CoT) techniques. However, the challenge of performing efficient language reasoning--especially during inference with extremely long outputs--has drawn increasing attention from the research community. In this work, we propose a dynamic ratio-based training pipeline that does not rely on sophisticated data annotations or interpolation between multiple models. We continuously balance the weights between the model's System-1 and System-2 data to eliminate redundant reasoning processes while preserving the model's reasoning capability. We validate our approach across models on DeepSeek-R1-Distill-7B and DeepSeek-R1-Distill-14B and on a diverse set of benchmarks with varying difficulty levels. Our method significantly reduces the number of output tokens by nearly 40% while maintaining the accuracy of the reasoning. Our code and data will be available soon.}
 }
-
 
 @inproceedings{Qing2025effibenchx,
   abbr={ArXiv},
@@ -27,6 +27,21 @@
   annotation   = {* denotes Equal Contribution. † denotes Corresponding Author.},
   abstract = {Existing code generation benchmarks primarily evaluate functional correctness, with limited focus on code efficiency and often restricted to a single language like Python. To address this gap, we introduce EffiBench-X, the first multi-language benchmark designed to measure the efficiency of LLM-generated code. EffiBench-X supports Python, C++, Java, JavaScript, Ruby, and Golang. It comprises competitive programming tasks with human-expert solutions as efficiency baselines. Evaluating state-of-the-art LLMs on EffiBench-X reveals that while models generate functionally correct code, they consistently underperform human experts in efficiency. Even the most efficient LLM-generated solutions (Qwen3-32B) achieve only around \textbf{62\%} of human efficiency on average, with significant language-specific variations. LLMs show better efficiency in Python, Ruby, and JavaScript than in Java, C++, and Golang. For instance, DeepSeek-R1's Python code is significantly more efficient than its Java code. These results highlight the critical need for research into LLM optimization techniques to improve code efficiency across diverse languages. The dataset and evaluation infrastructure are submitted and available at https://github.com/EffiBench/EffiBench-X.git and https://huggingface.co/datasets/EffiBench/effibench-x.}
 }
+
+@inproceedings{Cao2025averimatec,
+  abbr={ArXiv},
+  title={AVERIMATEC: A Dataset for Automatic Verification of Image-Text Claims with Evidence from the Web},
+  author={Rui Cao and Zifeng Ding and Zhijiang Guo and Michael Schlichtkrull and Andreas Vlachos},
+  booktitle={ArXiv},
+  year={2025},
+  html       = {https://arxiv.org/pdf/2505.17978},
+  selected   = {false},
+  preview = {AVerImaTec.png},
+  abstract = {Textual claims are often accompanied by images to enhance their credibility and spread on social media and but this also raises concerns about the spread of misinformation. Existing datasets for automated verification of image-text claims remain limited and as they often consist of synthetic claims and lack evidence annotations to capture the reasoning behind the verdict. In this work and we introduce AVerImaTeC and a dataset consisting of 1,297 real-world image-text claims. Each claim is annotated with question-answer (QA) pairs containing evidence from the web and reflecting a decomposed reasoning regarding the verdict. We mitigate common challenges in fact-checking datasets such as contextual dependence and temporal leakage and and evidence insufficiency and via claim normalization and temporally constrained evidence annotation and and a two-stage sufficiency check. We assess the consistency of the annotation in AVerImaTeC via inter-annotator studies and achieving a \kappa=0.742 on verdicts and 74.7\% consistency on QA pairs. We also propose a novel evaluation method for evidence retrieval and conduct extensive experiments to establish baselines for verifying image-text claims using open-web evidence.}
+}
+
+
+
 
 
 @inproceedings{yao2025activation,
