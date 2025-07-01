@@ -16,7 +16,7 @@ nav_order: 3
 - Qingsong Lyu: Master at Tsinghua University
 - Junhan Shi: Master at Tsinghua University
 - [Zhongzhi Li](https://zzli2022.github.io/): PhD at Chinese Academy of Sciences
-- [Changxuan Sun](https://uncovered-reindeer-d07.notion.site/Changxuan-Sun-1b3a62d9e28c80bdba45da2edcdf3d00): PhD at East China Normal University
+
 
 ## PhDs
 - [Minrui Xu](https://rolandminrui.github.io/rolandminrui-homepage/): Bachelor from Hong Kong University of Science and Technology (Prev. Intern at MSRA)
