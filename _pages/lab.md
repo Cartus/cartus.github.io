@@ -22,7 +22,7 @@ nav_order: 3
 - [Minrui Xu](https://rolandminrui.github.io/rolandminrui-homepage/): Bachelor from Hong Kong University of Science and Technology (Prev. Intern at MSRA)
 - [Zhiwei Li](https://digbangbang.github.io/): Master from Fudan University (Prev. Intern at Meituan)
 - [Xinyu Zhou](https://blackzxy.github.io/): Master from Swiss Federal Technology Institute of Lausanne  (Prev. Intern at Shanghai AI Lab)
-- Hoacheng Wang: Bachelor from Xiamen University (Prev. Intern at DeepSeek AI; ByteDance Research)
+- Haocheng Wang: Bachelor from Xiamen University (Prev. Intern at DeepSeek AI; ByteDance Research)
 
 ## Mphils
 - Zilin Wang: Bachelor from Harbin Institute of Technology
