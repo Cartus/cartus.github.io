@@ -26,6 +26,7 @@ nav_order: 3
 
 ## Mphils
 - Zilin Wang: Bachelor from Harbin Institute of Technology
+- Chao Chen: Bachelor from Shanghai Jiao Tong University
 - [Xiao Zhu](https://hexagonstar.github.io/) (Co-supervise with Prof. Yanlin Zhang): Bachelor from Beijing University of Posts and Telecommunications
 - [Jiayu Yang](https://yjywdzh.github.io/) (Co-supervise with Prof. Yutao Yue): Bachelor from Chongqing University
 
