@@ -57,19 +57,6 @@
 }
 
 
-@inproceedings{Chang2025treereview,
-  abbr={ArXiv},
-  title={TreeReview: A Dynamic Tree of Questions Framework for Deep and Efficient LLM-based Scientific Peer Review},
-  author={Chang*, Yuan and Li*, Ziyue and Zhang†, Hengyuan and Kong, Yuanbo and Wu, Yanru and Guo†, Zhijiang and Wong†, Ngai},
-  booktitle={ArXiv},
-  year={2025},
-  html       = {https://arxiv.org/pdf/2506.07642},
-  code       = {https://github.com/YuanChang98/tree-review},
-  selected   = {false},
-  preview = {TreeReview.png},
-  annotation   = {* denotes Equal Contribution. † denotes Corresponding Author.},
-  abstract = {While Large Language Models (LLMs) have shown significant potential in assisting peer review, current methods often struggle to generate thorough and insightful reviews while maintaining efficiency. In this paper, we propose TreeReview, a novel framework that models paper review as a hierarchical and bidirectional question-answering process. TreeReview first constructs a tree of review questions by recursively decomposing high-level questions into fine-grained sub-questions and then resolves the question tree by iteratively aggregating answers from leaf to root to get the final review. Crucially, we incorporate a dynamic question expansion mechanism to enable deeper probing by generating follow-up questions when needed. We construct a benchmark derived from ICLR and NeurIPS venues to evaluate our method on full review generation and actionable feedback comments generation tasks. Experimental results of both LLM-based and human evaluation show that TreeReview outperforms strong baselines in providing comprehensive, in-depth, and expert-aligned review feedback, while reducing LLM token usage by up to 80% compared to computationally intensive approaches. Our code and benchmark dataset are available at https://github.com/YuanChang98/tree-review.}
-}
 
 @inproceedings{Yang2025treerpo,
   abbr={ArXiv},
@@ -111,18 +98,6 @@
   abstract = {We present SwingArena, a competitive evaluation framework for Large Language Models (LLMs) that closely mirrors real-world software development workflows. Unlike traditional static benchmarks, SwingArena models the collaborative process of software iteration by pairing LLMs as submitters, who generate patches, and reviewers, who create test cases and verify the patches through continuous integration (CI) pipelines. To support these interactive evaluations, we introduce a retrieval-augmented code generation (RACG) module that efficiently handles long-context challenges by providing syntactically and semantically relevant code snippets from large codebases, supporting multiple programming languages (C++, Python, Rust, and Go). This enables the framework to scale across diverse tasks and contexts while respecting token limitations. Our experiments, using over 400 high-quality real-world GitHub issues selected from a pool of 2,300 issues, show that models like GPT-4o excel at aggressive patch generation, whereas DeepSeek and Gemini prioritize correctness in CI validation. SwingArena presents a scalable and extensible methodology for evaluating LLMs in realistic, CI-driven software development settings. More details are available on our project page: swing-bench.github.io}
 }
 
-@inproceedings{Su2025climateviz,
-  abbr={ArXiv},
-  title={ClimateViz: A Benchmark for Statistical Reasoning and Fact Verification on Scientific Charts},
-  author={Su, Ruiran and Si, Jiasheng and Guo, Zhijiang and Pierrehumbert, Janet B},
-  booktitle={ArXiv},
-  year={2025},
-  html       = {https://arxiv.org/pdf/2506.08700},
-  code       = {https://github.com/Albasu120491/ClimateViz},
-  selected   = {false},
-  preview = {ClimateViz.png},
-  abstract = {Scientific fact-checking has mostly focused on text and tables, overlooking scientific charts, which are key for presenting quantitative evidence and statistical reasoning. We introduce ClimateViz, the first large-scale benchmark for scientific fact-checking using expert-curated scientific charts. ClimateViz contains 49,862 claims linked to 2,896 visualizations, each labeled as support, refute, or not enough information. To improve interpretability, each example includes structured knowledge graph explanations covering trends, comparisons, and causal relations. We evaluate state-of-the-art multimodal language models, including both proprietary and open-source systems, in zero-shot and few-shot settings. Results show that current models struggle with chart-based reasoning: even the best systems, such as Gemini 2.5 and InternVL 2.5, reach only 76.2 to 77.8 percent accuracy in label-only settings, far below human performance (89.3 and 92.7 percent). Explanation-augmented outputs improve performance in some models. We released our dataset and code alongside the paper.}
-}
 
 @inproceedings{yao2025activation,
   abbr={ArXiv},
@@ -191,6 +166,46 @@
   abstract = {Citation faithfulness detection is critical for enhancing retrieval-augmented generation (RAG) systems, yet large-scale Chinese datasets for this task are scarce. Existing methods face prohibitive costs due to the need for manually annotated negative samples. To address this, we introduce the first large-scale Chinese dataset CiteCheck for citation faithfulness detection, constructed via a cost-effective approach using two-stage manual annotation. This method balances positive and negative samples while significantly reducing annotation expenses. CiteCheck comprises training and test splits. Experiments demonstrate that: (1) the test samples are highly challenging, with even state-of-the-art LLMs failing to achieve high accuracy; and (2) training data augmented with LLM-generated negative samples enables smaller models to attain strong performance using parameter-efficient fine-tuning. CiteCheck provides a robust foundation for advancing citation faithfulness detection in Chinese RAG systems. The dataset is publicly available to facilitate research.}
 }
 
+@inproceedings{Chang2025treereview,
+  abbr={EMNLP},
+  title={TreeReview: A Dynamic Tree of Questions Framework for Deep and Efficient LLM-based Scientific Peer Review},
+  author={Chang*, Yuan and Li*, Ziyue and Zhang†, Hengyuan and Kong, Yuanbo and Wu, Yanru and Guo†, Zhijiang and Wong†, Ngai},
+  booktitle={EMNLP},
+  year={2025},
+  html       = {https://arxiv.org/pdf/2506.07642},
+  code       = {https://github.com/YuanChang98/tree-review},
+  selected   = {false},
+  preview = {TreeReview.png},
+  annotation   = {* denotes Equal Contribution. † denotes Corresponding Author.},
+  abstract = {While Large Language Models (LLMs) have shown significant potential in assisting peer review, current methods often struggle to generate thorough and insightful reviews while maintaining efficiency. In this paper, we propose TreeReview, a novel framework that models paper review as a hierarchical and bidirectional question-answering process. TreeReview first constructs a tree of review questions by recursively decomposing high-level questions into fine-grained sub-questions and then resolves the question tree by iteratively aggregating answers from leaf to root to get the final review. Crucially, we incorporate a dynamic question expansion mechanism to enable deeper probing by generating follow-up questions when needed. We construct a benchmark derived from ICLR and NeurIPS venues to evaluate our method on full review generation and actionable feedback comments generation tasks. Experimental results of both LLM-based and human evaluation show that TreeReview outperforms strong baselines in providing comprehensive, in-depth, and expert-aligned review feedback, while reducing LLM token usage by up to 80% compared to computationally intensive approaches. Our code and benchmark dataset are available at https://github.com/YuanChang98/tree-review.}
+}
+
+
+@inproceedings{Su2025climateviz,
+  abbr={EMNLP},
+  title={ClimateViz: A Benchmark for Statistical Reasoning and Fact Verification on Scientific Charts},
+  author={Su, Ruiran and Si, Jiasheng and Guo, Zhijiang and Pierrehumbert, Janet B},
+  booktitle={EMNLP},
+  year={2025},
+  html       = {https://arxiv.org/pdf/2506.08700},
+  code       = {https://github.com/Albasu120491/ClimateViz},
+  selected   = {false},
+  preview = {ClimateViz.png},
+  abstract = {Scientific fact-checking has mostly focused on text and tables, overlooking scientific charts, which are key for presenting quantitative evidence and statistical reasoning. We introduce ClimateViz, the first large-scale benchmark for scientific fact-checking using expert-curated scientific charts. ClimateViz contains 49,862 claims linked to 2,896 visualizations, each labeled as support, refute, or not enough information. To improve interpretability, each example includes structured knowledge graph explanations covering trends, comparisons, and causal relations. We evaluate state-of-the-art multimodal language models, including both proprietary and open-source systems, in zero-shot and few-shot settings. Results show that current models struggle with chart-based reasoning: even the best systems, such as Gemini 2.5 and InternVL 2.5, reach only 76.2 to 77.8 percent accuracy in label-only settings, far below human performance (89.3 and 92.7 percent). Explanation-augmented outputs improve performance in some models. We released our dataset and code alongside the paper.}
+}
+
+
+@inproceedings{Xiong2024UNCompUL,
+  abbr={EMNLP},
+  title={UNComp: Uncertainty-Aware Long-Context Compressor for Efficient Large Language Model Inference},
+  author={Jing Xiong and Jianghan Shen and Fanghua Ye and Chaofan Tao and Zhongwei Wan and Jianqiao Lu and Xun Wu and Chuanyang Zheng and Zhijiang Guo and Lingpeng Kong and Ngai Wong},
+  booktitle={EMNLP},
+  year={2025},
+  html       = {https://arxiv.org/pdf/2410.03090},
+  selected   = {false},
+  preview = {UNComp.png},
+  abstract = {Deploying large language models (LLMs) is challenging due to their high memory and computational demands, especially during long-context inference. While key-value (KV) caching accelerates inference by reusing previously computed keys and values, it also introduces significant memory overhead. Existing KV cache compression methods such as eviction and merging typically compress the KV cache after it is generated and overlook the eviction of hidden states, failing to improve the speed of the prefilling stage. Additionally, applying a uniform compression rate across different attention heads can harm crucial retrieval heads in needle-in-a-haystack tasks due to excessive compression. In this paper, we propose UNComp, an uncertainty-aware compression scheme that leverages matrix entropy to estimate model uncertainty across layers and heads at the token sequence level. By grouping layers and heads based on their uncertainty, UNComp adaptively compresses both the hidden states and the KV cache. Our method achieves a 1.6x speedup in the prefilling stage and reduces the KV cache to 4.74% of its original size, resulting in a 6.4x increase in throughput and a 1.4x speedup in inference with only a 1.41% performance loss. Remarkably, in needle-in-a-haystack tasks, UNComp outperforms the full-size KV cache even when compressed to 9.38% of its original size. Our approach offers an efficient, training-free Grouped-Query Attention paradigm that can be seamlessly integrated into existing KV cache schemes.}
+}
 
 
 @inproceedings{Liu2024AligningWL,
@@ -335,25 +350,6 @@
   annotation   = {* denotes Equal Contribution. † denotes Corresponding Author.},
   abstract = {Recent advancements in large language models (LLMs) have greatly improved code generation, specifically at the function level. For instance, GPT-4o has achieved a 91.0\% pass rate on HumanEval. However, this draws into question the adequacy of existing benchmarks in thoroughly assessing function-level code generation capabilities. Our study analyzed two common benchmarks, HumanEval and MBPP, and found that these might not thoroughly evaluate LLMs' code generation capacities due to limitations in quality, difficulty, and granularity. To resolve this, we introduce the Mostly Hard Python Problems (MHPP) dataset, consisting of 210 unique human-curated problems. By focusing on the combination of natural language and code reasoning, MHPP gauges LLMs' abilities to comprehend specifications and restrictions, engage in multi-step reasoning, and apply coding knowledge effectively. Initial evaluations of 26 LLMs using MHPP showed many high-performing models on HumanEval failed to achieve similar success on MHPP. Moreover, MHPP highlighted various previously undiscovered limitations within various LLMs, leading us to believe that it could pave the way for a better understanding of LLMs' capabilities and limitations. }
 }
-
-
-
-
-
-
-@inproceedings{Xiong2024UNCompUL,
-  abbr={ArXiv},
-  title={UNComp: Uncertainty-Aware Long-Context Compressor for Efficient Large Language Model Inference},
-  author={Jing Xiong and Jianghan Shen and Fanghua Ye and Chaofan Tao and Zhongwei Wan and Jianqiao Lu and Xun Wu and Chuanyang Zheng and Zhijiang Guo and Lingpeng Kong and Ngai Wong},
-  booktitle={ArXiv},
-  year={2024},
-  html       = {https://arxiv.org/pdf/2410.03090},
-  selected   = {false},
-  preview = {UNComp.png},
-  abstract = {Deploying large language models (LLMs) is challenging due to their high memory and computational demands, especially during long-context inference. While key-value (KV) caching accelerates inference by reusing previously computed keys and values, it also introduces significant memory overhead. Existing KV cache compression methods such as eviction and merging typically compress the KV cache after it is generated and overlook the eviction of hidden states, failing to improve the speed of the prefilling stage. Additionally, applying a uniform compression rate across different attention heads can harm crucial retrieval heads in needle-in-a-haystack tasks due to excessive compression. In this paper, we propose UNComp, an uncertainty-aware compression scheme that leverages matrix entropy to estimate model uncertainty across layers and heads at the token sequence level. By grouping layers and heads based on their uncertainty, UNComp adaptively compresses both the hidden states and the KV cache. Our method achieves a 1.6x speedup in the prefilling stage and reduces the KV cache to 4.74% of its original size, resulting in a 6.4x increase in throughput and a 1.4x speedup in inference with only a 1.41% performance loss. Remarkably, in needle-in-a-haystack tasks, UNComp outperforms the full-size KV cache even when compressed to 9.38% of its original size. Our approach offers an efficient, training-free Grouped-Query Attention paradigm that can be seamlessly integrated into existing KV cache schemes.}
-}
-
-
 
 
 
