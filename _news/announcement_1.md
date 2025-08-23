@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-09-26 07:59:00-0400
+date: 2025-08-22 07:59:00-0400
 inline: true
 related_posts: false
 ---
 
-Four papers are accepted at [NeurIPS 2024](https://nips.cc/virtual/2024/papers.html?filter=titles) (1 Oral) :tada:
+Five papers are accepted at [EMNLP 2025](https://2025.emnlp.org/) (3 Main+2 Findings) :tada:
