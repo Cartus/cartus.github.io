@@ -48,4 +48,5 @@ I was fortunate to work with the following talented students/interns:
 - [Chunlin Tian](https://clin0212.github.io/): PhD at University of Macau
 - [Zhicheng Yang](https://yangzhch6.github.io/): PhD at Hong Kong University of Science and Technology (Guangzhou)
 - [Yunlong Feng](https://resume.alongwy.top/#anchor_about): PhD at Harbin Institute of Technology
+- Yebo Wu: PhD at University of Macau
 - Qingsong Lyu: Master at Tsinghua University
