@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Three papers are accepted at [ICLR 2025](https://iclr.cc/) (1 Spotlight) :tada:
+Five papers are accepted at [NeurIPS 2025](https://neurips.cc/) (1 Spotlight) :tada:
