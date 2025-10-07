@@ -169,6 +169,22 @@
   abstract = {Citation faithfulness detection is critical for enhancing retrieval-augmented generation (RAG) systems, yet large-scale Chinese datasets for this task are scarce. Existing methods face prohibitive costs due to the need for manually annotated negative samples. To address this, we introduce the first large-scale Chinese dataset CiteCheck for citation faithfulness detection, constructed via a cost-effective approach using two-stage manual annotation. This method balances positive and negative samples while significantly reducing annotation expenses. CiteCheck comprises training and test splits. Experiments demonstrate that: (1) the test samples are highly challenging, with even state-of-the-art LLMs failing to achieve high accuracy; and (2) training data augmented with LLM-generated negative samples enables smaller models to attain strong performance using parameter-efficient fine-tuning. CiteCheck provides a robust foundation for advancing citation faithfulness detection in Chinese RAG systems. The dataset is publicly available to facilitate research.}
 }
 
+
+@inproceedings{DengR1K2025
+  abbr={EMNLP},
+  title={When Inverse Data Outperforms: Exploring the Pitfalls of Mixed Data in Multi-Stage Fine-Tuning},
+  author={Mengyi Deng and Xin Li and Tingyu Zhu and Zhicheng Yang and Zhijiang Guo† and Wei Wang†},
+  booktitle={Findings of EMNLP},
+  year={2025},
+  html       = {https://arxiv.org/pdf/2509.13079?},
+  code       = {https://github.com/16demi/ReasonAlign-analysis},
+  selected   = {false},
+  preview = {r1k.png},
+  annotation   = {* denotes Equal Contribution. † denotes Corresponding Author.},
+  abstract = {Existing work has shown that o1-level performance can be achieved with limited data distillation, but most existing methods focus on unidirectional supervised fine-tuning (SFT), overlooking the intricate interplay between diverse reasoning patterns. In this paper, we construct r1k, a high-quality reverse reasoning dataset derived by inverting 1,000 forward examples from s1k, and examine how SFT and Direct Preference Optimization (DPO) affect alignment under bidirectional reasoning objectives. SFT on r1k yields a 1.6%--6.8% accuracy improvement over s1k across evaluated benchmarks. However, naively mixing forward and reverse data during SFT weakens the directional distinction. Although DPO can partially recover this distinction, it also suppresses less preferred reasoning paths by shifting the probability mass toward irrelevant outputs. These findings suggest that mixed reasoning data introduce conflicting supervision signals, underscoring the need for robust and direction-aware alignment strategies.}
+}
+
+
 @inproceedings{Chang2025treereview,
   abbr={EMNLP},
   title={TreeReview: A Dynamic Tree of Questions Framework for Deep and Efficient LLM-based Scientific Peer Review},
@@ -269,7 +285,7 @@
 @inproceedings{YANG2024OptiBenchMR,
   abbr={ICLR},
   title={OptiBench Meets ReSocratic: Measure and Improve LLMs for Optimization Modeling},
-  author={Zhicheng YANG and Yinya Huang and Zhijiang Guo and Wei Shi and Liang Feng and Linqi Song and Yiwei Wang and Xiaodan Liang and Jing Tang},
+  author={Zhicheng Yang and Yinya Huang and Zhijiang Guo and Wei Shi and Liang Feng and Linqi Song and Yiwei Wang and Xiaodan Liang and Jing Tang},
   booktitle    = {ICLR},
   year={2025},
   html       = {https://arxiv.org/pdf/2407.09887v2},
