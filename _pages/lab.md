@@ -16,17 +16,20 @@ nav_order: 3
 
 
 ## PhDs
-- [Minrui Xu](https://rolandminrui.github.io/rolandminrui-homepage/): Bachelor from Hong Kong University of Science and Technology (Prev. Intern at MSRA)
-- [Zhiwei Li](https://digbangbang.github.io/): Master from Fudan University (Prev. Intern at Meituan)
-- [Xinyu Zhou](https://blackzxy.github.io/): Master from Swiss Federal Technology Institute of Lausanne  (Prev. Intern at Shanghai AI Lab)
-- [Haocheng Wang](https://scholar.google.com/citations?user=HLJz8yIAAAAJ&hl=en): Bachelor from Xiamen University (Prev. Intern at DeepSeek AI; ByteDance Research)
+- [Zhiwei Li](https://digbangbang.github.io/): Master from Fudan University (Prev. Intern at Meituan, Fall 2025 -)
+- [Xinyu Zhou](https://blackzxy.github.io/): Master from Swiss Federal Technology Institute of Lausanne  (Prev. Intern at Shanghai AI Lab, Fall 2025 -)
+- [Minrui Xu](https://rolandminrui.github.io/rolandminrui-homepage/): Bachelor from Hong Kong University of Science and Technology (Prev. Intern at MSRA, Spring 2026 -)
+- [Haocheng Wang](https://scholar.google.com/citations?user=HLJz8yIAAAAJ&hl=en): Bachelor from Xiamen University (Prev. Intern at DeepSeek AI; ByteDance Research; ETH Zurich, Spring 2026 -)
+- Mengyi Deng (Co-supervise with Prof. Wei Wang): Mphil from Hong Kong University of Science and Technology (Guangzhou) (Fall 2024 -)
+- Yingping Wang (Co-supervise with Prof. Jiayi Huang): Master from Shenzhen University (Spring 2025 -)
 
 ## Mphils
-- Zilin Wang: Bachelor from Harbin Institute of Technology
-- Chao Chen: Bachelor from Shanghai Jiao Tong University
-- Baiyu Huang: Bachelor from Peking University
-- [Xiao Zhu](https://hexagonstar.github.io/) (Co-supervise with Prof. Yanlin Zhang): Bachelor from Beijing University of Posts and Telecommunications
-- [Jiayu Yang](https://yjywdzh.github.io/) (Co-supervise with Prof. Yutao Yue): Bachelor from Chongqing University
+- Zilin Wang: Bachelor from Harbin Institute of Technology (Shenzhen) (Fall, 2025-)
+- Chao Chen: Bachelor from Shanghai Jiao Tong University (Fall, 2025-)
+- Baiyu Huang: Bachelor from Peking University (Fall, 2025-)
+- [Chenyu Yuan](https://chenyuy001.github.io/) (Co-supervise with Prof. Jiayi Huang): Bachelor from Harbin Institute of Technology (Fall, 2025-)
+- [Xiao Zhu](https://hexagonstar.github.io/) (Co-supervise with Prof. Yanlin Zhang): Bachelor from Beijing University of Posts and Telecommunications (Fall, 2024-)
+- [Jiayu Yang](https://yjywdzh.github.io/) (Co-supervise with Prof. Yutao Yue): Bachelor from Chongqing University (Fall, 2024-)
 
 
 ---
