@@ -24,12 +24,12 @@ nav_order: 3
 - Yingping Wang (Co-supervise with Prof. Jiayi Huang): Master from Shenzhen University (Spring 2025 -)
 
 ## Mphils
-- Zilin Wang: Bachelor from Harbin Institute of Technology (Shenzhen) (Fall, 2025-)
-- Chao Chen: Bachelor from Shanghai Jiao Tong University (Fall, 2025-)
-- Baiyu Huang: Bachelor from Peking University (Fall, 2025-)
-- [Chenyu Yuan](https://chenyuy001.github.io/) (Co-supervise with Prof. Jiayi Huang): Bachelor from Harbin Institute of Technology (Fall, 2025-)
-- [Xiao Zhu](https://hexagonstar.github.io/) (Co-supervise with Prof. Yanlin Zhang): Bachelor from Beijing University of Posts and Telecommunications (Fall, 2024-)
-- [Jiayu Yang](https://yjywdzh.github.io/) (Co-supervise with Prof. Yutao Yue): Bachelor from Chongqing University (Fall, 2024-)
+- Zilin Wang: Bachelor from Harbin Institute of Technology (Shenzhen) (Fall, 2025 -)
+- Chao Chen: Bachelor from Shanghai Jiao Tong University (Fall, 2025 -)
+- Baiyu Huang: Bachelor from Peking University (Fall, 2025 -)
+- [Chenyu Yuan](https://chenyuy001.github.io/) (Co-supervise with Prof. Jiayi Huang): Bachelor from Harbin Institute of Technology (Fall, 2025 -)
+- [Xiao Zhu](https://hexagonstar.github.io/) (Co-supervise with Prof. Yanlin Zhang): Bachelor from Beijing University of Posts and Telecommunications (Fall, 2024 -)
+- [Jiayu Yang](https://yjywdzh.github.io/) (Co-supervise with Prof. Yutao Yue): Bachelor from Chongqing University (Fall, 2024 -)
 
 
 ---
