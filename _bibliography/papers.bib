@@ -169,6 +169,20 @@
   abstract = {Citation faithfulness detection is critical for enhancing retrieval-augmented generation (RAG) systems, yet large-scale Chinese datasets for this task are scarce. Existing methods face prohibitive costs due to the need for manually annotated negative samples. To address this, we introduce the first large-scale Chinese dataset CiteCheck for citation faithfulness detection, constructed via a cost-effective approach using two-stage manual annotation. This method balances positive and negative samples while significantly reducing annotation expenses. CiteCheck comprises training and test splits. Experiments demonstrate that: (1) the test samples are highly challenging, with even state-of-the-art LLMs failing to achieve high accuracy; and (2) training data augmented with LLM-generated negative samples enables smaller models to attain strong performance using parameter-efficient fine-tuning. CiteCheck provides a robust foundation for advancing citation faithfulness detection in Chinese RAG systems. The dataset is publicly available to facilitate research.}
 }
 
+@inproceedings{WanFast2025,
+  abbr={EMNLP},
+  title={FaStFACT: Faster, Stronger Long-Form Factuality Evaluations in LLMs},
+  author={Yingjia Wan and Haochen Tan and Xiao Zhu and Xinyu Zhou and Zhiwei Li and Qingsong Lv and Changxuan Sun and Jiaqi Zeng and Yi Xu and Jianqiao Lu and Yinhong Liu† and Zhijiang Guo†},
+  booktitle={Findings of EMNLP},
+  year={2025},
+  html       = {https://arxiv.org/pdf/2510.12839},
+  code       = {https://github.com/Yingjia-Wan/FastFact},
+  selected   = {false},
+  preview = {FastFact.png},
+  annotation   = {* denotes Equal Contribution. † denotes Corresponding Author.},
+  abstract = {Evaluating the factuality of long-form generations from Large Language Models (LLMs) remains challenging due to accuracy issues and costly human assessment. Prior efforts attempt this by decomposing text into claims, searching for evidence, and verifying claims, but suffer from critical drawbacks: (1) inefficiency due to complex pipeline components unsuitable for long LLM outputs, and (2) ineffectiveness stemming from inaccurate claim sets and insufficient evidence collection of one-line snippets.To address these limitations, we propose \name, a fast and strong evaluation framework that achieves the highest alignment with human evaluation and efficiency among existing baselines. \name first employs chunk-level claim extraction integrated with confidence-based pre-verification, significantly reducing the cost of web searching and inference calling while ensuring reliability. For searching and verification, it collects document-level evidence from crawled webpages and selectively retrieves it during verification, addressing the evidence insufficiency problem in previous pipelines.Extensive experiments based on an aggregated and manually annotated benchmark demonstrate the reliability of \name in both efficiently and effectively evaluating the factuality of long-form LLM generations.}
+}
+
 
 @inproceedings{DengR1K2025,
   abbr={EMNLP},
