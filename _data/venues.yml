@@ -22,6 +22,9 @@
   url: https://papers.nips.cc/
   color: "#cc9900"
 
+"TPAMI":
+  url: https://mc.manuscriptcentral.com/tpami-cs
+  color: "#003366"
 
 "NeurIPS":
   url: https://papers.nips.cc/
