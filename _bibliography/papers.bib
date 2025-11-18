@@ -72,6 +72,21 @@
 }
 
 
+@inproceedings{Li2025System2,
+  abbr={TPAMI},
+  title={From System 1 to System 2: A Survey of Reasoning Large Language Models},
+  author={Zhong-Zhi Li* and Duzhen Zhang* and Ming-Liang Zhang and Jiaxin Zhang and Zengyan Liu and Yuxuan Yao and Haotian Xu and Junhao Zheng and Pei-Jie Wang and Xiuyi Chen and Yingying Zhang and Fei Yin and Jiahua Dong and Zhijiang Guo† and Le Song† and Cheng-Lin Liu†},
+  booktitle={TPAMI},
+  year={2025},
+  html       = {https://arxiv.org/pdf/2502.17419},
+  code       = {https://github.com/zzli2022/Awesome-System2-Reasoning-LLM},
+  selected   = {true},
+  preview = {System2.png},
+  annotation   = {* denotes Equal Contribution. † denotes Corresponding Author.},
+  abstract = {Achieving human-level intelligence requires refining the transition from the fast, intuitive System 1 to the slower, more deliberate System 2 reasoning. While System 1 excels in quick, heuristic decisions, System 2 relies on logical reasoning for more accurate judgments and reduced biases. Foundational Large Language Models (LLMs) excel at fast decision-making but lack the depth for complex reasoning, as they have not yet fully embraced the step-by-step analysis characteristic of true System 2 thinking. Recently, reasoning LLMs like OpenAI's o1/o3 and DeepSeek's R1 have demonstrated expert-level performance in fields such as mathematics and coding, closely mimicking the deliberate reasoning of System 2 and showcasing human-like cognitive abilities. This survey begins with a brief overview of the progress in foundational LLMs and the early development of System 2 technologies, exploring how their combination has paved the way for reasoning LLMs. Next, we discuss how to construct reasoning LLMs, analyzing their features, the core methods enabling advanced reasoning, and the evolution of various reasoning LLMs. Additionally, we provide an overview of reasoning benchmarks, offering an in-depth comparison of the performance of representative reasoning LLMs. Finally, we explore promising directions for advancing reasoning LLMs and maintain a real-time \href{this https URL}{GitHub Repository} to track the latest developments. We hope this survey will serve as a valuable resource to inspire innovation and drive progress in this rapidly evolving field.}
+}
+
+
 
 @inproceedings{Qing2025effibenchx,
   abbr={NeurIPS},
@@ -127,47 +142,6 @@
   abstract = {Temporal reasoning is pivotal for Large Language Models (LLMs) to comprehend the real world. However, existing works neglect the real-world challenges for temporal reasoning: (1) intensive temporal information, (2) fast-changing event dynamics, and (3) complex temporal dependencies in social interactions. To bridge this gap, we propose a multi-level benchmark TIME, designed for temporal reasoning in real-world scenarios. TIME consists of 38,522 QA pairs, covering 3 levels with 11 fine-grained sub-tasks. This benchmark encompasses 3 sub-datasets reflecting different real-world challenges: TIME-Wiki, TIME-News, and TIME-Dial. We conduct extensive experiments on reasoning models and non-reasoning models. And we conducted an in-depth analysis of temporal reasoning performance across diverse real-world scenarios and tasks, and summarized the impact of test-time scaling on temporal reasoning capabilities. Additionally, we release TIME-Lite, a human-annotated subset to foster future research and standardized evaluation in temporal reasoning.}
 }
 
-
-@inproceedings{Li2025System2,
-  abbr={TPAMI},
-  title={From System 1 to System 2: A Survey of Reasoning Large Language Models},
-  author={Zhong-Zhi Li* and Duzhen Zhang* and Ming-Liang Zhang and Jiaxin Zhang and Zengyan Liu and Yuxuan Yao and Haotian Xu and Junhao Zheng and Pei-Jie Wang and Xiuyi Chen and Yingying Zhang and Fei Yin and Jiahua Dong and Zhijiang Guo† and Le Song† and Cheng-Lin Liu†},
-  booktitle={TPAMI},
-  year={2025},
-  html       = {https://arxiv.org/pdf/2502.17419},
-  code       = {https://github.com/zzli2022/Awesome-System2-Reasoning-LLM},
-  selected   = {true},
-  preview = {System2.png},
-  annotation   = {* denotes Equal Contribution. † denotes Corresponding Author.},
-  abstract = {Achieving human-level intelligence requires refining the transition from the fast, intuitive System 1 to the slower, more deliberate System 2 reasoning. While System 1 excels in quick, heuristic decisions, System 2 relies on logical reasoning for more accurate judgments and reduced biases. Foundational Large Language Models (LLMs) excel at fast decision-making but lack the depth for complex reasoning, as they have not yet fully embraced the step-by-step analysis characteristic of true System 2 thinking. Recently, reasoning LLMs like OpenAI's o1/o3 and DeepSeek's R1 have demonstrated expert-level performance in fields such as mathematics and coding, closely mimicking the deliberate reasoning of System 2 and showcasing human-like cognitive abilities. This survey begins with a brief overview of the progress in foundational LLMs and the early development of System 2 technologies, exploring how their combination has paved the way for reasoning LLMs. Next, we discuss how to construct reasoning LLMs, analyzing their features, the core methods enabling advanced reasoning, and the evolution of various reasoning LLMs. Additionally, we provide an overview of reasoning benchmarks, offering an in-depth comparison of the performance of representative reasoning LLMs. Finally, we explore promising directions for advancing reasoning LLMs and maintain a real-time \href{this https URL}{GitHub Repository} to track the latest developments. We hope this survey will serve as a valuable resource to inspire innovation and drive progress in this rapidly evolving field.}
-}
-
-
-@inproceedings{Xu2025RedStarDS,
-  abbr={ArXiv},
-  title={RedStar: Does Scaling Long-CoT Data Unlock Better Slow-Reasoning Systems?},
-  author={Haotian Xu and Xing Wu and Weinong Wang and Zhongzhi Li and Da Zheng and Boyuan Chen and Yi Hu and Shijia Kang and Jiaming Ji and Yingying Zhang and Zhijiang Guo and Yaodong Yang and Muhan Zhang and Debing Zhang},
-  booktitle={ArXiv},
-  year={2025},
-  html       = {https://arxiv.org/pdf/2501.11284},
-  code       = {https://huggingface.co/RedStar-Reasoning},
-  selected   = {false},
-  preview = {RedStar.png},
-  abstract = {Can scaling transform reasoning? In this work, we explore the untapped potential of scaling Long Chain-of-Thought (Long-CoT) data to 1000k samples, pioneering the development of a slow-thinking model, RedStar. Through extensive experiments with various LLMs and different sizes, we uncover the ingredients for specialization and scale for Long-CoT training. Surprisingly, even smaller models show significant performance gains with limited data, revealing the sample efficiency of Long-CoT and the critical role of sample difficulty in the learning process. Our findings demonstrate that Long-CoT reasoning can be effectively triggered with just a few thousand examples, while larger models achieve unparalleled improvements. We also introduce reinforcement learning (RL)-scale training as a promising direction for advancing slow-thinking systems. RedStar shines across domains: on the MATH-Hard benchmark, RedStar-code-math boosts performance from 66.2\% to 81.6\%, and on the USA Math Olympiad (AIME), it solves 46.7\% of problems using only 21k mixed-code-math datasets. In multimodal tasks like GeoQA and MathVista-GEO, RedStar-Geo achieves competitive results with minimal Long-CoT data, outperforming other slow-thinking systems like QvQ-Preview. Compared to QwQ, RedStar strikes the perfect balance between reasoning and generalizability. Our work highlights that, with careful tuning, scaling Long-CoT can unlock extraordinary reasoning capabilities-even with limited dataset and set a new standard for slow-thinking models across diverse challenges.}
-}
-
-
-@inproceedings{Xu2025CiteCheck,
-  abbr={ArXiv},
-  title={CiteCheck: Towards Accurate Citation Faithfulness Detection},
-  author={Ziyao Xu and Shaohang Wei and Zhuoheng Han and Jing Jin and Zhe Yang and Xiaoguang Li and Haochen Tan and Zhijiang Guo and Houfeng Wang},
-  booktitle={ArXiv},
-  year={2025},
-  html       = {https://arxiv.org/pdf/2502.10881},
-  selected   = {false},
-  preview = {CiteCheck.png},
-  abstract = {Citation faithfulness detection is critical for enhancing retrieval-augmented generation (RAG) systems, yet large-scale Chinese datasets for this task are scarce. Existing methods face prohibitive costs due to the need for manually annotated negative samples. To address this, we introduce the first large-scale Chinese dataset CiteCheck for citation faithfulness detection, constructed via a cost-effective approach using two-stage manual annotation. This method balances positive and negative samples while significantly reducing annotation expenses. CiteCheck comprises training and test splits. Experiments demonstrate that: (1) the test samples are highly challenging, with even state-of-the-art LLMs failing to achieve high accuracy; and (2) training data augmented with LLM-generated negative samples enables smaller models to attain strong performance using parameter-efficient fine-tuning. CiteCheck provides a robust foundation for advancing citation faithfulness detection in Chinese RAG systems. The dataset is publicly available to facilitate research.}
-}
 
 @inproceedings{WanFast2025,
   abbr={EMNLP},
@@ -337,6 +311,32 @@
   abstract = {Current studies leveraging social media data for disease monitoring face challenges like noisy colloquial language and insufficient tracking of user disease progression in longitudinal data settings. This study aims to develop a pipeline for collecting, cleaning, and analyzing large-scale longitudinal social media data for disease monitoring, with a focus on COVID-19 pandemic.}
 }
 
+
+@inproceedings{Xu2025RedStarDS,
+  abbr={ArXiv},
+  title={RedStar: Does Scaling Long-CoT Data Unlock Better Slow-Reasoning Systems?},
+  author={Haotian Xu and Xing Wu and Weinong Wang and Zhongzhi Li and Da Zheng and Boyuan Chen and Yi Hu and Shijia Kang and Jiaming Ji and Yingying Zhang and Zhijiang Guo and Yaodong Yang and Muhan Zhang and Debing Zhang},
+  booktitle={ArXiv},
+  year={2025},
+  html       = {https://arxiv.org/pdf/2501.11284},
+  code       = {https://huggingface.co/RedStar-Reasoning},
+  selected   = {false},
+  preview = {RedStar.png},
+  abstract = {Can scaling transform reasoning? In this work, we explore the untapped potential of scaling Long Chain-of-Thought (Long-CoT) data to 1000k samples, pioneering the development of a slow-thinking model, RedStar. Through extensive experiments with various LLMs and different sizes, we uncover the ingredients for specialization and scale for Long-CoT training. Surprisingly, even smaller models show significant performance gains with limited data, revealing the sample efficiency of Long-CoT and the critical role of sample difficulty in the learning process. Our findings demonstrate that Long-CoT reasoning can be effectively triggered with just a few thousand examples, while larger models achieve unparalleled improvements. We also introduce reinforcement learning (RL)-scale training as a promising direction for advancing slow-thinking systems. RedStar shines across domains: on the MATH-Hard benchmark, RedStar-code-math boosts performance from 66.2\% to 81.6\%, and on the USA Math Olympiad (AIME), it solves 46.7\% of problems using only 21k mixed-code-math datasets. In multimodal tasks like GeoQA and MathVista-GEO, RedStar-Geo achieves competitive results with minimal Long-CoT data, outperforming other slow-thinking systems like QvQ-Preview. Compared to QwQ, RedStar strikes the perfect balance between reasoning and generalizability. Our work highlights that, with careful tuning, scaling Long-CoT can unlock extraordinary reasoning capabilities-even with limited dataset and set a new standard for slow-thinking models across diverse challenges.}
+}
+
+
+@inproceedings{Xu2025CiteCheck,
+  abbr={ArXiv},
+  title={CiteCheck: Towards Accurate Citation Faithfulness Detection},
+  author={Ziyao Xu and Shaohang Wei and Zhuoheng Han and Jing Jin and Zhe Yang and Xiaoguang Li and Haochen Tan and Zhijiang Guo and Houfeng Wang},
+  booktitle={ArXiv},
+  year={2025},
+  html       = {https://arxiv.org/pdf/2502.10881},
+  selected   = {false},
+  preview = {CiteCheck.png},
+  abstract = {Citation faithfulness detection is critical for enhancing retrieval-augmented generation (RAG) systems, yet large-scale Chinese datasets for this task are scarce. Existing methods face prohibitive costs due to the need for manually annotated negative samples. To address this, we introduce the first large-scale Chinese dataset CiteCheck for citation faithfulness detection, constructed via a cost-effective approach using two-stage manual annotation. This method balances positive and negative samples while significantly reducing annotation expenses. CiteCheck comprises training and test splits. Experiments demonstrate that: (1) the test samples are highly challenging, with even state-of-the-art LLMs failing to achieve high accuracy; and (2) training data augmented with LLM-generated negative samples enables smaller models to attain strong performance using parameter-efficient fine-tuning. CiteCheck provides a robust foundation for advancing citation faithfulness detection in Chinese RAG systems. The dataset is publicly available to facilitate research.}
+}
 
 
 @inproceedings{Lu2024ProcessDrivenAI,
