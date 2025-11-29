@@ -8,6 +8,9 @@ nav_order: 3
 ---
 
 ---
+
+Check our lab homepage: [Lark Lab](https://lark-lab-hkustgz.github.io/)
+
 ## Interns/RAs/Visitors
 
 - [Langqi Liu](https://liurunky.github.io/): MS Nanjing University
