@@ -24,6 +24,7 @@ Check our lab homepage: [Lark Lab](https://lark-lab-hkustgz.github.io/)
 - [Minrui Xu](https://rolandminrui.github.io/rolandminrui-homepage/): BS Hong Kong University of Science and Technology (Prev. MSRA, Spring 2026)
 - [Haocheng Wang](https://scholar.google.com/citations?user=HLJz8yIAAAAJ&hl=en): BS Xiamen University (Prev. DeepSeek AI; ByteDance Research; ETH Zurich, Spring 2026)
 - Qingsong Lyu: MS Tsinghua University (Prev. Ant Group, Fall 2026)
+- Yilong Xu: MS Chinese Academy of Sciences (Prev. Alibab, Fall 2026)
 - Mengyi Deng (Co-supervise with Prof. Wei Wang): MS Hong Kong University of Science and Technology (Guangzhou) (Fall 2024)
 - Yingping Wang (Co-supervise with Prof. Jiayi Huang): MS from Shenzhen University (Spring 2025)
 
