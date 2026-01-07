@@ -18,6 +18,10 @@
   url: https://transacl.org/index.php/tacl
   color: "#003366"
 
+"EACL":
+  url: https://aclanthology.org/venues/eacl/
+  color: "#003366"
+
 "ICML":
   url: https://papers.nips.cc/
   color: "#cc9900"
