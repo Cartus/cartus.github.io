@@ -296,6 +296,22 @@
   abstract = {Large language models (LLMs) have exhibited their problem-solving abilities in mathematical reasoning. Solving realistic optimization (OPT) problems in application scenarios requires advanced and applied mathematics ability. However, current OPT benchmarks that merely solve linear programming are far from complex realistic situations. In this work, we propose OptiBench, a benchmark for End-to-end optimization problem-solving with human-readable inputs and outputs. OptiBench contains rich optimization problems, including linear and nonlinear programming with or without tabular data, which can comprehensively evaluate LLMs' solving ability. In our benchmark, LLMs are required to call a code solver to provide precise numerical answers. Furthermore, to alleviate the data scarcity for optimization problems, and to bridge the gap between open-source LLMs on a small scale (e.g., Llama-3-8b) and closed-source LLMs (e.g., GPT-4), we further propose a data synthesis method namely ReSocratic. Unlike general data synthesis methods that proceed from questions to answers, \ReSocratic first incrementally synthesizes formatted optimization demonstration with mathematical formulations step by step and then back-translates the generated demonstrations into questions. Based on this, we synthesize the ReSocratic-29k dataset. We further conduct supervised fine-tuning with ReSocratic-29k on multiple open-source models. Experimental results show that ReSocratic-29k significantly improves the performance of open-source models.}
 }
 
+
+@inproceedings{Xu2024DebateQAEQ,
+  abbr={EACL},
+  title={DebateQA: Evaluating Question Answering on Debatable Knowledge},
+  author={Rongwu Xu* and Xuan Qi* and Zehan Qi and Wei Xu and Zhijiang Guo},
+  booktitle={Findings of EACL},
+  year={2025},
+  html       = {https://arxiv.org/pdf/2408.01419},
+  code       = {https://github.com/pillowsofwind/DebateQA},
+  selected   = {false},
+  preview = {DebateQA.png},
+  annotation   = {* denotes Equal Contribution. † denotes Corresponding Author.},
+  abstract = {The rise of large language models (LLMs) has enabled us to seek answers to inherently debatable questions on LLM chatbots, necessitating a reliable way to evaluate their ability. However, traditional QA benchmarks assume fixed answers are inadequate for this purpose. To address this, we introduce DebateQA, a dataset of 2,941 debatable questions, each accompanied by multiple human-annotated partial answers that capture a variety of perspectives. We develop two metrics: Perspective Diversity, which evaluates the comprehensiveness of perspectives, and Dispute Awareness, which assesses if the LLM acknowledges the question's debatable nature. Experiments demonstrate that both metrics align with human preferences and are stable across different underlying models. Using DebateQA with two metrics, we assess 12 popular LLMs and retrieval-augmented generation methods. Our findings reveal that while LLMs generally excel at recognizing debatable issues, their ability to provide comprehensive answers encompassing diverse perspectives varies considerably.}
+}
+
+
 @inproceedings{Liu2024CtrlAAR,
   abbr={ACL},
   title={CtrlA: Adaptive Retrieval-Augmented Generation via Inherent Control},
@@ -367,19 +383,6 @@
 }
 
 
-@inproceedings{Xu2024DebateQAEQ,
-  abbr={ArXiv},
-  title={DebateQA: Evaluating Question Answering on Debatable Knowledge},
-  author={Rongwu Xu* and Xuan Qi* and Zehan Qi and Wei Xu and Zhijiang Guo},
-  booktitle={ArXiv},
-  year={2024},
-  html       = {https://arxiv.org/pdf/2408.01419},
-  code       = {https://github.com/pillowsofwind/DebateQA},
-  selected   = {false},
-  preview = {DebateQA.png},
-  annotation   = {* denotes Equal Contribution. † denotes Corresponding Author.},
-  abstract = {The rise of large language models (LLMs) has enabled us to seek answers to inherently debatable questions on LLM chatbots, necessitating a reliable way to evaluate their ability. However, traditional QA benchmarks assume fixed answers are inadequate for this purpose. To address this, we introduce DebateQA, a dataset of 2,941 debatable questions, each accompanied by multiple human-annotated partial answers that capture a variety of perspectives. We develop two metrics: Perspective Diversity, which evaluates the comprehensiveness of perspectives, and Dispute Awareness, which assesses if the LLM acknowledges the question's debatable nature. Experiments demonstrate that both metrics align with human preferences and are stable across different underlying models. Using DebateQA with two metrics, we assess 12 popular LLMs and retrieval-augmented generation methods. Our findings reveal that while LLMs generally excel at recognizing debatable issues, their ability to provide comprehensive answers encompassing diverse perspectives varies considerably.}
-}
 
 
 @inproceedings{Dai2024MHPPET,
