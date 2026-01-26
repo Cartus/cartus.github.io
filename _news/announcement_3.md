@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Glad to serve as the Area Chair (AC) for [NeurIPS 2025](https://neurips.cc/) :sparkles:
+Five papers are accepted at [ICLR 2026](https://iclr.cc/) :tada:
