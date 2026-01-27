@@ -16,6 +16,34 @@
 }
 
 
+@inproceedings{YangACE2026,
+  abbr={ICLR},
+  title={ACE: Attribution-Controlled Knowledge Editing for Multi-hop Factual Recall},
+  author={Jiayu Yang* and Yuxuan Fan* and Songning Lai and Shengen Wu and Jiaqi Tang and Chun Kang and Zhijiang Guo† and Yutao Yue†},
+  booktitle    = {ICLR},
+  year={2026},
+  html       = {https://arxiv.org/pdf/2510.07896?},
+  selected   = {false},
+  preview = {ACE.png},
+  annotation   = {* denotes Equal Contribution. † denotes Corresponding Author.},
+  abstract = {Large Language Models (LLMs) require efficient knowledge editing (KE) to update factual information, yet existing methods exhibit significant performance decay in multi-hop factual recall. This failure is particularly acute when edits involve intermediate implicit subjects within reasoning chains. Through causal analysis, we reveal that this limitation stems from an oversight of how chained knowledge is dynamically represented and utilized at the neuron level. We discover that during multi hop reasoning, implicit subjects function as query neurons, which sequentially activate corresponding value neurons across transformer layers to accumulate information toward the final answer, a dynamic prior KE work has overlooked. Guided by this insight, we propose ACE: Attribution-Controlled Knowledge Editing for Multi-hop Factual Recall, a framework that leverages neuron-level attribution to identify and edit these critical query-value (Q-V) pathways. ACE provides a mechanistically grounded solution for multi-hop KE, empirically outperforming state-of-the-art methods by 9.44% on GPT-J and 37.46% on Qwen3-8B. Our analysis further reveals more fine-grained activation patterns in Qwen3 and demonstrates that the semantic interpretability of value neurons is orchestrated by query-driven accumulation. These findings establish a new pathway for advancing KE capabilities based on the principled understanding of internal reasoning mechanisms.}
+}
+
+
+@inproceedings{WuDevFT2026,
+  abbr={ICLR},
+  title={Learning Like Humans: Resource-Efficient Federated Fine-Tuning through Cognitive Developmental Stages},
+  author={Yebo Wu* and Jingguang Li* and Zhijiang Guo† and Li Li†},
+  booktitle    = {ICLR},
+  year={2026},
+  html       = {https://arxiv.org/pdf/2508.00041},
+  selected   = {false},
+  preview = {DevFT.png},
+  annotation   = {* denotes Equal Contribution. † denotes Corresponding Author.},
+  abstract = {Federated fine-tuning enables Large Language Models (LLMs) to adapt to downstream tasks while preserving data privacy, but its resource-intensive nature limits deployment on edge devices. In this paper, we introduce Developmental Federated Tuning (DevFT), a resource-efficient approach inspired by cognitive development that progressively builds a powerful LLM from a compact foundation. DevFT decomposes the fine-tuning process into developmental stages, each optimizing submodels with increasing parameter capacity. Knowledge from earlier stages transfers to subsequent submodels, providing optimized initialization parameters that prevent convergence to local minima and accelerate training. This paradigm mirrors human learning, gradually constructing comprehensive knowledge structure while refining existing skills. To efficiently build stage-specific submodels, DevFT introduces deconfliction-guided layer grouping and differential-based layer fusion to distill essential information and construct representative layers. Evaluations across multiple benchmarks demonstrate that DevFT significantly outperforms state-of-the-art methods, achieving up to 4.59 faster convergence, 10.67 reduction in communication overhead, and 9.07% average performance improvement, while maintaining compatibility with existing approaches.}
+}
+
+
 @inproceedings{Xu2025Swing,
   abbr={ICLR},
   title={SwingArena: Competitive Programming Arena for Long-context GitHub Issue Solving},
