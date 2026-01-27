@@ -24,7 +24,8 @@ Check our lab homepage: [Lark Lab](https://lark-lab-hkustgz.github.io/)
 - [Minrui Xu](https://rolandminrui.github.io/rolandminrui-homepage/): BS Hong Kong University of Science and Technology (Prev. MSRA, Spring 2026)
 - [Haocheng Wang](https://scholar.google.com/citations?user=HLJz8yIAAAAJ&hl=en): BS Xiamen University (Prev. DeepSeek AI; ByteDance Research; ETH Zurich, Spring 2026)
 - Qingsong Lyu: MS Tsinghua University (Prev. Ant Group, Fall 2026)
-- Yilong Xu: MS Chinese Academy of Sciences (Prev. Alibab, Fall 2026)
+- Yilong Xu: MS Chinese Academy of Sciences (Prev. Alibaba, Fall 2026)
+- Zhuang Yu: MS Shanghai Jiao Tong University (Prev. Huawei, Fall 2026)
 - Mengyi Deng (Co-supervise with Prof. Wei Wang): MS Hong Kong University of Science and Technology (Guangzhou) (Fall 2024)
 - Yingping Wang (Co-supervise with Prof. Jiayi Huang): MS from Shenzhen University (Spring 2025)
 
@@ -49,7 +50,6 @@ I was fortunate to work with the following talented students/interns:
 - [Jing Xiong](https://menik1126.github.io/): Master at Sun Yat-sen University, to PhD at University of Hong Kong
 - [Rongwu Xu](https://rongwuxu.com/): Master at Tsinghua University, to PhD at University of Washington
 - [Dong Huang](https://huangd1999.github.io/): PhD at University of Hong Kong, to Postdoctoral Researcher at National University of Singapore
-- Bowen Qu: Master at Peking University, to Researcher at Moonshot AI (Shenzhen)
 - [Fengwei Teng](https://qixucen.github.io/): Bachelor from Renmin University of China, to Student Researcher at Beijing Academy of Artificial Intelligence
 - [Yuxuan Yao](https://scholar.google.com.hk/citations?user=PLe5qQEAAAAJ&hl=zh-CN): PhD at City University of Hong Kong
 - [Chunlin Tian](https://clin0212.github.io/): PhD at University of Macau
