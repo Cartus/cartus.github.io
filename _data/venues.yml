@@ -1,6 +1,6 @@
 "ArXiv":
   url: https://arxiv.org/
-  color: "#996600"
+  color: "#b3b3b0"
 
 "ACL":
   url: https://aclanthology.org/venues/acl/
@@ -28,7 +28,7 @@
 
 "TPAMI":
   url: https://mc.manuscriptcentral.com/tpami-cs
-  color: "#003366"
+  color: "#996600"
 
 "NeurIPS":
   url: https://papers.nips.cc/
@@ -40,7 +40,11 @@
 
 "COLM":
   url: https://colmweb.org/
-  color: "#b3b3b0"
+  color: "#996600"
+
+"TMLR":
+  url: https://jmlr.org/tmlr/
+  color: "#996600"
 
 "IJCAI":
   url: https://www.ijcai.org/
