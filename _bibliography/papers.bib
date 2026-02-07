@@ -44,11 +44,24 @@
 }
 
 
+@inproceedings{Zhou26Time,
+  abbr={ICLR},
+  title={When Silence Is Golden: Can LLMs Learn to Abstain in Temporal QA and Beyond?},
+  author={Xinyu Zhou and Chang Jin and Carsten Eickhoff and Zhijiang Guo and Seyed Ali Bahrainian},
+  booktitle={ICLR},
+  year={2026},
+  html       = {https://arxiv.org/pdf/2602.04755},
+  code       = {https://github.com/Blackzxy/AbstentionTemporalQA},
+  selected   = {false},
+  preview = {TimeRL.png},
+  abstract = {Large language models (LLMs) rarely admit uncertainty, often producing fluent but misleading answers, rather than abstaining (i.e., refusing to answer). This weakness is even evident in temporal question answering, where models frequently ignore time-sensitive evidence and conflate facts across different time-periods. In this paper, we present the first empirical study of training LLMs with an abstention ability while reasoning about temporal QA. Existing approaches such as calibration might be unreliable in capturing uncertainty in complex reasoning. We instead frame abstention as a teachable skill and introduce a pipeline that couples Chain-of-Thought (CoT) supervision with Reinforcement Learning (RL) guided by abstention-aware rewards. Our goal is to systematically analyze how different information types and training techniques affect temporal reasoning with abstention behavior in LLMs. Through extensive experiments studying various methods, we find that RL yields strong empirical gains on reasoning: a model initialized by Qwen2.5-1.5B-Instruct surpasses GPT-4o by  and  in Exact Match on TimeQA-Easy and Hard, respectively. Moreover, it improves the True Positive rate on unanswerable questions by  over a pure supervised fine-tuned (SFT) variant. Beyond performance, our analysis shows that SFT induces overconfidence and harms reliability, while RL improves prediction accuracy but exhibits similar risks. Finally, by comparing implicit reasoning cues (e.g., original context, temporal sub-context, knowledge graphs) with explicit CoT supervision, we find that implicit information provides limited benefit for reasoning with abstention. Our study provides new insights into how abstention and reasoning can be jointly optimized, providing a foundation for building more reliable LLMs.}
+}
+
 @inproceedings{Xu2025Swing,
   abbr={ICLR},
   title={SwingArena: Competitive Programming Arena for Long-context GitHub Issue Solving},
   author={Wendong Xu and Jing Xiong and Chenyang Zhao and Qiujiang Chen and Haoran Wang and Hui Shen and Zhongwei Wan and Jianbo Dai and Taiqiang Wu and He Xiao and Chaofan Tao and Z. Morley Mao and Ying Sheng and Zhijiang Guo and Hongxia Yang and Bei Yu and Lingpeng Kong and Quanquan Gu and Ngai Wong},
-  booktitle={ICLR},
+  booktitle={ICLR (Oral)},
   year={2026},
   html       = {https://arxiv.org/pdf/2505.23932},
   code       = {https://swing-bench.github.io/},
@@ -368,6 +381,18 @@
   preview = {CtrlA.png},
   annotation   = {* denotes Equal Contribution. † denotes Corresponding Author.},
   abstract = {Retrieval-augmented generation (RAG) has emerged as a promising solution for mitigating hallucinations of large language models (LLMs) with retrieved external knowledge. Adaptive RAG enhances this approach by enabling dynamic retrieval during generation, activating retrieval only when the query exceeds LLM's internal knowledge. Existing methods primarily focus on detecting LLM's confidence via statistical uncertainty. Instead, we present the first attempts to solve adaptive RAG from a representation perspective and develop an inherent control-based framework, termed \name. Specifically, we extract the features that represent the honesty and confidence directions of LLM and adopt them to control LLM behavior and guide retrieval timing decisions. We also design a simple yet effective query formulation strategy to support adaptive retrieval. Experiments show that \name is superior to existing adaptive RAG methods on a diverse set of tasks, the honesty steering can effectively make LLMs more honest and confidence monitoring is a promising indicator of retrieval }
+}
+
+@inproceedings{Su2023AreLR,
+  abbr={AACL},
+  title={Are LLMs Rigorous Logical Reasoner? Empowering Natural Language Proof Generation with Contrastive Stepwise Decoding},
+  author={Ying Su and Xiaojin Fu and Mingwen Liu and Zhijiang Guo},
+  booktitle={AACL},
+  year={2025},
+  html       = {https://arxiv.org/pdf/2311.06736},
+  selected   = {false},
+  preview = {ConDec.png},
+  abstract = {Logical reasoning remains a pivotal component within the realm of artificial intelligence. The recent evolution of large language models (LLMs) has marked significant progress in this domain. The adoption of strategies like chain-of-thought (CoT) has enhanced the performance of LLMs across diverse reasoning tasks. Nonetheless, logical reasoning that involves proof planning, specifically those that necessitate the validation of explanation accuracy, continues to present stumbling blocks. In this study, we first evaluate the efficacy of LLMs with advanced CoT strategies concerning such tasks. Our analysis reveals that LLMs still struggle to navigate complex reasoning chains, which demand the meticulous linkage of premises to derive a cogent conclusion. To address this issue, we finetune a smaller-scale language model, equipping it to decompose proof objectives into more manageable subgoals. We also introduce contrastive decoding to stepwise proof generation, making use of negative reasoning paths to strengthen the model's capacity for logical deduction. Experiments on EntailmentBank underscore the success of our method in augmenting the proof planning abilities of language models.}
 }
 
 
@@ -708,17 +733,7 @@
   abstract = {Although large language models (LLMs) have demonstrated adeptness in a range of tasks, they still lag behind human learning efficiency. This disparity is often linked to the inherent human capacity to learn from basic examples, gradually generalize and handle more complex problems, and refine their skills with continuous feedback. Inspired by this, this paper introduces YODA, a novel teacher-student progressive learning framework that emulates the teacher-student education process to improve the efficacy of model fine-tuning. The framework operates on an interactive \textit{basic-generalized-harder} loop. The teacher agent provides tailored feedback on the student's answers, and systematically organizes the education process. This process unfolds by teaching the student basic examples, reinforcing understanding through generalized questions, and then enhancing learning by posing questions with progressively enhanced complexity. With the teacher's guidance, the student learns to iteratively refine its answer with feedback, and forms a robust and comprehensive understanding of the posed questions. The systematic procedural data, which reflects the progressive learning process of humans, is then utilized for model training. Taking math reasoning as a testbed, experiments show that training LLaMA2 with data from YODA improves SFT with significant performance gain (+17.01\% on GSM8K and +9.98\% on MATH). In addition, we find that training with curriculum learning further improves learning robustness.}
 }
 
-@inproceedings{Su2023AreLR,
-  abbr={ArXiv},
-  title={Are LLMs Rigorous Logical Reasoner? Empowering Natural Language Proof Generation with Contrastive Stepwise Decoding},
-  author={Ying Su and Xiaojin Fu and Mingwen Liu and Zhijiang Guo},
-  booktitle={ArXiv},
-  year={2023},
-  html       = {https://arxiv.org/pdf/2311.06736},
-  selected   = {false},
-  preview = {ConDec.png},
-  abstract = {Logical reasoning remains a pivotal component within the realm of artificial intelligence. The recent evolution of large language models (LLMs) has marked significant progress in this domain. The adoption of strategies like chain-of-thought (CoT) has enhanced the performance of LLMs across diverse reasoning tasks. Nonetheless, logical reasoning that involves proof planning, specifically those that necessitate the validation of explanation accuracy, continues to present stumbling blocks. In this study, we first evaluate the efficacy of LLMs with advanced CoT strategies concerning such tasks. Our analysis reveals that LLMs still struggle to navigate complex reasoning chains, which demand the meticulous linkage of premises to derive a cogent conclusion. To address this issue, we finetune a smaller-scale language model, equipping it to decompose proof objectives into more manageable subgoals. We also introduce contrastive decoding to stepwise proof generation, making use of negative reasoning paths to strengthen the model's capacity for logical deduction. Experiments on EntailmentBank underscore the success of our method in augmenting the proof planning abilities of language models.}
-}
+
 
 
 @inproceedings{Schlichtkrull2023AVeriTeCAD,
