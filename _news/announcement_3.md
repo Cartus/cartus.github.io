@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Five papers are accepted at [ICLR 2026](https://iclr.cc/) :tada:
+Five papers are accepted at [ICLR 2026](https://iclr.cc/) (1 Oral) :tada:
