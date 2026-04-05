@@ -6,17 +6,17 @@ inline: false
 related_posts: false
 ---
 
-Dr. Zhijiang Guo joined the Hong Kong University of Science and Technology (Guangzhou) as an Assistant Professor in Spring 2025. The research group hopes to recruit several PhD students for enrollment in 2026. We would greatly appreciate it if interested applicants could read the guidelines below and submit their applications via email as instructed. 
+We are actively seek strong and motivated MPhil/PhD students to join our group! We would greatly appreciate it if interested applicants could read the guidelines below and submit their applications via email as instructed. 
 
 ---
 
 ### About the Mentor
 
-Dr. Zhijiang Guo is an Assistant Professor at the DSA Thrust, Information Hub, HKUST (GZ). He is also an Affiliated Assistant Professor of HKUST. His research primarily focuses on natural language processing and machine learning, with a keen interest in large language models.
+Dr. Zhijiang Guo is an Assistant Professor at the DSA Thrust, Information Hub, HKUST (GZ). He is also an Affiliated Assistant Professor of HKUST. His research primarily focuses on natural language processing and machine learning, with a keen interest in Large Language Models (LLMs). He investigates the fundamental questions of LLMs and Agentic AI to enable rigorous reasoning, robust knowledge integration, efficient algorithms, and generalizable models that achieve superior reliability and scalability.
 
 Prior to joining HKUST (GZ), Dr. Guo was a Senior Researcher at Huawei's Noah’s Ark Lab. Before that, he was a Postdoctoral Researcher at the University of Cambridge. He earned his Ph.D. from SUTD, where he was also a visiting student at the University of Edinburgh, after completing his undergraduate studies at Sun Yat-sen University.
 
-He has published papers in leading conferences and journals such as ICML, NeurIPS, ICLR, COLM, TACL, ACL, EMNLP, and NAACL, with several selected for Oral or Spotlight presentations. He has served as an Area Chair (AC) for NeurIPS, ICLR, ACL, EMNLP, NAACL, and COLING, as well as a Senior Program Committee (SPC) member for AAAI and IJCAI. He has also been an Action Editor (AE) for the ACL Rolling Review and co-organized the FEVER workshop at ACL/EMNLP/EACL, and the AI for Math workshop at ICML.
+He has published papers in leading conferences and journals such as ICML, NeurIPS, ICLR, COLM, TACL, ACL, EMNLP, and NAACL, with several selected for Oral or Spotlight presentations. These publications have gathered 5,500+ citations on Google Scholar. He was recognized as a Stanford/Elsevier Top 2% Scientists in 2025. He has served as an Area Chair (AC) for NeurIPS, ICLR, ACL, EMNLP, and NAACL, as well as a Senior Program Committee (SPC) member for AAAI and IJCAI. He has also been an Action Editor (AE) for the ACL Rolling Review and co-organized the FEVER workshop at ACL/EMNLP/EACL, and the AI for Math workshop at ICML.
 
 ### About the University
 
@@ -24,20 +24,20 @@ Hong Kong University of Science and Technology (HKUST) is one of the leading res
 
 ### Research Interests
 
-In my early career, I primarily focused on semantics such as AMR, exploring how to derive them (semantic parsing), and how to apply them to various downstream tasks. Recently, I have shifted my attention toward knowledge and reasoning, delving into intriguing questions that intersect with these two areas in the context of LLMs.
+In my early career, I primarily focused on semantics such as AMR, exploring how to derive them (semantic parsing), and how to apply them to various downstream tasks. Recently, I have shifted my attention towards LLMs and Agentic AI, delving into intriguing questions that intersect with these two areas in the context of LLMs.
 
-- Reasoning: This area has become increasingly important in the era of LLMs. I am thrilled to collaborate with insightful researchers around the world. Some of my recent projects include [AutoPSV](https://arxiv.org/pdf/2405.16802v4) (Efficient automated process supervision), [LeCo](https://arxiv.org/pdf/2403.19094) (Efficient self-refine and improvements), [MR-BEN](https://arxiv.org/pdf/2406.13975v1) (Evaluate reasoning processes and reflection of LLMs), [EffiLearner](https://arxiv.org/pdf/2405.15189) (Self-Optimization with external feedback), and [DQ-LoRe](https://arxiv.org/pdf/2310.02954) (Retrieval-Augmented in-context learning). I am particularly interested in mathematical ([PDA](https://arxiv.org/pdf/2406.01940) and [FormalAlign](https://arxiv.org/pdf/2410.10135)) and coding tasks ([MHPP](https://arxiv.org/pdf/2405.11430) and [EffiCoder](https://arxiv.org/pdf/2410.10209)).
+- Reasoning: This area has become increasingly important in the era of LLMs. I am thrilled to collaborate with insightful researchers around the world. Some of my recent projects include [SvS](https://arxiv.org/pdf/2310.02954) (Data Synthesis for RLVR), [AutoPSV](https://arxiv.org/pdf/2405.16802v4) (Efficient automated process supervision), [MR-BEN](https://arxiv.org/pdf/2406.13975v1) (Evaluate reasoning processes and reflection of LLMs), [EffiLearner](https://arxiv.org/pdf/2405.15189) (Self-Optimization with external feedback), and [AoT](https://arxiv.org/pdf/2502.12018) (Scalable Test-Time Scaling). I am particularly interested in mathematical ([PDA](https://arxiv.org/pdf/2406.01940) and [FormalAlign](https://arxiv.org/pdf/2410.10135)) and coding tasks ([MHPP](https://arxiv.org/pdf/2405.11430), [EffiCoder](https://arxiv.org/pdf/2410.10209), and [CodeScaler](https://arxiv.org/pdf/2602.17684)).
 - Knowledge:  I’m glad to be conducting research on knowledge-intensive tasks in Andreas's group during my postdoc. I mainly focus on how to leverage external knowledge (through retrieval-augmented methods) and internal knowledge (LLMs themselves) to solve problems. This includes applications in question-answering and fact-checking. If you’re unfamiliar with fact-checking, I invite you to check out our [TACL survey](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00454/109469/A-Survey-on-Automated-Fact-Checking). Some recent works in this area include [FEVEROUS](https://arxiv.org/pdf/2106.05707) (Exploring structured and unstructured knowledge), [AVeriTec](https://arxiv.org/pdf/2305.13117) (Addressing real-world fact-checking with external knowledge), [Pinocchio](https://arxiv.org/pdf/2310.05177) (Investigating how LLMs encode factual knowledge), [CtrlA](https://arxiv.org/pdf/2405.18727) (Enhancing adaptive retrieval-augmented generation), and [knowledge conflicts](https://arxiv.org/pdf/2403.08319) (Between internal and external Knowledge of LLMs).
 
 Other Interests:
 
 - Long Contexts: While previous methods often struggled, there has been significant progress in the last 1-2 years. Recent work has focused on knowledge-intensive long-context tasks, including [ProxyQA](https://arxiv.org/pdf/2401.15042) (Evaluating long-form generation) and [Long2Rag](https://arxiv.org/pdf/2410.23000) (Retrieval-augmented generation under long contexts).
 - Efficient Methods: Given the cost implications of LLMs, I have been particularly interested in developing efficient approaches. Beyond the efficient reasoning and coding efforts mentioned earlier, I have also been involved in research on efficient fine-tuning and decoding, such as [HydraLora](https://arxiv.org/pdf/2404.19245) (Efficient asymmetric structure of LoRA), [Unite](https://arxiv.org/pdf/2410.03777) (Efficient probability-Level LLM ensembling).
-- LLMs-as-Judges: With their capabilities, LLMs can often be used for evaluation of many things, such as assessing natural language generation or serving as a reward model. Recent projects in this area include [PairS](https://arxiv.org/pdf/2403.16950) (Enhancing alignment with human preferences) and [RePair](https://arxiv.org/pdf/2410.02205?) (nhances logical consistency while maintaining alignment with human preferences).
+- Alignment: With their capabilities, LLMs can often be used for evaluation of many things, such as assessing natural language generation or serving as a reward model. Recent projects in this area include [PairS](https://arxiv.org/pdf/2403.16950) (Enhancing alignment with human preferences) and [RePair](https://arxiv.org/pdf/2410.02205?) (enhances logical consistency).
 
 ### Experience in Mentoring
 
-He has mentored over ten students at Cambridge and Huawei Noah's Ark, most of whom have published papers at top conferences, including their first papers. I respect students' interests and am dedicated to helping them grow in all aspects. I have written recommendation letters for many of my collaborating students (the application season is quite exhausting though). You can find the students I have mentored [here](https://cartus.github.io/members/). For more about my mentoring style, feel free to contact them; I have obtained their consent for this XD.
+He has mentored over ten students at Cambridge and Huawei Noah's Ark, most of whom have published papers at top conferences, including their first papers. I respect students' interests and am dedicated to helping them grow in all aspects. I have written recommendation letters for many of my collaborating students (the application season is quite exhausting, though). You can find the students I have mentored [here](https://cartus.github.io/members/). For more about my mentoring style, feel free to contact them; I have obtained their consent for this XD.
 
 ### For PhD Students
 
@@ -50,13 +50,14 @@ I am currently looking for students to start in the fall of 2026. Here are some 
 
 I will give priority to applicants who meet the following criteria:
 
-- Experience in large language models, machine learning, or natural language processing, with publications in key conferences such as ML (ICML/NeurIPS/ICLR), NLP (ACL/EMNLP/NAACL/EACL), or LLM (COLM). I focus on these venues, as well as some journals (TACL/TMLR).
+- Experience in LLMs or Agentic AI, with publications in key conferences such as ML (ICML/NeurIPS/ICLR), NLP (ACL/EMNLP/NAACL/EACL), or LLM (COLM). I focus on these venues, as well as some journals (TPAMI/TACL/TMLR).
+- Experience in LLMs in the Industry.
 - Strong programming abilities and involvement in meaningful open-source projects related to LLMs.
-- Previous experience as a research assistant in our lab or collaborators. I value working with individuals with whom I have had positive experiences, as our time together during the PhD will be collaborative and intensive.
+- Previous experience as a research assistant in our lab or with collaborators. I value working with individuals with whom I have had positive experiences, as our time together during the PhD will be collaborative and intensive.
 
 ### For Research Assistant/Intern/Visitors
 
-I have already welcomed multiple interns, research assistants, and visitors. At this time, I do not have plans to recruit additional team members. I will update this post when these new positions become available.
+**I have already welcomed multiple interns, research assistants, and visitors. At this time, I do not have plans to recruit these additional team members.** I will update this post when these new positions become available.
 
 - My main goal is for the team to focus on a few key research areas. If our interests diverge significantly, it may be challenging for me to provide effective guidance. To ensure I can engage with all students' research, I plan to limit the number of recruits.
 - You can start in the spring without waiting until the fall. If our collaboration goes well, I would be delighted to have you continue as a PhD student. If you're interested in exploring opportunities elsewhere, I would be more than happy to recommend you to other institutions abroad; this year, I’ve already submitted over 30 recommendation letters for two students based on our joint work.
@@ -65,7 +66,7 @@ I have already welcomed multiple interns, research assistants, and visitors. At 
 
 ### For MPhil Students
 
-I am unable to recruit any MPhil students. Please apply through the university's application system. If you have already been admitted, feel free to email me if you're interested in exploring any research directions within our group.
+I am unable to recruit any MPhil students. Please apply through the university's application system. **If you have already been admitted, feel free to email me if you're interested in exploring any research directions within our group.**
 
 ### Some Key Points
 
