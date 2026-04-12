@@ -85,6 +85,19 @@
   abstract = {Large Language Models (LLMs) have recently achieved remarkable progress by leveraging Reinforcement Learning and extended Chain-of-Thought (CoT) techniques. However, the challenge of performing efficient language reasoning--especially during inference with extremely long outputs--has drawn increasing attention from the research community. In this work, we propose a dynamic ratio-based training pipeline that does not rely on sophisticated data annotations or interpolation between multiple models. We continuously balance the weights between the model's System-1 and System-2 data to eliminate redundant reasoning processes while preserving the model's reasoning capability. We validate our approach across models on DeepSeek-R1-Distill-7B and DeepSeek-R1-Distill-14B and on a diverse set of benchmarks with varying difficulty levels. Our method significantly reduces the number of output tokens by nearly 40% while maintaining the accuracy of the reasoning. Our code and data will be available soon.}
 }
 
+@inproceedings{WuChainFed2026,
+  abbr={ACL},
+  title={Beyond End-to-End: Dynamic Chain Optimization for Private LLM Adaptation on the Edge},
+  author={Yebo Wu and Jingguang Li and Chunlin Tian and Kahou Tam and Zhijiang Guo† and Li Li†},
+  booktitle={ACL},
+  year={2026},
+  html       = {https://arxiv.org/pdf/2604.06819},
+  selected   = {false},
+  preview = {ChainFed.png},
+  annotation   = {* denotes Equal Contribution. † denotes Corresponding Author.},
+  abstract = {Federated fine-tuning enables privacy-preserving LLM adaptation but faces a critical bottleneck: the disparity between LLMs' high memory demands and edge devices' limited capacity. To break the memory barrier, we propose Chain Federated Fine-Tuning (ChainFed), an innovative paradigm that forgoes end-to-end updates in favor of a sequential, layer-by-layer manner. It first trains the initial adapter to convergence, freezes its weights, and then proceeds to the next. This iterative train-and-freeze process forms an optimization chain, gradually enhancing the model's task-specific proficiency. ChainFed further integrates three core techniques: 1) Dynamic Layer Co-Tuning to bridge semantic gaps between sequentially tuned layers and facilitate information flow; 2) Globally Perceptive Optimization to endow each adapter with foresight beyond its local objective; 3) Function-Oriented Adaptive Tuning to automatically identify the optimal fine-tuning starting point. Extensive experiments on multiple benchmarks demonstrate the superiority of ChainFed over existing methods, boosting average accuracy by up to 46.46\%.}
+}
+
 
 @inproceedings{Wu2026Survey,
   abbr={TMLR},
@@ -618,7 +631,7 @@
   year={2024},
   html       = {https://arxiv.org/pdf/2403.19094},
   code       = {https://github.com/starrYYxuan/LeCo},
-  selected   = {true},
+  selected   = {false},
   preview = {LeCo.png},
   annotation   = {* denotes Equal Contribution. † denotes Corresponding Author.},
   abstract = {Large language models (LLMs) have demonstrated outstanding performance across various tasks, yet they still exhibit limitations such as hallucination, unfaithful reasoning, and toxic content. One potential approach to mitigate these issues is learning from human or external feedback (e.g. tools). In this paper, we introduce an intrinsic self-correct reasoning framework for LLMs that eliminates the need for human feedback, external tools, and handcraft prompts. The proposed framework, based on a multi-step reasoning paradigm \textbf{Le}arning from \textbf{Co}rrectness (\textsc{LeCo}), improves reasoning performance without needing to learn from errors. This paradigm prioritizes learning from correct reasoning steps, and a unique method to measure confidence for each reasoning step based on generation logits. Experimental results across various multi-step reasoning tasks demonstrate the effectiveness of the framework in improving reasoning performance with reduced token consumption.}
