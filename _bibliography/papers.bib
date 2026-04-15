@@ -99,6 +99,22 @@
 }
 
 
+@inproceedings{Li2025System2,
+  abbr={TPAMI},
+  title={From System 1 to System 2: A Survey of Reasoning Large Language Models},
+  author={Zhong-Zhi Li* and Duzhen Zhang* and Ming-Liang Zhang and Jiaxin Zhang and Zengyan Liu and Yuxuan Yao and Haotian Xu and Junhao Zheng and Pei-Jie Wang and Xiuyi Chen and Yingying Zhang and Fei Yin and Jiahua Dong and Zhiwei Li and Bao-Long Bi and Ling-Rui Mei and Junfeng Fang and Xiao Liang and Zhijiang Guo† and Le Song† and Cheng-Lin Liu†},
+  booktitle={TPAMI},
+  year={2026},
+  html       = {https://arxiv.org/pdf/2502.17419},
+  code       = {https://github.com/zzli2022/Awesome-System2-Reasoning-LLM},
+  selected   = {true},
+  preview = {System2.png},
+  annotation   = {* denotes Equal Contribution. † denotes Corresponding Author.},
+  abstract = {Achieving human-level intelligence requires refining the transition from the fast, intuitive System 1 to the slower, more deliberate System 2 reasoning. While System 1 excels in quick, heuristic decisions, System 2 relies on logical reasoning for more accurate judgments and reduced biases. Foundational Large Language Models (LLMs) excel at fast decision-making but lack the depth for complex reasoning, as they have not yet fully embraced the step-by-step analysis characteristic of true System 2 thinking. Recently, reasoning LLMs like OpenAI's o1/o3 and DeepSeek's R1 have demonstrated expert-level performance in fields such as mathematics and coding, closely mimicking the deliberate reasoning of System 2 and showcasing human-like cognitive abilities. This survey begins with a brief overview of the progress in foundational LLMs and the early development of System 2 technologies, exploring how their combination has paved the way for reasoning LLMs. Next, we discuss how to construct reasoning LLMs, analyzing their features, the core methods enabling advanced reasoning, and the evolution of various reasoning LLMs. Additionally, we provide an overview of reasoning benchmarks, offering an in-depth comparison of the performance of representative reasoning LLMs. Finally, we explore promising directions for advancing reasoning LLMs and maintain a real-time \href{this https URL}{GitHub Repository} to track the latest developments. We hope this survey will serve as a valuable resource to inspire innovation and drive progress in this rapidly evolving field.}
+}
+
+
+
 @inproceedings{Wu2026Survey,
   abbr={TMLR},
   title={A Survey on Federated Fine-Tuning of Large Language Models},
@@ -112,6 +128,23 @@
   annotation   = {* denotes Equal Contribution. † denotes Corresponding Author.},
   abstract = {Large Language Models (LLMs) have demonstrated impressive success across various tasks. Integrating LLMs with Federated Learning (FL), a paradigm known as FedLLM, offers a promising avenue for collaborative model adaptation while preserving data privacy. This survey provides a systematic and comprehensive review of FedLLM. We begin by tracing the historical development of both LLMs and FL, summarizing relevant prior research to set the context. Subsequently, we delve into an in-depth analysis of the fundamental challenges inherent in deploying FedLLM. Addressing these challenges often requires efficient adaptation strategies; therefore, we conduct an extensive examination of existing Parameter-Efficient Fine-tuning (PEFT) methods and explore their applicability within the FL framework. To rigorously evaluate the performance of FedLLM, we undertake a thorough review of existing fine-tuning datasets and evaluation benchmarks. Furthermore, we discuss FedLLM's diverse real-world applications across multiple domains. Finally, we identify critical open challenges and outline promising research directions to foster future advancements in FedLLM. This survey aims to serve as a foundational resource for researchers and practitioners, offering valuable insights into the rapidly evolving landscape of federated fine-tuning for LLMs. It also establishes a roadmap for future innovations in privacy-preserving AI. We actively maintain a GitHub repo \href{this https URL}{this https URL} to track cutting-edge advancements in this field.}
 }
+
+
+
+@inproceedings{Xu2024DebateQAEQ,
+  abbr={EACL},
+  title={DebateQA: Evaluating Question Answering on Debatable Knowledge},
+  author={Rongwu Xu* and Xuan Qi* and Zehan Qi and Wei Xu and Zhijiang Guo},
+  booktitle={Findings of EACL},
+  year={2026},
+  html       = {https://arxiv.org/pdf/2408.01419},
+  code       = {https://github.com/pillowsofwind/DebateQA},
+  selected   = {false},
+  preview = {DebateQA.png},
+  annotation   = {* denotes Equal Contribution. † denotes Corresponding Author.},
+  abstract = {The rise of large language models (LLMs) has enabled us to seek answers to inherently debatable questions on LLM chatbots, necessitating a reliable way to evaluate their ability. However, traditional QA benchmarks assume fixed answers are inadequate for this purpose. To address this, we introduce DebateQA, a dataset of 2,941 debatable questions, each accompanied by multiple human-annotated partial answers that capture a variety of perspectives. We develop two metrics: Perspective Diversity, which evaluates the comprehensiveness of perspectives, and Dispute Awareness, which assesses if the LLM acknowledges the question's debatable nature. Experiments demonstrate that both metrics align with human preferences and are stable across different underlying models. Using DebateQA with two metrics, we assess 12 popular LLMs and retrieval-augmented generation methods. Our findings reveal that while LLMs generally excel at recognizing debatable issues, their ability to provide comprehensive answers encompassing diverse perspectives varies considerably.}
+}
+
 
 
 
@@ -146,19 +179,6 @@
 
 
 
-@inproceedings{Li2025System2,
-  abbr={TPAMI},
-  title={From System 1 to System 2: A Survey of Reasoning Large Language Models},
-  author={Zhong-Zhi Li* and Duzhen Zhang* and Ming-Liang Zhang and Jiaxin Zhang and Zengyan Liu and Yuxuan Yao and Haotian Xu and Junhao Zheng and Pei-Jie Wang and Xiuyi Chen and Yingying Zhang and Fei Yin and Jiahua Dong and Zhijiang Guo† and Le Song† and Cheng-Lin Liu†},
-  booktitle={TPAMI},
-  year={2025},
-  html       = {https://arxiv.org/pdf/2502.17419},
-  code       = {https://github.com/zzli2022/Awesome-System2-Reasoning-LLM},
-  selected   = {true},
-  preview = {System2.png},
-  annotation   = {* denotes Equal Contribution. † denotes Corresponding Author.},
-  abstract = {Achieving human-level intelligence requires refining the transition from the fast, intuitive System 1 to the slower, more deliberate System 2 reasoning. While System 1 excels in quick, heuristic decisions, System 2 relies on logical reasoning for more accurate judgments and reduced biases. Foundational Large Language Models (LLMs) excel at fast decision-making but lack the depth for complex reasoning, as they have not yet fully embraced the step-by-step analysis characteristic of true System 2 thinking. Recently, reasoning LLMs like OpenAI's o1/o3 and DeepSeek's R1 have demonstrated expert-level performance in fields such as mathematics and coding, closely mimicking the deliberate reasoning of System 2 and showcasing human-like cognitive abilities. This survey begins with a brief overview of the progress in foundational LLMs and the early development of System 2 technologies, exploring how their combination has paved the way for reasoning LLMs. Next, we discuss how to construct reasoning LLMs, analyzing their features, the core methods enabling advanced reasoning, and the evolution of various reasoning LLMs. Additionally, we provide an overview of reasoning benchmarks, offering an in-depth comparison of the performance of representative reasoning LLMs. Finally, we explore promising directions for advancing reasoning LLMs and maintain a real-time \href{this https URL}{GitHub Repository} to track the latest developments. We hope this survey will serve as a valuable resource to inspire innovation and drive progress in this rapidly evolving field.}
-}
 
 @inproceedings{Teng2025aot,
   abbr={NeurIPS},
@@ -370,20 +390,6 @@
   abstract = {Large language models (LLMs) have exhibited their problem-solving abilities in mathematical reasoning. Solving realistic optimization (OPT) problems in application scenarios requires advanced and applied mathematics ability. However, current OPT benchmarks that merely solve linear programming are far from complex realistic situations. In this work, we propose OptiBench, a benchmark for End-to-end optimization problem-solving with human-readable inputs and outputs. OptiBench contains rich optimization problems, including linear and nonlinear programming with or without tabular data, which can comprehensively evaluate LLMs' solving ability. In our benchmark, LLMs are required to call a code solver to provide precise numerical answers. Furthermore, to alleviate the data scarcity for optimization problems, and to bridge the gap between open-source LLMs on a small scale (e.g., Llama-3-8b) and closed-source LLMs (e.g., GPT-4), we further propose a data synthesis method namely ReSocratic. Unlike general data synthesis methods that proceed from questions to answers, \ReSocratic first incrementally synthesizes formatted optimization demonstration with mathematical formulations step by step and then back-translates the generated demonstrations into questions. Based on this, we synthesize the ReSocratic-29k dataset. We further conduct supervised fine-tuning with ReSocratic-29k on multiple open-source models. Experimental results show that ReSocratic-29k significantly improves the performance of open-source models.}
 }
 
-
-@inproceedings{Xu2024DebateQAEQ,
-  abbr={EACL},
-  title={DebateQA: Evaluating Question Answering on Debatable Knowledge},
-  author={Rongwu Xu* and Xuan Qi* and Zehan Qi and Wei Xu and Zhijiang Guo},
-  booktitle={Findings of EACL},
-  year={2025},
-  html       = {https://arxiv.org/pdf/2408.01419},
-  code       = {https://github.com/pillowsofwind/DebateQA},
-  selected   = {false},
-  preview = {DebateQA.png},
-  annotation   = {* denotes Equal Contribution. † denotes Corresponding Author.},
-  abstract = {The rise of large language models (LLMs) has enabled us to seek answers to inherently debatable questions on LLM chatbots, necessitating a reliable way to evaluate their ability. However, traditional QA benchmarks assume fixed answers are inadequate for this purpose. To address this, we introduce DebateQA, a dataset of 2,941 debatable questions, each accompanied by multiple human-annotated partial answers that capture a variety of perspectives. We develop two metrics: Perspective Diversity, which evaluates the comprehensiveness of perspectives, and Dispute Awareness, which assesses if the LLM acknowledges the question's debatable nature. Experiments demonstrate that both metrics align with human preferences and are stable across different underlying models. Using DebateQA with two metrics, we assess 12 popular LLMs and retrieval-augmented generation methods. Our findings reveal that while LLMs generally excel at recognizing debatable issues, their ability to provide comprehensive answers encompassing diverse perspectives varies considerably.}
-}
 
 
 @inproceedings{Liu2024CtrlAAR,
