@@ -10,7 +10,7 @@ nav_order: 4
 ---
 ## Academic Services
 
-- **Area Chair**: NeurIPS 2025, ICLR 2025, EMNLP 2024 (Machine Learning for NLP), ACL 2024 (Interpretability and Analysis), COLING 2024 (Machine Learning), EMNLP 2023 (NLP Application), EMNLP 2022 (Semantics)
+- **Area Chair**: NeurIPS 2026, ICLR 2026, NeurIPS 2025, ICLR 2025, EMNLP 2024 (Machine Learning for NLP), ACL 2024 (Interpretability and Analysis), COLING 2024 (Machine Learning), EMNLP 2023 (NLP Application), EMNLP 2022 (Semantics)
 - **Action Editor**: ACL ARR (2023-Present)
 - **Senior Program Committee**: AAAI 2024, AAAI 2023, IJCAI 2022
 - **Standing Reviewer**: Computational Linguistics 
@@ -18,6 +18,9 @@ nav_order: 4
 - **Journal**: Machine Learning/TACL/TKDE/TALLIP/TASLP/TOIS
     
 ## Workshops Organization
+
+- **ICML 2026 Workshop**: [The 3nd AI for Math Workshop](https://ai4math2026.github.io/)
+- **EACL 2026 Workshop**: [The Ninth Fact Extraction and VERification (FEVER)](https://fever.ai/)
 - **ICML 2025 Workshop**: [The 2nd AI for Math Workshop](https://sites.google.com/view/ai4mathworkshopicml2025)
 - **ACL 2025 Workshop**: [The Eighth Fact Extraction and VERification (FEVER)](https://fever.ai/)
 - **EMNLP 2024 Workshop**: [The Seventh Fact Extraction and VERification (FEVER)](https://fever.ai/)
