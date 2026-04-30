@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Five papers are accepted at [EMNLP 2025](https://2025.emnlp.org/) (3 Main+2 Findings) :tada:
+Five papers are accepted at [ICML 2026](https://icml.cc/) (1 Spotlight) :tada:
