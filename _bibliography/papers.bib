@@ -65,6 +65,7 @@
   booktitle    = {ICLR},
   year={2026},
   html       = {https://arxiv.org/pdf/2510.07896?},
+  code       = {https://github.com/yjywdzh/ACE}
   selected   = {false},
   preview = {ACE.png},
   annotation   = {* denotes Equal Contribution. † denotes Corresponding Author.},
@@ -140,6 +141,17 @@
   abstract = {Federated fine-tuning enables privacy-preserving LLM adaptation but faces a critical bottleneck: the disparity between LLMs' high memory demands and edge devices' limited capacity. To break the memory barrier, we propose Chain Federated Fine-Tuning (ChainFed), an innovative paradigm that forgoes end-to-end updates in favor of a sequential, layer-by-layer manner. It first trains the initial adapter to convergence, freezes its weights, and then proceeds to the next. This iterative train-and-freeze process forms an optimization chain, gradually enhancing the model's task-specific proficiency. ChainFed further integrates three core techniques: 1) Dynamic Layer Co-Tuning to bridge semantic gaps between sequentially tuned layers and facilitate information flow; 2) Globally Perceptive Optimization to endow each adapter with foresight beyond its local objective; 3) Function-Oriented Adaptive Tuning to automatically identify the optimal fine-tuning starting point. Extensive experiments on multiple benchmarks demonstrate the superiority of ChainFed over existing methods, boosting average accuracy by up to 46.46\%.}
 }
 
+@inproceedings{,
+  abbr={ACL},
+  title={Spotlight and Shadow: Attention-Guided Dual-Anchor Introspective Decoding for MLLM Hallucination Mitigation},
+  author={Yebo Wu and Han Jin and Zhijiang Guo† and Li Li†},
+  booktitle={Findings of ACL},
+  year={2026},
+  html       = {https://arxiv.org/pdf/2604.10071},
+  selected   = {false},
+  preview = {DaiD.png},
+  abstract = {Multimodal Large Language Models (MLLMs) have demonstrated remarkable reasoning capabilities yet continue to suffer from hallucination, where generated text contradicts visual content. In this paper, we introduce Dual-Anchor Introspective Decoding (DaID), a novel contrastive decoding framework that dynamically calibrates each token generation by mining the model's internal perceptual discrepancies. Specifically, DaID identifies a Spotlight layer to amplify visual factual signals and a Shadow layer to suppress textual inertia. By leveraging visual attention distributions to guide this dual-anchor selection process, our method ensures precise, token-specific adaptation. Experimental results across multiple benchmarks and MLLMs demonstrate that DaID significantly mitigates hallucination while enhancing general reasoning capabilities.}
+}
 
 @inproceedings{Li2025System2,
   abbr={TPAMI},
