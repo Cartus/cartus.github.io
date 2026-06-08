@@ -9,7 +9,7 @@ nav_order: 3
 
 ---
 
-Check our lab homepage: [Lark Lab](https://lark-lab-hkustgz.github.io/)
+Check our lab homepage: [Lark Lab (Language Agent Reasoning & Knowledge))](https://lark-lab-hkustgz.github.io/)
 
 ## Interns/RAs/Visitors
 
@@ -30,7 +30,7 @@ Check our lab homepage: [Lark Lab](https://lark-lab-hkustgz.github.io/)
 - Yingping Wang (Co-supervise with Prof. Jiayi Huang): MS from Shenzhen University (Spring 2025)
 
 ## Mphils
-- Zilin Wang: BS Harbin Institute of Technology (Shenzhen) (Fall 2025)
+- [Zilin Wang](https://terr1blec.github.io/): BS Harbin Institute of Technology (Shenzhen) (Fall 2025)
 - Chao Chen: BS Shanghai Jiao Tong University (Fall 2025)
 - Baiyu Huang: BS Peking University (Fall 2025)
 - [Chenyu Yuan](https://chenyuy001.github.io/) (Co-supervise with Prof. Jiayi Huang): BS Harbin Institute of Technology (Fall 2025)
