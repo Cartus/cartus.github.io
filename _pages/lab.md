@@ -50,7 +50,7 @@ I was fortunate to work with the following talented students/interns:
 - [Jing Xiong](https://menik1126.github.io/): Master at Sun Yat-sen University, to PhD at University of Hong Kong
 - [Rongwu Xu](https://rongwuxu.com/): Master at Tsinghua University, to PhD at University of Washington
 - [Dong Huang](https://huangd1999.github.io/): PhD at University of Hong Kong, to Postdoctoral Researcher at National University of Singapore
-- [Fengwei Teng](https://qixucen.github.io/): Bachelor from Renmin University of China, to Student Researcher at Beijing Academy of Artificial Intelligence
+- [Fengwei Teng](https://qixucen.github.io/): Bachelor from Renmin University of China, to Research Engineer at MBZUAI
 - [Yuxuan Yao](https://scholar.google.com.hk/citations?user=PLe5qQEAAAAJ&hl=zh-CN): PhD at City University of Hong Kong
 - [Chunlin Tian](https://clin0212.github.io/): PhD at University of Macau
 - [Zhicheng Yang](https://yangzhch6.github.io/): PhD at Hong Kong University of Science and Technology (Guangzhou)
