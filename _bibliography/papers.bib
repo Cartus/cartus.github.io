@@ -2,16 +2,19 @@
 ---
 
 
+
+
 @inproceedings{Wang2026FormalRx,
   abbr={ICML},
   title={FormalRx: Rectify and eXamine Semantic Failures in Autoformalization},
-  author={Haocheng Wang and Baiyu Huang and Yingjia Wan and Xiao Zhu and Xiaoyang Liu and Yinya Huang and Zhijiang Guo},
+  author={Haocheng Wang* and Baiyu Huang* and Yingjia Wan* and Xiao Zhu and Xiaoyang Liu and Yinya Huang† and Zhijiang Guo†},
   booktitle={ICML},
   year={2026},
   html       = {https://arxiv.org/pdf/2607.04655},
   code       = {https://lark-ai-lab.github.io/formalrx/},
   selected   = {false},
   preview = {FormalRx.png},
+  annotation   = {* denotes Equal Contribution. † denotes Corresponding Author.},
   abstract = {The veracious semantic alignment in autoformalization is significant for formal mathematical reasoning. However, existing evaluations provide only opaque binary verdicts or scalar scores, offering no interpretable insight into where or why translations fail. This opacity severely limits both human understanding and automated system improvement. To bridge this gap, we introduce FormalRx, a comprehensive diagnostic evaluation framework that transforms autoformalization assessment from black-box judgments into actionable feedback. At its core is SCI Error Taxonomy, a hierarchical classification scheme decomposing autoformalization errors into 28 distinct categories with strict priority ordering. Building on this taxonomy, FormalRx provides four critical diagnostic capabilities: alignment verdicts, error categorization, error localization, and correction. We instantiate the framework with a diagnostic model FormalRx-8B, trained on 56,287 NL-FL pairs with fine-grained diagnostic annotations, and release FormalRx-Test as the first fine-grained diagnostic benchmark. FormalRx-8B achieves F1-scores of 0.88 (verdict) and 0.71 (categorization), along with accuracies of 0.75 (localization) and 0.73 (correction), substantially outperforming both general-purpose LLMs and specialized baselines. By connecting evaluation with actionable insights, FormalRx enables systematic diagnosis and improvement of autoformalization systems.}
 }
 
@@ -24,9 +27,24 @@
   html       = {https://arxiv.org/pdf/2512.00902},
   selected   = {false},
   preview = {SmartFed.png},
+  annotation   = {* denotes Equal Contribution. † denotes Corresponding Author.},
   abstract = {Federated fine-tuning offers a promising solution for adapting Large Language Models (LLMs) to downstream tasks while safeguarding data privacy. However, its high computational and communication demands hinder its deployment on resource-constrained devices. In this paper, we propose SmartFed, a resource-efficient federated fine-tuning framework. SmartFed intelligently reuses knowledge embedded in existing LoRA modules, eliminating the need for expensive training from scratch when adapting LLMs to new tasks. To effectively exploit this knowledge and ensure scalability, we introduce the Mixture of Rank-Wise Experts (MoRE). MoRE decomposes LoRA modules into fine-grained rank-level experts. These experts are selectively activated and combined based on input semantics and resource budgets. Moreover, to optimize resource utilization, we present the Elastic Expert Quota Allocation (EEQA). EEQA adaptively allocates expert capacity across parameter matrices based on their contribution to model performance, focusing computing resources on the critical experts. Extensive evaluations across multiple benchmarks demonstrate that SmartFed significantly outperforms existing methods in model performance and training efficiency.}
 }
 
+
+@inproceedings{Deng2026Clarify,
+  abbr={ICML},
+  title={Uncertainty-Aware Clarification in LLM Agents with Information Gain},
+  author={Mengyi Deng and Zhiwei Li and Xin Li and Tingyu Zhu and Ying Zhao and Zhijiang Guo† and Wei Wang†},
+  booktitle={ICML},
+  year={2026},
+  html       = {https://arxiv.org/pdf/2606.03135},
+  code       = {https://github.com/Demi-deng2/IG-clarifier},
+  selected   = {true},
+  preview = {Clarifier.png},
+  annotation   = {* denotes Equal Contribution. † denotes Corresponding Author.},
+  abstract = {Large Language Model (LLM) agents often operate under underspecified user instructions, where latent uncertainty over user intent leads to erroneous tool actions. To address this challenge, we propose a goal-oriented clarification framework that aligns clarification behavior with ambiguity resolution. Central to our approach is the Information Gain Reward, a metric that quantifies the utility of clarification questions by measuring the Bayesian belief update towards the ground-truth goal induced by the clarification exchange. We train the clarifier (LLM) using this reward to optimize for high information gain, ensuring that clarifications effectively reduce uncertainty and improve task completion within the agent-tool-user environment. We validate our framework within a clarification-enhanced -Bench environment, conducting cross-agent evaluations across five heterogeneous backbones. Empirical results demonstrate that our method consistently improves the success rate by 3.7\% over the no-clarification baseline, while adding only 0.3 total interaction steps on average.}
+}
 
 @inproceedings{Yang206Accordian,
   abbr={ICML},
