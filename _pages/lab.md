@@ -19,10 +19,10 @@ Check our lab homepage: [Lark Lab (Language Agent Reasoning & Knowledge))](https
 
 
 ## PhDs
-- [Zhiwei Li](https://digbangbang.github.io/): MS Fudan University (Prev. Meituan, Fall 2025)
-- [Xinyu Zhou](https://blackzxy.github.io/): MS Swiss Federal Technology Institute of Lausanne  (Prev. Shanghai AI Lab, Fall 2025)
-- [Minrui Xu](https://rolandminrui.github.io/rolandminrui-homepage/): BS Hong Kong University of Science and Technology (Prev. MSRA, Spring 2026)
-- [Haocheng Wang](https://scholar.google.com/citations?user=HLJz8yIAAAAJ&hl=en): BS Xiamen University (Prev. DeepSeek AI; ByteDance Research; ETH Zurich, Spring 2026)
+- [Zhiwei Li](https://digbangbang.github.io/): MS Fudan University (Prev. Meituan, With Tencent Hunyuan, Fall 2025)
+- [Xinyu Zhou](https://blackzxy.github.io/): MS Swiss Federal Technology Institute of Lausanne  (Prev. Shanghai AI Lab; KwaiPilot; With Meituan LongCat, Fall 2025)
+- [Minrui Xu](https://rolandminrui.github.io/rolandminrui-homepage/): BS Hong Kong University of Science and Technology (Prev. MSRA, With ByteDance, Spring 2026)
+- [Haocheng Wang](https://scholar.google.com/citations?user=HLJz8yIAAAAJ&hl=en): BS Xiamen University (Prev. DeepSeek AI; ByteDance Research; Visit ETH Zurich, Spring 2026)
 - Qingsong Lyu: MS Tsinghua University (Prev. Ant Group, Fall 2026)
 - Yilong Xu: MS Chinese Academy of Sciences (Prev. Alibaba, Fall 2026)
 - Zhuang Yu: MS Shanghai Jiao Tong University (Prev. Huawei, Fall 2026)
@@ -34,8 +34,8 @@ Check our lab homepage: [Lark Lab (Language Agent Reasoning & Knowledge))](https
 - Chao Chen: BS Shanghai Jiao Tong University (Fall 2025)
 - Baiyu Huang: BS Peking University (Fall 2025)
 - [Chenyu Yuan](https://chenyuy001.github.io/) (Co-supervise with Prof. Jiayi Huang): BS Harbin Institute of Technology (Fall 2025)
-- [Xiao Zhu](https://hexagonstar.github.io/) (Co-supervise with Prof. Yanlin Zhang): BS Beijing University of Posts and Telecommunications (Fall 2024)
-- [Jiayu Yang](https://yjywdzh.github.io/) (Co-supervise with Prof. Yutao Yue): BS Chongqing University (Fall 2024)
+- [Xiao Zhu](https://hexagonstar.github.io/) (Co-supervise with Prof. Yanlin Zhang): BS Beijing University of Posts and Telecommunications (Intern at Zhipu AI, Fall 2024)
+- [Jiayu Yang](https://yjywdzh.github.io/) (Co-supervise with Prof. Yutao Yue): BS Chongqing University (Intern at Tencent Hunyuan, Fall 2024)
 
 
 ---
