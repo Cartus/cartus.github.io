@@ -9,45 +9,45 @@ nav_order: 3
 
 ---
 
-Check our lab homepage: [Lark Lab (Language Agent Reasoning & Knowledge))](https://lark-lab-hkustgz.github.io/)
+Check our lab homepage: [LARK Lab (Language Agent Reasoning & Knowledge))](https://lark-lab-hkustgz.github.io/)
 
 ## Interns/RAs/Visitors
 
-- [Langqi Liu](https://liurunky.github.io/): MS Nanjing University
-- [Zhongzhi Li](https://zzli2022.github.io/): PhD Chinese Academy of Sciences
+- [Langqi Liu](https://liurunky.github.io/): MS NJU
+- [Zhongzhi Li](https://zzli2022.github.io/): PhD CAS
 
 
 ## PhDs
-- [Zhiwei Li](https://digbangbang.github.io/): MS Fudan University (Prev. Meituan, With Tencent Hunyuan, Fall 2025)
-- [Xinyu Zhou](https://blackzxy.github.io/): MS Swiss Federal Technology Institute of Lausanne  (Prev. Shanghai AI Lab; KwaiPilot; With Meituan LongCat, Fall 2025)
-- [Minrui Xu](https://rolandminrui.github.io/rolandminrui-homepage/): BS Hong Kong University of Science and Technology (Prev. MSRA, With ByteDance, Spring 2026)
-- [Haocheng Wang](https://scholar.google.com/citations?user=HLJz8yIAAAAJ&hl=en): BS Xiamen University (Prev. DeepSeek AI; ByteDance Seed; Visit ETH Zurich, Spring 2026)
-- Qingsong Lyu: MS Tsinghua University (Prev. Ant Group, Fall 2026)
-- Yilong Xu: MS Chinese Academy of Sciences (Prev. Alibaba, Fall 2026)
-- Zhuang Yu: MS Shanghai Jiao Tong University (Prev. Huawei, Fall 2026)
+- [Zhiwei Li](https://digbangbang.github.io/): MS FDU (Prev. Meituan, With Tencent Hunyuan, Fall 2025)
+- [Xinyu Zhou](https://blackzxy.github.io/): MS EPFL (Prev. Shanghai AI Lab; KwaiPilot; With Meituan LongCat, Fall 2025)
+- [Minrui Xu](https://rolandminrui.github.io/rolandminrui-homepage/): BS HKUST (Prev. MSRA, With ByteDance, Spring 2026)
+- [Haocheng Wang](https://scholar.google.com/citations?user=HLJz8yIAAAAJ&hl=en): BS XMU (Prev. DeepSeek AI, ByteDance Seed; Visit ETH Zurich, Spring 2026)
+- Qingsong Lyu: MS THU (Prev. Ant Group Ring, Fall 2026)
+- Yilong Xu: MS CAS (Prev. Alibaba, Fall 2026)
+- Zhuang Yu: MS SJTU (Prev. Huawei, Fall 2026)
 
 ### Co-supervision
 - [Songxin Lei](https://thunderlrr.github.io/songxinlei.github.io/) (Co-supervised with Prof. Fugee Tsung): MS HKUST (GZ) (Prev. Tencent, Fall 2026)
 - [Jiayu Yang](https://yjywdzh.github.io/) (Co-supervised with Prof. Chengwei Qin): MS HKUST (GZ) (Prev. Tencent Hunyuan, Fall 2026)
-- [Mengyi Deng](https://demi-deng2.github.io/) (Co-supervised with Prof. Wei Wang): MS HKUST (GZ) (Fall 2024)
-- Yingping Wang (Co-supervised with Prof. Jiayi Huang): MS from Shenzhen University (Spring 2025)
+- Yingping Wang (Co-supervised with Prof. Jiayi Huang): MS from SZU (Spring 2025)
+- - [Mengyi Deng](https://demi-deng2.github.io/) (Co-supervised with Prof. Wei Wang): MS HKUST (GZ) (Fall 2024)
 
-## Mphils
-- Hangyu Ran: BS Central South University (Prev. Inclusion AI; Fall 2026)
-- Jiaqi Yuan: BS University of Electronic Science and Technology of China (Prev. Ant Group Ling; Fall 2026)
-- Zehang Luo: BS China University of Geosciences (Prev. SenseTime; Fall 2026)
-- [Zilin Wang](https://terr1blec.github.io/): BS Harbin Institute of Technology (Shenzhen) (Fall 2025)
-- Chao Chen: BS Shanghai Jiao Tong University (Fall 2025)
-- Baiyu Huang: BS Peking University (Fall 2025)
-- [Chenyu Yuan](https://chenyuy001.github.io/) (Co-supervised with Prof. Jiayi Huang): BS Harbin Institute of Technology (Fall 2025)
+## MPhils
+- Hangyu Ran: BS CSU (Prev. Ant Group Ming; Fall 2026)
+- Jiaqi Yuan: BS UESTC (Prev. Ant Group Ling; Fall 2026)
+- Zehang Luo: BS CUG (Prev. SenseTime; Fall 2026)
+- [Zilin Wang](https://terr1blec.github.io/): BS HIT (SZ) (Fall 2025)
+- Chao Chen: BS SJTU (Fall 2025)
+- Baiyu Huang: BS PKU (Fall 2025)
+- [Chenyu Yuan](https://chenyuy001.github.io/) (Co-supervised with Prof. Jiayi Huang): BS HIT (Fall 2025)
 
 
 
 ---
 ## Alumni
 I was fortunate to work with the following talented students/interns:
-- [Jiayu Yang](https://yjywdzh.github.io/) (Co-supervised with Prof. Yutao Yue): Mphil (Intern at Tencent Hunyuan, Fall 2024), to PhD at HKUST (GZ)
-- [Xiao Zhu](https://hexagonstar.github.io/) (Co-supervised with Prof. Yanlin Zhang): Mphil (Intern at Zhipu AI, Fall 2024)
+- [Jiayu Yang](https://yjywdzh.github.io/) (Co-supervised with Prof. Yutao Yue): MPhil (Intern at Tencent Hunyuan, Fall 2024), to PhD at HKUST (GZ)
+- [Xiao Zhu](https://hexagonstar.github.io/) (Co-supervised with Prof. Yanlin Zhang): MPhil (Intern at Zhipu AI, Fall 2024)
 
 
 ### Before HKUST (GZ)
