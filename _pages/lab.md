@@ -14,7 +14,6 @@ Check our lab homepage: [Lark Lab (Language Agent Reasoning & Knowledge))](https
 ## Interns/RAs/Visitors
 
 - [Langqi Liu](https://liurunky.github.io/): MS Nanjing University
-- Boyu Zhu: MS University College London
 - [Zhongzhi Li](https://zzli2022.github.io/): PhD Chinese Academy of Sciences
 
 
@@ -22,25 +21,36 @@ Check our lab homepage: [Lark Lab (Language Agent Reasoning & Knowledge))](https
 - [Zhiwei Li](https://digbangbang.github.io/): MS Fudan University (Prev. Meituan, With Tencent Hunyuan, Fall 2025)
 - [Xinyu Zhou](https://blackzxy.github.io/): MS Swiss Federal Technology Institute of Lausanne  (Prev. Shanghai AI Lab; KwaiPilot; With Meituan LongCat, Fall 2025)
 - [Minrui Xu](https://rolandminrui.github.io/rolandminrui-homepage/): BS Hong Kong University of Science and Technology (Prev. MSRA, With ByteDance, Spring 2026)
-- [Haocheng Wang](https://scholar.google.com/citations?user=HLJz8yIAAAAJ&hl=en): BS Xiamen University (Prev. DeepSeek AI; ByteDance Research; Visit ETH Zurich, Spring 2026)
+- [Haocheng Wang](https://scholar.google.com/citations?user=HLJz8yIAAAAJ&hl=en): BS Xiamen University (Prev. DeepSeek AI; ByteDance Seed; Visit ETH Zurich, Spring 2026)
 - Qingsong Lyu: MS Tsinghua University (Prev. Ant Group, Fall 2026)
 - Yilong Xu: MS Chinese Academy of Sciences (Prev. Alibaba, Fall 2026)
 - Zhuang Yu: MS Shanghai Jiao Tong University (Prev. Huawei, Fall 2026)
-- Mengyi Deng (Co-supervise with Prof. Wei Wang): MS Hong Kong University of Science and Technology (Guangzhou) (Fall 2024)
-- Yingping Wang (Co-supervise with Prof. Jiayi Huang): MS from Shenzhen University (Spring 2025)
+
+### Co-supervision
+- [Songxin Lei](https://thunderlrr.github.io/songxinlei.github.io/) (Co-supervised with Prof. Fugee Tsung): MS HKUST (GZ) (Prev. Tencent, Fall 2026)
+- [Jiayu Yang](https://yjywdzh.github.io/) (Co-supervised with Prof. Chengwei Qin): MS HKUST (GZ) (Prev. Tencent Hunyuan, Fall 2026)
+- [Mengyi Deng](https://demi-deng2.github.io/) (Co-supervised with Prof. Wei Wang): MS HKUST (GZ) (Fall 2024)
+- Yingping Wang (Co-supervised with Prof. Jiayi Huang): MS from Shenzhen University (Spring 2025)
 
 ## Mphils
+- Hangyu Ran: BS Central South University (Prev. Inclusion AI; Fall 2026)
+- Jiaqi Yuan: BS University of Electronic Science and Technology of China (Prev. Ant Group Ling; Fall 2026)
+- Zehang Luo: BS China University of Geosciences (Prev. SenseTime; Fall 2026)
 - [Zilin Wang](https://terr1blec.github.io/): BS Harbin Institute of Technology (Shenzhen) (Fall 2025)
 - Chao Chen: BS Shanghai Jiao Tong University (Fall 2025)
 - Baiyu Huang: BS Peking University (Fall 2025)
-- [Chenyu Yuan](https://chenyuy001.github.io/) (Co-supervise with Prof. Jiayi Huang): BS Harbin Institute of Technology (Fall 2025)
-- [Xiao Zhu](https://hexagonstar.github.io/) (Co-supervise with Prof. Yanlin Zhang): BS Beijing University of Posts and Telecommunications (Intern at Zhipu AI, Fall 2024)
-- [Jiayu Yang](https://yjywdzh.github.io/) (Co-supervise with Prof. Yutao Yue): BS Chongqing University (Intern at Tencent Hunyuan, Fall 2024)
+- [Chenyu Yuan](https://chenyuy001.github.io/) (Co-supervised with Prof. Jiayi Huang): BS Harbin Institute of Technology (Fall 2025)
+
 
 
 ---
 ## Alumni
 I was fortunate to work with the following talented students/interns:
+- [Jiayu Yang](https://yjywdzh.github.io/) (Co-supervised with Prof. Yutao Yue): Mphil (Intern at Tencent Hunyuan, Fall 2024), to PhD at HKUST (GZ)
+- [Xiao Zhu](https://hexagonstar.github.io/) (Co-supervised with Prof. Yanlin Zhang): Mphil (Intern at Zhipu AI, Fall 2024)
+
+
+### Before HKUST (GZ)
 - Andrew Georgiou: Master at University of Cambridge, to Google Zurich
 - [Caiqi Zhang](https://caiqizh.github.io/): Master at University of Cambridge, to PhD at Cambridge
 - Henry Caushi: Undergrad at University of Cambridge, to Instructor at Warwick
@@ -51,8 +61,9 @@ I was fortunate to work with the following talented students/interns:
 - [Rongwu Xu](https://rongwuxu.com/): Master at Tsinghua University, to PhD at University of Washington
 - [Dong Huang](https://huangd1999.github.io/): PhD at University of Hong Kong, to Postdoctoral Researcher at National University of Singapore
 - [Fengwei Teng](https://qixucen.github.io/): Bachelor from Renmin University of China, to Research Engineer at MBZUAI
-- [Yuxuan Yao](https://scholar.google.com.hk/citations?user=PLe5qQEAAAAJ&hl=zh-CN): PhD at City University of Hong Kong
+- [Yuxuan Yao](https://scholar.google.com.hk/citations?user=PLe5qQEAAAAJ&hl=zh-CN): PhD at City University of Hong Kong, to Researcher at Huawei Noah's Ark (Hong Kong)
 - [Chunlin Tian](https://clin0212.github.io/): PhD at University of Macau
 - [Zhicheng Yang](https://yangzhch6.github.io/): PhD at Hong Kong University of Science and Technology (Guangzhou)
 - [Yunlong Feng](https://resume.alongwy.top/#anchor_about): PhD at Harbin Institute of Technology
 - Yebo Wu: PhD at University of Macau
+- Boyu Zhu: MS University College London
