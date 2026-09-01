@@ -27,19 +27,20 @@ Check our lab homepage: [LARK Lab (Language Agent Reasoning & Knowledge))](https
 - Zhuang Yu: MS SJTU (Prev. Huawei, Fall 2026)
 
 ### Co-supervision
-- [Songxin Lei](https://thunderlrr.github.io/songxinlei.github.io/) (Co-supervised with Prof. Fugee Tsung): MS HKUST (GZ) (Prev. Tencent, Fall 2026)
-- [Jiayu Yang](https://yjywdzh.github.io/) (Co-supervised with Prof. Chengwei Qin): MS HKUST (GZ) (Prev. Tencent Hunyuan, Fall 2026)
+- [Mengyi Deng](https://demi-deng2.github.io/) (Co-supervised with Prof. Wei Wang): MS HKUST (GZ) (Fall 2024)
 - Yingping Wang (Co-supervised with Prof. Jiayi Huang): MS from SZU (Spring 2025)
-- - [Mengyi Deng](https://demi-deng2.github.io/) (Co-supervised with Prof. Wei Wang): MS HKUST (GZ) (Fall 2024)
+- [Jiayu Yang](https://yjywdzh.github.io/) (Co-supervised with Prof. Chengwei Qin): MS HKUST (GZ) (Prev. Tencent Hunyuan, Fall 2026)
+- [Songxin Lei](https://thunderlrr.github.io/songxinlei.github.io/) (Co-supervised with Prof. Fugee Tsung): MS HKUST (GZ) (Prev. Tencent, Fall 2026)
+
 
 ## MPhils
-- Hangyu Ran: BS CSU (Prev. Ant Group Ming; Fall 2026)
-- Jiaqi Yuan: BS UESTC (Prev. Ant Group Ling; Fall 2026)
-- Zehang Luo: BS CUG (Prev. SenseTime; Fall 2026)
 - [Zilin Wang](https://terr1blec.github.io/): BS HIT (SZ) (Fall 2025)
 - Chao Chen: BS SJTU (Fall 2025)
 - Baiyu Huang: BS PKU (Fall 2025)
 - [Chenyu Yuan](https://chenyuy001.github.io/) (Co-supervised with Prof. Jiayi Huang): BS HIT (Fall 2025)
+- [Hangyu Ran](https://hangyuran.github.io/): BS CSU (Prev. Ant Group Ming; Fall 2026)
+- [Jiaqi Yuan](https://anpu2003.github.io/): BS UESTC (Prev. Ant Group Ling; Fall 2026)
+- Zehang Luo: BS CUG (Prev. SenseTime; Fall 2026)
 
 
 
