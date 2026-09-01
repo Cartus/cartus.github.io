@@ -1,6 +1,58 @@
 ---
 ---
 
+@inproceedings{zhou2026qk,
+  abbr={EMNLP},
+  title={Attention Amnesia in Hybrid LLMs: When CoT Fine-Tuning Breaks Long-Range Recall, and How to Fix It},
+  author={Xinyu Zhou* and Boyu Zhu* and Yi Xu and Zhiwei Li and Yingfa Chen and Huiming Wang† and Zhijiang Guo†},
+  booktitle={EMNLP},
+  year={2026},
+  html       = {https://arxiv.org/pdf/2606.11052},
+  code       = {https://github.com/LARK-AI-Lab/QK-Restore},
+  selected   = {true},
+  preview = {QK.png},
+  annotation   = {* denotes Equal Contribution. † denotes Corresponding Author.},
+  abstract = {Chain-of-thought (CoT) supervised fine-tuning (SFT) is widely adopted to improve reasoning ability, yet we find that it systematically degrades long-context recall in hybrid linear-attention models. Across architectures including HypeNet and Jet-Nemotron, retrieval performance on Needle-In-A-Haystack (NIAH) deteriorates substantially after CoT-SFT, and the degradation becomes more severe under harder retrieval settings and longer context windows. For example, HypeNet-9B on NIAH-S2@256K decreases from 67.2% to 9.4%. We attribute this to CoT-SFT biasing attention gradients toward short-range patterns, disrupting query-key projections (WQ,WK) that are responsible for long-range routing. Motivated by this observation, we propose QK-Restore, a training-free method that restores only WQ and WK from the pre-SFT checkpoint while preserving all other post-SFT parameters. We further introduce a Procrustes variant to balance routing preservation and reasoning adaptation. Across architectures, QK-Restore consistently restores long-context capability at zero training cost while preserving reasoning performance; for instance, on HypeNet-5B it improves S3@256K from 65.4% to 76.4% while maintaining strong reasoning performance.}
+}
+
+@inproceedings{deng2026reskill,
+  abbr={EMNLP},
+  title={ReSkill: Explicit Failure Attribution and Structured Repair for Interactive Language Agents},
+  author={Mengyi Deng and Xin Li and Duyi Pan and Zilin Wang and Zhiwei Li and Zhijiang Guo† and Wei Wang†},
+  booktitle={EMNLP},
+  year={2026},
+  selected   = {false},
+  preview = {ReSkill.png},
+  annotation   = {* denotes Equal Contribution. † denotes Corresponding Author.},
+  abstract = {Language agents increasingly rely on reusable skills, but post-failure repair is often handled by opaque one-shot reflection: a model generates a skill patch without explicitly maintaining how failure explanations relate to candidate repairs or how unsuccessful retests should influence later edits. We introduce RESKILL, a structured repair framework that maintains an explicit repair state across repair rounds. Given a failed rollout, the framework links failure hypotheses to candidate skill patches, selects local repairs through coverage-based attribution, retests the edited skill set in the environment, and uses retest outcomes to guide subsequent repair updates. The language model supplies structured repair factors, while the repair procedure records them, compares local skill patches by how well they address active failure explanations, and carries unsuccessful retest outcomes into later repair rounds. We evaluate RESKILL on ALFWorld and TextCraft across three model sizes under fixed repair budgets. RESKILL obtains the strongest final success in all six benchmark–model settings, improving average final success by 3.7 percentage points over direct repair and 3.3 points over hypothesis-conditioned repair. These results suggest that explicit attribution alone is insufficient; durable improvement emerges when attribution is integrated with repair selection and persistent retest-conditioned update.}
+}
+
+@inproceedings{yang2026switch,
+  abbr={EMNLP},
+  title={Demystifying Hidden-State Recurrence: Switchable Latent Reasoning with On-Policy Reinforcement Learning},
+  author={Jiayu Yang* and Chao Chen* and Shengen Wu* and Yinhong Liu and Yuxuan Fan and Lujundong Li and Songning Lai and Chengwei Qin† and Zhijiang Guo†},
+  booktitle={Findings of EMNLP},
+  year={2026},
+  html       = {https://arxiv.org/pdf/2606.13106},
+  code       = {https://github.com/LARK-AI-Lab/SWITCH},
+  selected   = {false},
+  preview = {Switch.png},
+  annotation   = {* denotes Equal Contribution. † denotes Corresponding Author.},
+  abstract = {Latent chain-of-thought compresses reasoning by replacing visible reasoning traces with continuous hidden-state recurrence, but existing formulations are difficult to optimize with standard on-policy reinforcement learning (RL) and hard to interpret causally. Our key insight is that a single pair of explicit boundary tokens can address both issues at once: discrete entry and exit anchors make the latent block compatible with standard on-policy RL, and the same anchors offer a natural foothold for mechanistic analysis. Motivated by this, we propose SWITCH, a switchable latent reasoning framework. The model emits <swi> to enter latent mode and </swi> to exit. Because the boundaries are ordinary discrete tokens, the GRPO policy ratio is well-defined at every decision point. The same anchors also expose the latent steps to direct probing and causal intervention. We train the model with a visible-to-latent curriculum and a Switch-GRPO objective that propagates gradients through recurrent latent computation. SWITCH consistently outperforms prior hidden-state-recurrence latent reasoning approaches at similar scale. Mechanistic analysis through the boundary tokens further reveals three findings: (i) <swi> is a sharply localised, learned switching policy rather than a stylistic artefact; (ii) the latent step it opens performs problem-specific, causally important computation rather than acting as an inert placeholder; and (iii) that computation is concentrated at a single hidden-state transition on entry. Together, these results show that hidden-state-recurrence latent reasoning is both RL-trainable and open to direct mechanistic analysis, including of how on-policy RL itself improves the model from the inside.}
+}
+
+@inproceedings{Teng2026skpo,
+  abbr={EMNLP},
+  title={Skip-Connected Policy Optimization for Implicit Advantage},
+  author={Fengwei Teng* and Jinyi Bai* and Xinhao Yao and Demi Ruohan Wang and Jiahao Zhao and Zhijiang Guo},
+  booktitle={Findings of EMNLP},
+  year={2026},
+  html       = {https://arxiv.org/pdf/2604.08690},
+  selected   = {false},
+  preview = {SKPO.png},
+  annotation   = {* denotes Equal Contribution. † denotes Corresponding Author.},
+  abstract = {Group Relative Policy Optimization (GRPO) has proven effective in RLVR by using outcome-based rewards. While fine-grained dense rewards can theoretically improve performance, we reveal that under practical sampling budgets, Monte Carlo estimation yields high-variance and sign-inconsistent advantages for early reasoning tokens, paradoxically underperforming outcome-only GRPO. We propose Skip-Connected Optimization (SKPO), which decomposes reasoning into upstream and downstream phases: upstream receives dense rewards from downstream Monte Carlo sampling with single-stream optimization; downstream maintains group-relative optimization, where a skip connection concatenates the upstream segment with the original problem, enabling the model to leverage helpful upstream reasoning while preserving the freedom to bypass flawed reasoning through direct problem access. Experiments demonstrate improvements of 3.91% and 6.17% relative gains over the strongest baselines on Qwen2.5-Math-7B and Llama-3.2-3B respectively across mathematical benchmarks and out-of-domain tasks including general reasoning and code generation. Further analysis reveals an implicit advantage: SKPO generates trajectories with higher intermediate-step quality even when matched for final correctness.}
+}
 
 
 
@@ -807,7 +859,7 @@
   year={2024},
   html       = {https://arxiv.org/pdf/2310.05177},
   code       = {https://github.com/THU-BPM/Pinocchio},
-  selected   = {true},
+  selected   = {false},
   preview = {Pino.png},
   annotation   = {* denotes Equal Contribution. † denotes Corresponding Author.},
   abstract = {Large language models (LLMs) have recently driven striking performance improvements across a range of natural language processing tasks. The factual knowledge acquired during pretraining and instruction tuning can be useful in various downstream tasks, such as question answering, and language generation. Unlike conventional Knowledge Bases (KBs) that explicitly store factual knowledge, LLMs implicitly store facts in their parameters. Content generated by the LLMs can often exhibit inaccuracies or deviations from the truth, due to facts that can be incorrectly induced or become obsolete over time. To this end, we aim to explore the extent and scope of factual knowledge within LLMs by designing the benchmark Pinocchio. Pinocchio contains 20K diverse factual questions that span different sources, timelines, domains, regions, and languages. Furthermore, we investigate whether LLMs can compose multiple facts, update factual knowledge temporally, reason over multiple pieces of facts, identify subtle factual differences, and resist adversarial examples. Extensive experiments on different sizes and types of LLMs show that existing LLMs still lack factual knowledge and suffer from various spurious correlations. We believe this is a critical bottleneck for realizing trustworthy artificial intelligence. The dataset Pinocchio and our codes are publicly available at: https://github.com/THU-BPM/Pinocchio.}
@@ -853,7 +905,7 @@
   html       = {Existing datasets for automated fact-checking have substantial limitations, such as relying on artificial claims, lacking annotations for evidence and intermediate reasoning, or including evidence published after the claim. In this paper we introduce AVeriTeC, a new dataset of 4,568 real-world claims covering fact-checks by 50 different organizations. Each claim is annotated with question-answer pairs supported by evidence available online, as well as textual justifications explaining how the evidence combines to produce a verdict. Through a multi-round annotation process, we avoid common pitfalls including context dependence, evidence insufficiency, and temporal leakage, and reach a substantial inter-annotator agreement of κ=0.619 on verdicts. We develop a baseline as well as an evaluation scheme for verifying claims through several question-answering steps against the open web.},
   code       = {https://github.com/MichSchli/AVeriTeC},
   website    = {https://fever.ai/dataset/averitec.html},
-  selected   = {true},
+  selected   = {false},
   preview = {avtec.png},
   annotation   = {* denotes Equal Contribution.},
   abstract = {Existing datasets for automated fact-checking have substantial limitations, such as relying on artificial claims, lacking annotations for evidence and intermediate reasoning, or including evidence published after the claim. In this paper we introduce AVeriTeC, a new dataset of 4,568 real-world claims covering fact-checks by 50 different organizations. Each claim is annotated with question-answer pairs supported by evidence available online, as well as textual justifications explaining how the evidence combines to produce a verdict. Through a multi-round annotation process, we avoid common pitfalls including context dependence, evidence insufficiency, and temporal leakage, and reach a substantial inter-annotator agreement of κ=0.619 on verdicts. We develop a baseline as well as an evaluation scheme for verifying claims through several question-answering steps against the open web.}
