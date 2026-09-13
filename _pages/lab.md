@@ -38,6 +38,7 @@ Check our lab homepage: [LARK Lab (Language Agent Reasoning & Knowledge))](https
 - Chao Chen: BS SJTU (Fall 2025)
 - Baiyu Huang: BS PKU (Fall 2025)
 - [Chenyu Yuan](https://chenyuy001.github.io/) (Co-supervised with Prof. Jiayi Huang): BS HIT (Fall 2025)
+- [Haiying Xu](https://cyborvirtue.github.io/): BS NKU (Prev. Shanghai AI Lab; Fall 2026)
 - [Hangyu Ran](https://hangyuran.github.io/): BS CSU (Prev. Ant Group Ming; Fall 2026)
 - [Jiaqi Yuan](https://anpu2003.github.io/): BS UESTC (Prev. Ant Group Ling; Fall 2026)
 - Zehang Luo: BS CUG (Prev. SenseTime; Fall 2026)
