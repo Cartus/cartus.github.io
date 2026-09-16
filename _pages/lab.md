@@ -31,6 +31,7 @@ Check our lab homepage: [LARK Lab (Language Agent Reasoning & Knowledge))](https
 - Yingping Wang (Co-supervised with Prof. Jiayi Huang): MS from SZU (Spring 2025)
 - [Jiayu Yang](https://yjywdzh.github.io/) (Co-supervised with Prof. Chengwei Qin): MS HKUST (GZ) (Prev. Tencent Hunyuan, Fall 2026)
 - [Songxin Lei](https://thunderlrr.github.io/songxinlei.github.io/) (Co-supervised with Prof. Fugee Tsung): MS HKUST (GZ) (Prev. Tencent, Fall 2026)
+- [Yuhang Han](https://kawhiiiileo.github.io/) (Co-supervised with Prof. Linfeng Zhang from SJTU) (Fall 2026)
 
 
 ## MPhils
