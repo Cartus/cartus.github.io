@@ -1,6 +1,34 @@
 ---
 ---
 
+@inproceedings{zhu2026codescaler,
+  abbr={NeurIPS},
+  title={CodeScaler: Scaling Code LLM Training and Test-Time Inference via Reward Models},
+  author={Xiao Zhu* and Xinyu Zhou* and Boyu Zhu and Hanxu Hu and Mingzhe Du and Haotian Zhang and Huiming Wang† and Zhijiang Guo†},
+  booktitle={NeurIPS},
+  year={2026},
+  html = {https://arxiv.org/abs/2602.17684},
+  code = {https://github.com/LARK-AI-Lab/CodeScaler},
+  website = {https://lark-ai-lab.github.io/codescaler.github.io/},
+  selected = {true},
+  preview = {CodeScaler.png},
+  annotation = {* denotes Equal Contribution. † denotes Corresponding Author.},
+  abstract = {Reinforcement Learning from Verifiable Rewards (RLVR) has driven recent progress in code large language models by leveraging execution-based feedback from unit tests, but its scalability is fundamentally constrained by the availability and reliability of high-quality test cases. We propose CodeScaler, a reward model designed to scale both reinforcement learning training and test-time inference for code generation. CodeScaler is trained on carefully curated preference data derived from verified code problems and incorporates syntax-aware code extraction and validity-preserving reward shaping to ensure stable and robust optimization. Across four coding benchmarks, CodeScaler consistently outperforms execution-based RL by +1.55 points on Qwen3-8B-Base and +4.23 points on Qwen3-14B-Base. By further scaling to 44K problems with additional synthetic data, CodeScaler yields +14.64 points improvement over the base model without requiring any test cases. At inference time, CodeScaler serves as an effective test-time scaling method, achieving performance comparable to unit test approaches while providing a 10-fold reduction in latency. Moreover, CodeScaler surpasses existing reward models on RM-Bench not only in the code domain (+3.3 points), but also in general and reasoning domains (+2.7 points on average).}
+}
+
+@inproceedings{kwok2026tabalign,
+  abbr={NeurIPS},
+  title={From Table to Cell: Attention for Better Reasoning with TABALIGN},
+  author={Tung Sum Thomas Kwok and Zeyong Zhang and Xinyu Wang and Chunhe Wang and Xiaofeng Lin and Hanwei Wu and Lei Ding and Guang Cheng and Zhijiang Guo†},
+  booktitle={NeurIPS},
+  year={2026},
+  html = {https://arxiv.org/abs/2605.14465},
+  selected = {false},
+  preview = {TabAlign.png},
+  annotation = {† denotes Corresponding Author.},
+  abstract = {Multi-step LLM reasoning over structured tables fails because planning and execution share no explicit cell-grounding contract. Existing methods constrain the planner to a left-to-right factorization at odds with table permutation invariance, and score intermediate states by generated content alone, overlooking cell grounding. We conduct a pilot study showing that diffusion language models (DLMs) produce more human-aligned and permutation-stable cell attention on tables than autoregressive models, with a 40.2\% median reduction in attention-AUROC variability under row reordering. Motivated by this, we propose TABALIGN, a planned table reasoning framework that operationalizes the contract. TABALIGN pairs a masked DLM planner, whose bidirectional denoising emits plan steps as binary cell masks, with TABATTN, a lightweight verifier trained on 1,600 human-verified attention standards to score each step by its attention overlap with the plan-designated mask. Across eight benchmarks covering table question answering and fact verification, TABALIGN improves average accuracy by 15.76 percentage points over the strongest open-source baseline at comparable 8B-class scale, with a matched-backbone ablation attributing 2.87 percentage points of this gain to the DLM planner over an AR planner on a fixed reasoner. Cleaner DLM plans also accelerate downstream reasoning execution by 44.64\%.}
+}
+
 @inproceedings{zhou2026qk,
   abbr={EMNLP},
   title={Attention Amnesia in Hybrid LLMs: When CoT Fine-Tuning Breaks Long-Range Recall, and How to Fix It},
