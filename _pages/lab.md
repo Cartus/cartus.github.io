@@ -9,7 +9,7 @@ nav_order: 3
 
 ---
 
-Check our lab homepage: [LARK Lab (Language Agent Reasoning & Knowledge))](https://lark-lab-hkustgz.github.io/)
+Check our lab homepage: [LARK Lab (Language Agent Reasoning & Knowledge)](https://lark-lab-hkustgz.github.io/)
 
 ## Interns/RAs/Visitors
 
@@ -22,9 +22,9 @@ Check our lab homepage: [LARK Lab (Language Agent Reasoning & Knowledge))](https
 - [Xinyu Zhou](https://blackzxy.github.io/): MS EPFL (Prev. Shanghai AI Lab; KwaiPilot; With Meituan LongCat, Fall 2025)
 - [Minrui Xu](https://rolandminrui.github.io/rolandminrui-homepage/): BS HKUST (Prev. MSRA, With ByteDance, Spring 2026)
 - [Haocheng Wang](https://scholar.google.com/citations?user=HLJz8yIAAAAJ&hl=en): BS XMU (Prev. DeepSeek AI, ByteDance Seed; Visit ETH Zurich, Spring 2026)
-- Qingsong Lyu: MS THU (Prev. Ant Group Ring, Fall 2026)
 - Yilong Xu: MS CAS (Prev. Alibaba, Fall 2026)
 - Zhuang Yu: MS SJTU (Prev. Huawei, Fall 2026)
+- Qingsong Lyu: MS THU (Prev. Ant Group Ring, Spring 2027)
 
 ### Co-supervision
 - [Mengyi Deng](https://demi-deng2.github.io/) (Co-supervised with Prof. Wei Wang): MS HKUST (GZ) (Fall 2024)
@@ -39,6 +39,7 @@ Check our lab homepage: [LARK Lab (Language Agent Reasoning & Knowledge))](https
 - Chao Chen: BS SJTU (Fall 2025)
 - Baiyu Huang: BS PKU (Fall 2025)
 - [Chenyu Yuan](https://chenyuy001.github.io/) (Co-supervised with Prof. Jiayi Huang): BS HIT (Fall 2025)
+- Shuangjie Fan: BS NEU (Fall 2026)
 - [Haiying Xu](https://cyborvirtue.github.io/): BS NKU (Prev. Shanghai AI Lab; Fall 2026)
 - [Hangyu Ran](https://hangyuran.github.io/): BS CSU (Prev. Ant Group Ming; Fall 2026)
 - [Jiaqi Yuan](https://anpu2003.github.io/): BS UESTC (Prev. Ant Group Ling; Fall 2026)
