@@ -10,7 +10,7 @@ nav_order: 4
 ---
 ## Academic Services
 
-- **Area Chair**: NeurIPS 2026, ICLR 2026, NeurIPS 2025, ICLR 2025, EMNLP 2024 (Machine Learning for NLP), ACL 2024 (Interpretability and Analysis), COLING 2024 (Machine Learning), EMNLP 2023 (NLP Application), EMNLP 2022 (Semantics)
+- **Area Chair**: ICML 2027, ICLR 2027, NeurIPS 2026, ICML 2026, ICLR 2026, NeurIPS 2025, ICLR 2025, EMNLP 2024 (Machine Learning for NLP), ACL 2024 (Interpretability and Analysis), COLING 2024 (Machine Learning), EMNLP 2023 (NLP Application), EMNLP 2022 (Semantics)
 - **Action Editor**: ACL ARR (2023-Present)
 - **Senior Program Committee**: AAAI 2024, AAAI 2023, IJCAI 2022
 - **Standing Reviewer**: Computational Linguistics 
