@@ -15,6 +15,7 @@ nav_order: 2
 
 <div class="publications">
 
-{% bibliography %}
+{% capture bibliography_content %}{% bibliography %}{% endcapture %}
+{{ bibliography_content | replace: '&lt;/ol&gt;', '' }}
 
 </div>
