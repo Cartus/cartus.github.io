@@ -15,6 +15,7 @@ Check our lab homepage: [LARK Lab (Language Agent Reasoning & Knowledge)](https:
 
 - [Langqi Liu](https://liurunky.github.io/): MS NJU
 - [Zhongzhi Li](https://zzli2022.github.io/): PhD CAS
+- Tengyuan Liu: MS Guangxi Academy of Artificial Intelligence
 
 
 ## PhDs
@@ -51,7 +52,7 @@ Check our lab homepage: [LARK Lab (Language Agent Reasoning & Knowledge)](https:
 ## Alumni
 I was fortunate to work with the following talented students/interns:
 - [Jiayu Yang](https://yjywdzh.github.io/) (Co-supervised with Prof. Yutao Yue): MPhil (Intern at Tencent Hunyuan, Fall 2024), to PhD at HKUST (GZ)
-- [Xiao Zhu](https://hexagonstar.github.io/) (Co-supervised with Prof. Yanlin Zhang): MPhil (Intern at Zhipu AI, Fall 2024)
+- [Xiao Zhu](https://hexagonstar.github.io/) (Co-supervised with Prof. Yanlin Zhang): MPhil (Intern at KwaiPilot and Zhipu GLM, Fall 2024), to Research Engineer at Zhipu GLM
 
 
 ### Before HKUST (GZ)
